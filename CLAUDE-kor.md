@@ -40,7 +40,7 @@
 5. 그 책에서 사용하는 섹션 구성/순서를 그대로 따릅니다 — 『절대 변하지 않는 것들』의 "상세 설명" 심층 분석 섹션을 『돈의 심리학』 챕터에 추가하거나 그 반대로 하지 않습니다.
 
 ## 자산 처리 규칙
-.env 파일에 CURRENCY=WON 와 TOTAL_ASSET, NET_ASSET, STOCK_ASSET 변수를 읽어서 자산 정보를 파악하세요
+@.env 파일에 CURRENCY=WON 와 TOTAL_ASSET, NET_ASSET, STOCK_ASSET 변수를 읽어서 자산 정보를 파악하세요
 답변 작성할 때는 TOTAL_ASSET, NET_ASSET, STOCK_ASSET 변수를 활용하지만, markdown 형식으로 작성할 때는 노출되지 않도록 000 억원으로 자산 정보를 표시하세요
 CURRENCY=WON
 TOTAL_ASSET=000000000

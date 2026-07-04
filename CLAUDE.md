@@ -40,7 +40,7 @@ Each book gets its own top-level directory, following the same pattern:
 5. Match the existing section count/order for that book — don't add Same-as-Ever's "상세 설명" deep-dive section to Psychology-of-Money chapters or vice versa.
 
 ## Asset Processing Rules
-Identify asset information by reading the CURRENCY=WON and TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables from the .env file.
+Identify asset information by reading the CURRENCY=WON and TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables from the @.env file.
 When writing the answer, use the TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables, but when writing in markdown format, display the asset information as 000 billion won so that it is not exposed.
 CURRENCY=WON
 TOTAL_ASSET=000000000
