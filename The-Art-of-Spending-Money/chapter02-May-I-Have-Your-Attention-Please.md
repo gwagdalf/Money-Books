@@ -146,9 +146,21 @@
 
 * **May I have your attention please** — "주목해 주시겠습니까". 안내 방송의 상투구를 제목으로 가져와, 소비의 숨은 목적이 '주목'임을 암시하는 언어유희.
 * **obituary** — 부고, 사망 기사. 이 장의 핵심 사고 실험 도구.
-* **vanity** — 허영. 애덤 스미스 인용문의 핵심어.
 * **durable** — 오래가는, 내구성 있는. 주의의 3변수 중 하나로, durable attention(지속되는 주의)처럼 쓰임.
 * **hubristic pride** — 오만한 자부심. 타인의 평가에 의존하는 외재적 자부심을 가리키는 심리학 용어. hubris(오만)에서 파생.
 * **the appetite for applause** — 박수에 대한 갈망. 판 데르 레이트의 인용문에서 '타인의 인정에 대한 굶주림'을 뜻함.
 * **resume virtues vs eulogy virtues** — 이력서 덕목 대 추도사 덕목. 데이비드 브룩스의 구분으로, 연봉·직함·소유물 대 사람들이 실제로 존경하는 인품.
 * **beep beep, vroom vroom** — 빵빵, 부릉부릉. 자동차 경적·엔진 의성어로, 물건으로 주의를 구걸하는 행동을 희화화한 표현.
+* view [A] as [B] : A를 B로 간주하다, A를 B라고 생각하다. nice stuff -> ticket to disire: attention — We view nice stuff as the ticket to what we actually desire: attention
+* **vanity** — 허영. 애덤 스미스 인용문의 핵심어.
+
+* vanity [ˈvænəti] 명사 1. 자만심, 허영심 She had no personal vanity.  그녀는 외모에 대한 자만심이 없었다.
+2. 헛됨, 무의미 the vanity of human ambition in the face of death 죽음 앞에서 무의미한 인간의 야망
+3. 자만, 허영 Politics is too often concerned only with the personal vanities of politicians. 정치학은 아주 흔히 정치인들의 개인적인 허영에 대해서만 관심이 있다.
+
+* **plunge** [plʌndʒ] 동사 1. (앞·아래로 갑자기) 거꾸러지다[거꾸러뜨리다] She lost her balance and plunged 100 feet to her death. 그녀는 몸의 균형을 잃고 100피트 아래로 거꾸러져 사망했다. 
+2. 급락하다 Stock markets plunged at the news of the coup. 그 쿠데타 소식에 주식 시장이 급락했다.
+3. 명사 (갑자기) 떨어져 내림[나감], 낙하 The calm water ends there and the river begins a headlong plunge. 조용한 물살은 거기서 끝이 나고 강이 곤두박이로 떨어져 내리기 시작한다.
+
+* **testimonial** [|testɪ│moʊniəl] 명사 1. (흔히 이전 고용주가 작성해 주는) 추천서, (어떤 것의 품질에 대한) 추천의 글 a glowing testimonial 열렬한 찬사를 담은 추천서 2. (존경·감사의 표시로 전하는) 기념물 a testimonial game (특정 선수를 위한 기금 마련용) 기념 경기
+- 감사 만찬회 : a testimonial dinner

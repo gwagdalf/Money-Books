@@ -1,3 +1,5 @@
+> [← 돈의 방정식 목차](./README.md)
+
 # Chapter 01. All Behavior Makes Sense with Enough Information
 
 ## 충분한 정보가 있으면 모든 행동은 이해된다
@@ -157,3 +159,5 @@
 * **rationalize** — 합리화하다. rational(합리적)과 대비되어 '사후 정당화'를 뜻함.
 * **yardstick** — [|jɑːrdstɪk] 잣대, 기준. 야드(yard) 단위 자에서 온 말로, 지위 비교의 척도를 비유.
 * **post-traumatic broke syndrome** — 빈곤 경험이 남긴 심리적 후유증. PTSD(외상 후 스트레스 장애)를 변형한 조어. broke는 '빈털터리인'.
+
+> [← 돈의 방정식 목차](./README.md)
