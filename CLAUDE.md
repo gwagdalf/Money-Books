@@ -38,3 +38,11 @@ Each book gets its own top-level directory, following the same pattern:
 3. Write in Korean, keep original English quotes verbatim when quoting the book, and always tie the analysis back to the owner's financial profile (see above), especially in the 나에게 적용하기 / 실행 원칙 sections.
 4. After adding or renaming a chapter file, update that book's `README.md` chapter table/index to keep links and titles in sync.
 5. Match the existing section count/order for that book — don't add Same-as-Ever's "상세 설명" deep-dive section to Psychology-of-Money chapters or vice versa.
+
+## Asset Processing Rules
+Identify asset information by reading the CURRENCY=WON and TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables from the .env file.
+When writing the answer, use the TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables, but when writing in markdown format, display the asset information as 000 billion won so that it is not exposed.
+CURRENCY=WON
+TOTAL_ASSET=000000000
+NET_ASSET=000000000
+STOCK_ASSET=000000000
