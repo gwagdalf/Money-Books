@@ -1,3 +1,5 @@
+> [← 돈의 방정식 목차](./README.md)
+
 # Chapter 07. The Rich and the Wealthy
 
 ## 부자와 진정한 부유함
