@@ -176,7 +176,7 @@
 > (인생이라는 사업의 본질은 추억을 쌓는 것이다. 결국 남는 건 그것뿐이다.)
 
 > "You retire on your memories. When you're too frail to do much of anything else, you can still look back on the life you've lived."
-> (당신은 결국 '추억'으로 은퇴 생활을 한다.)
+> (당신은 결국 '추억'으로 은퇴 생활을 한다. 몸이 너무 쇠약해져서 다른 일을 거의 할 수 없을 때에도, 살아온 삶을 되돌아볼 수는 있습니다.)
 
 > "Money is just a means to an end. Having money helps you to achieve the more important goal of enjoying your life."
 > (돈은 수단일 뿐이다. 목적은 인생을 즐기는 것이다.)
