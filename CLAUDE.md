@@ -39,6 +39,13 @@ Each book gets its own top-level directory, following the same pattern:
 4. After adding or renaming a chapter file, update that book's `README.md` chapter table/index to keep links and titles in sync.
 5. Match the existing section count/order for that book — don't add Same-as-Ever's "상세 설명" deep-dive section to Psychology-of-Money chapters or vice versa.
 
+## Markdown Formatting Rules
+
+- Never write a bare `~` (tilde) for numeric/age ranges (e.g. "5~10년", "26~35세", "2~3%"). Some Markdown renderers interpret a lone `~` as a strikethrough delimiter, so two or more of them in the same paragraph cause the text between them to render with an unintended cancelline (strikethrough).
+- Always escape it as `\~` instead — e.g. write `5\~10년`, `26\~35세`, `2\~3%`. This renders as a plain tilde with no formatting side effects.
+- This does not apply inside fenced code blocks (```` ``` ````), since Markdown inline syntax isn't parsed there.
+- When editing or reviewing any existing chapter file, fix any bare range-tildes you encounter to use the `\~` form.
+
 ## Asset Processing Rules
 Identify asset information by reading the CURRENCY=WON and TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables from the @.env file.
 When writing the answer, use the TOTAL_ASSET, NET_ASSET, and STOCK_ASSET variables, but when writing in markdown format, display the asset information as 000 billion won so that it is not exposed.
