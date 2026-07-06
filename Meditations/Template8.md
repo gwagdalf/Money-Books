@@ -40,19 +40,19 @@
 
 ## 출력 파일명
 
-bookXX-{English Thematic Title}.md
+chapterXX-{English Thematic Title}.md
 
 예시:
 
-book01-Debts-and-Lessons.md
+chapter01-Debts-and-Lessons.md
 
-book02-Among-the-Quadi.md
+chapter02-Among-the-Quadi.md
 
-book04-The-Obstacle-Is-the-Way.md
+chapter04-The-Inner-Citadel.md
 
-book09-Kinship-and-Forgiveness.md
+chapter09-Kinship-and-Forgiveness.md
 
-book12-Final-Reflections.md
+chapter12-Final-Reflections.md
 
 ※ 『명상록』은 원전 자체에 각 권의 공식 소제목이 없다 (2권 "콰디족 진영에서", 3권 "카르눈툼에서"는 필사본에 실제로 남아있는 집필 장소 기록이며, 그 외 권의 제목은 학자들이 흔히 붙이는 특징적 주제명이다). 따라서 파일명의 영문 제목은 아래 "권 구성" 표에 제시된 특징적 이름을 그대로 사용한다.
 ※ 이 책 `README.md`가 아직 없다면, 새 챕터 파일을 만들 때 이 템플릿의 "권 구성" 표를 잠정적 목차 기준으로 삼고, 추후 README.md를 만들 때 그 표와 파일명을 정확히 일치시킨다.
@@ -63,7 +63,7 @@ book12-Final-Reflections.md
 1. Debts and Lessons (감사와 빚 — 가족과 스승들에게 받은 성품과 가르침의 목록)
 2. Among the Quadi at the Granova (콰디족 진영에서 — 삶의 유한함, 죽음을 눈앞에 두는 연습)
 3. At Carnuntum (카르눈툼에서 — 현재 순간에 집중하기, 인식·행동·의지의 훈육)
-4. The Obstacle Is the Way (장애물이 곧 길이다 — 변화하는 우주, 내면이라는 요새)
+4. The Inner Citadel (내면의 요새 — 변화하는 우주, 내면이야말로 외부 혼란에서 물러날 유일한 안식처)
 5. Duties at Dawn (아침의 다짐 — 인간은 서로를 위해 태어났다는 사회적 유대론)
 6. Providence or Atoms (섭리와 원자 사이 — 자연과의 조화)
 7. The View From Above (저 위에서 내려다보기 — 변화의 수용)
@@ -77,7 +77,7 @@ book12-Final-Reflections.md
 
 ## 출력 형식 (Markdown)
 
-# Book XX. {영문 특징적 제목}
+# Chapter XX. {영문 특징적 제목}
 
 ## {한글 특징적 제목}
 
