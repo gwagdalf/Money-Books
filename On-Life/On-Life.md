@@ -19,7 +19,7 @@
 | **장르** | 철학·종교 논고 (연속된 논증 형식의 에세이) — 소설이 아님 |
 | **구성** | 서문 + 본문 35개 장(결번 없이 I\~XXXV 완결) + 결론 + 부록 3편 |
 | **검열·수용사** | 제정 러시아 당국에 의해 억압되었고, 러시아 정교회 지도부로부터 이단적이라는 공격을 받았으며, 훗날 스탈린 체제 아래에서도 검열 대상이 되었다 |
-| **한국에서 흔한 오해** | 한국에서 『톨스토이 인생론』이라는 제목으로 통용되는 책이 이 책이 아니라, 톨스토이의 날짜별 잠언집 『독서의 순환(Круг чтения)』(영역 『A Calendar of Wisdom』)을 가리키는 경우도 흔하다. **이 문서가 다루는 책은 1887년에 완성된 철학 논고 『인생론(О жизни, On Life)』이며, 알랭 드 보통의 『Status Anxiety』(지위 인생론)와도 전혀 다른 별개의 책이다.** |
+| **한국에서 흔한 오해** | 한국에서 『톨스토이 인생론』이라는 제목으로 통용되는 책이 이 책이 아니라, 톨스토이의 날짜별 잠언집 『독서의 순환(Круг чтения)』(영역 『A Calendar of Wisdom』)을 가리키는 경우도 흔하다. **이 문서가 다루는 책은 1887년에 완성된 철학 논고 『인생론(О жизни, On Life)』이다.** |
 
 ---
 
@@ -48,46 +48,46 @@
 
 『인생론』은 날짜별 잠언집인 『지혜의 캘린더』와 달리, 하나의 논증이 처음부터 끝까지 이어지는 **연속된 철학 논고**다. The Free Age Press(Christchurch, Hants) 발행 영역 완역본(archive.org 식별자 `onlife188800tolsrich`, 원문 대조 확인) 기준 구성은 다음과 같다.
 
-| 장 | 제목 (영문) |
-|----|-------------|
-| **서문** | Introduction |
-| **I** | The Essential Contradiction Inherent in Human Life |
-| **II** | Humanity Has Recognized from the Earliest Days the Contradiction of Life. Wise Men Who Have Enlightened Humanity Have Given to the World Definitions of Life Explaining This Intrinsic Contradiction, but the Pharisees and Scribes Conceal It |
-| **III** | The Errors of the Scribes |
-| **IV** | The Doctrine of the Scribes Substitutes the Visible Manifestation of Man's Animal Existence for the Conception of the Complete Life of Man, and Draws from These Manifestations Deductions as to the Aim of Life |
-| **V** | The False Doctrines of the Pharisees and Scribes No More Explain the True Meaning of Life Than They Give Guidance in It. Custom Without Any Reasonable Explanation Is the Sole Guide of Life |
-| **VI** | The Division in the Consciousness of the Men of Our Time |
-| **VII** | The Division of Consciousness Proceeds from the Confusion of the Animal Life with the Human |
-| **VIII** | The Division and the Contradiction Are Only Apparent: They Are the Consequence of False Doctrine |
-| **IX** | The Birth of the True Life in Man |
-| **X** | Reason Is the Law Recognized by Man, in Conformity with Which His Life Must Be Perfected |
-| **XI** | False Direction of Knowledge |
-| **XII** | The Cause of False Knowledge Is the False Perspective in Which Objects Appear |
-| **XIII** | The Possibility of Understanding Objects Increases Not in Proportion to Their Manifestation in Time and Space, but Rather by Reason of the Unity of the Law Governing the Objects We Are Studying, and Ourselves |
-| **XIV** | The True Human Life Is Not That Which Is Lived in Time and Space |
-| **XV** | The Renunciation of the Well-Being of the Animal Individuality Is the Law of Human Life |
-| **XVI** | The Animal Individuality Is the Instrument of Life |
-| **XVII** | Birth by the Spirit |
-| **XVIII** | The Demands of the Reasonable Consciousness |
-| **XIX** | Confirmation of the Demands of the Reasonable Consciousness |
-| **XX** | The Demands of the Individuality Appear Incompatible with Those of the Reasonable Consciousness |
-| **XXI** | What Is Required Is Not Renunciation of Our Individuality but the Subjugation of Individuality to the Reasonable Consciousness |
-| **XXII** | The Feeling of Love Is the Manifestation of the Activity of the Individuality Subjected to the Reasonable Consciousness |
-| **XXIII** | The Manifestation of the Feeling of Love Is Impossible to Men Who Do Not Understand the Meaning of Their Life |
-| **XXIV** | True Love Is a Consequence of the Renunciation of the Welfare of the Individuality |
-| **XXV** | Love Is the Sole and Complete Activity of the True Life |
-| **XXVI** | The Efforts of Men, Directed to the Impossible Amelioration of Their Existence, Deprive Them of the Possibility of Living the One True Life |
-| **XXVII** | The Fear of Death Is Only the Consciousness of the Unsolved Contradiction of Life |
-| **XXVIII** | Carnal Death Destroys the Body Limited in Space and the Consciousness Limited in Time, but Cannot Destroy That Which Constitutes the Foundation of Life: the Special Relationship of Each Being to the World |
-| **XXIX** | Men Fear Death Because They Have Restricted Life by Their False Conception, Taking a Part of Life to Be the Whole |
-| **XXX** | Life Is a Relationship to the World. The Movement of Life Is the Establishment of New and Loftier Relationships, Hence Death Is the Introduction to a New Relationship |
-| **XXXI** | The Life of Men When They Are Dead Does Not Cease in This World |
-| **XXXII** | The Dread of Death Proceeds from Man's Confusion of His Different Relationships to the World |
-| **XXXIII** | The Visible Life Is a Part of the Infinite Movement of Life |
-| **XXXIV** | The Incomprehensibility of the Sufferings of Earthly Existence Proves to Man More Convincingly Than Anything That His Life Is Not That of the Individuality Which Begins at Birth and Ends at Death |
-| **XXXV** | Physical Sufferings Constitute an Indispensable Condition of the Life and Welfare of Men |
-| **결론** | Conclusion |
-| **부록 I\~III** | Appendix I / Appendix II / Appendix III (본문 논증에 대한 보충 설명·주석 성격의 부록) |
+| 장 | 제목 (영문) | 제목 (한글) |
+|----|-------------|-------------|
+| **서문** | Introduction | 서문 |
+| **I** | The Essential Contradiction Inherent in Human Life | 인간 삶에 내재한 근본적인 모순 |
+| **II** | Humanity Has Recognized from the Earliest Days the Contradiction of Life. Wise Men Who Have Enlightened Humanity Have Given to the World Definitions of Life Explaining This Intrinsic Contradiction, but the Pharisees and Scribes Conceal It | 인류는 오래전부터 삶의 모순을 인식해 왔다. 인류를 깨우친 현자들은 이 모순을 설명하는 삶의 정의를 제시했지만, 바리새인과 율법학자들은 이를 감추었다. |
+| **III** | The Errors of the Scribes | 율법학자들의 오류 |
+| **IV** | The Doctrine of the Scribes Substitutes the Visible Manifestation of Man's Animal Existence for the Conception of the Complete Life of Man, and Draws from These Manifestations Deductions as to the Aim of Life | 율법학자들의 학설은 인간의 완전한 삶 대신 동물적 존재의 외적 현상을 삶으로 여기고, 그로부터 삶의 목적을 도출한다. |
+| **V** | The False Doctrines of the Pharisees and Scribes No More Explain the True Meaning of Life Than They Give Guidance in It. Custom Without Any Reasonable Explanation Is the Sole Guide of Life | 바리새인과 율법학자들의 거짓 교리는 삶의 참된 의미를 설명하지도 못하고 삶의 길잡이도 되지 못한다. 결국 근거 없는 관습만이 삶을 지배한다. |
+| **VI** | The Division in the Consciousness of the Men of Our Time | 현대인의 의식 속 분열 |
+| **VII** | The Division of Consciousness Proceeds from the Confusion of the Animal Life with the Human | 의식의 분열은 동물적 삶과 인간적 삶을 혼동하는 데서 비롯된다. |
+| **VIII** | The Division and the Contradiction Are Only Apparent: They Are the Consequence of False Doctrine | 분열과 모순은 겉보기일 뿐이며, 거짓 교리의 결과이다. |
+| **IX** | The Birth of the True Life in Man | 인간 안에서 참된 삶의 탄생 |
+| **X** | Reason Is the Law Recognized by Man, in Conformity with Which His Life Must Be Perfected | 이성은 인간이 인식하는 법칙이며, 인간의 삶은 그 법칙에 따라 완성되어야 한다. |
+| **XI** | False Direction of Knowledge | 잘못된 지식의 방향 |
+| **XII** | The Cause of False Knowledge Is the False Perspective in Which Objects Appear | 잘못된 지식은 사물을 잘못 바라보는 관점에서 비롯된다. |
+| **XIII** | The Possibility of Understanding Objects Increases Not in Proportion to Their Manifestation in Time and Space, but Rather by Reason of the Unity of the Law Governing the Objects We Are Studying, and Ourselves | 사물에 대한 이해는 시간과 공간 속의 현상보다 그것과 우리를 지배하는 법칙의 통일성을 깨달을수록 깊어진다. |
+| **XIV** | The True Human Life Is Not That Which Is Lived in Time and Space | 참된 인간의 삶은 시간과 공간에 갇힌 삶이 아니다. |
+| **XV** | The Renunciation of the Well-Being of the Animal Individuality Is the Law of Human Life | 동물적 개체의 행복을 포기하는 것이 인간 삶의 법칙이다. |
+| **XVI** | The Animal Individuality Is the Instrument of Life | 동물적 개체는 삶의 도구이다. |
+| **XVII** | Birth by the Spirit | 영에 의한 탄생 |
+| **XVIII** | The Demands of the Reasonable Consciousness | 이성적 의식의 요구 |
+| **XIX** | Confirmation of the Demands of the Reasonable Consciousness | 이성적 의식의 요구에 대한 확인 |
+| **XX** | The Demands of the Individuality Appear Incompatible with Those of the Reasonable Consciousness | 개체의 요구는 이성적 의식의 요구와 양립할 수 없는 것처럼 보인다. |
+| **XXI** | What Is Required Is Not Renunciation of Our Individuality but the Subjugation of Individuality to the Reasonable Consciousness | 필요한 것은 개체성을 버리는 것이 아니라 그것을 이성적 의식에 복종시키는 것이다. |
+| **XXII** | The Feeling of Love Is the Manifestation of the Activity of the Individuality Subjected to the Reasonable Consciousness | 사랑은 이성적 의식에 복종한 개체성이 드러내는 활동이다. |
+| **XXIII** | The Manifestation of the Feeling of Love Is Impossible to Men Who Do Not Understand the Meaning of Their Life | 삶의 의미를 이해하지 못하는 사람에게는 사랑이 나타날 수 없다. |
+| **XXIV** | True Love Is a Consequence of the Renunciation of the Welfare of the Individuality | 참된 사랑은 개체적 행복을 포기한 결과이다. |
+| **XXV** | Love Is the Sole and Complete Activity of the True Life | 사랑은 참된 삶의 유일하고 완전한 활동이다. |
+| **XXVI** | The Efforts of Men, Directed to the Impossible Amelioration of Their Existence, Deprive Them of the Possibility of Living the One True Life | 불가능한 삶의 개선을 추구하는 노력은 인간으로부터 참된 삶을 살 가능성을 빼앗는다. |
+| **XXVII** | The Fear of Death Is Only the Consciousness of the Unsolved Contradiction of Life | 죽음에 대한 두려움은 해결되지 않은 삶의 모순을 의식하는 것에 불과하다. |
+| **XXVIII** | Carnal Death Destroys the Body Limited in Space and the Consciousness Limited in Time, but Cannot Destroy That Which Constitutes the Foundation of Life: the Special Relationship of Each Being to the World | 육체의 죽음은 공간에 제한된 몸과 시간에 제한된 의식을 파괴하지만, 삶의 근본인 존재와 세계의 관계는 파괴하지 못한다. |
+| **XXIX** | Men Fear Death Because They Have Restricted Life by Their False Conception, Taking a Part of Life to Be the Whole | 인간은 삶의 일부를 전부라고 착각하는 잘못된 삶의 관념 때문에 죽음을 두려워한다. |
+| **XXX** | Life Is a Relationship to the World. The Movement of Life Is the Establishment of New and Loftier Relationships, Hence Death Is the Introduction to a New Relationship | 삶은 세계와의 관계이며, 삶의 운동은 더 높고 새로운 관계를 맺는 것이다. 따라서 죽음은 새로운 관계로 들어가는 문이다. |
+| **XXXI** | The Life of Men When They Are Dead Does Not Cease in This World | 인간은 죽은 뒤에도 이 세계에서의 삶이 완전히 끝나는 것이 아니다. |
+| **XXXII** | The Dread of Death Proceeds from Man's Confusion of His Different Relationships to the World | 죽음에 대한 공포는 인간이 세계와 맺는 여러 관계를 혼동하는 데서 비롯된다. |
+| **XXXIII** | The Visible Life Is a Part of the Infinite Movement of Life | 눈에 보이는 삶은 무한한 생명의 운동의 한 부분이다. |
+| **XXXIV** | The Incomprehensibility of the Sufferings of Earthly Existence Proves to Man More Convincingly Than Anything That His Life Is Not That of the Individuality Which Begins at Birth and Ends at Death | 지상의 삶에서 겪는 고통의 불가해성은 인간의 삶이 출생과 죽음 사이의 개체적 삶만이 아님을 가장 강력하게 증명한다. |
+| **XXXV** | Physical Sufferings Constitute an Indispensable Condition of the Life and Welfare of Men | 육체적 고통은 인간의 삶과 행복에 필수적인 조건이다. |
+| **결론** | Conclusion | 결론 |
+| **부록 I~III** | Appendix I / Appendix II / Appendix III | 부록 I / 부록 II / 부록 III (본문 논증에 대한 보충 설명 및 주석) |
 
 ※ **판본에 따른 장 번호 차이 주의**: 일부 2차 자료·타 번역본에는 장 번호 표기가 판본마다 다르게 흔들리는 경우가 있으나, 이 저장소가 실제 원문 대조로 확인한 The Free Age Press판에는 **서문부터 결론까지 I\~XXXV장이 결번 없이 온전히 존재**한다.
 
