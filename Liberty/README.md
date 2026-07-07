@@ -2,7 +2,7 @@
 
 **저자:** 존 스튜어트 밀 (John Stuart Mill) · 원서 1859 · 근대 자유주의 정치철학의 고전
 
-**분석 관점:** 1976년생, 2026년 50세에 경제적 자유(Financial Independence) 달성 / 돈은 '해결된 수단' / 이제 **수준 높은 정신적 쾌락(higher pleasures) — 배움·사색·개성·자기 완성·기여**를 추구하는 삶
+**분석 관점:** 1976년생, 2026년 49세에 경제적 자유(Financial Independence) 달성 / 돈은 '해결된 수단' / 이제 **수준 높은 정신적 쾌락(higher pleasures) — 배움·사색·개성·자기 완성·기여**를 추구하는 삶
 
 > **"It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied."**
 > — 이 책은 투자서가 아니라, '어떻게 자유롭게·자기답게·더 높은 차원으로 살 것인가'에 대한 인생 철학서다.
