@@ -9,7 +9,7 @@
 | 문서 | 내용 |
 |---|---|
 | [The-Psychology-of-Money.md](The-Psychology-of-Money.md) | 저자 소개, 집필 배경, 전체 목차, 장별 요약, 핵심 명언, 총평 |
-| [Template.md](Template.md) | 챕터별 분석에 사용하는 출력 형식·글쓰기 원칙 템플릿 |
+| [Template.md](Template01.md) | 챕터별 분석에 사용하는 출력 형식·글쓰기 원칙 템플릿 |
 | [My-Application--Psychology-of-Money.md](My-Application--Psychology-of-Money.md) | 1~20장 전체를 개인 상황에 대입한 종합 평가 및 체크리스트 |
 
 ---
