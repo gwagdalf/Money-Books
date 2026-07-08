@@ -1,6 +1,6 @@
-# Prompt : 벤저민 그레이엄 Benjamin Graham·데이비드 도드 David Dodd 『증권분석 Security Analysis』 장별 분석 및 실천 정리
+# Prompt : 닉 매기울리 Nick Maggiulli 『계속 사라 Just Keep Buying』 장별 분석 및 실천 정리
 
-벤저민 그레이엄 Benjamin Graham·데이비드 도드 David Dodd 의 『증권분석 Security Analysis』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
+닉 매기울리 Nick Maggiulli 의 『계속 사라 Just Keep Buying』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.
 
 ## 목적

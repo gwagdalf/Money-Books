@@ -1,6 +1,6 @@
-# Prompt : 윌리엄 번스타인 William J. Bernstein 『딥 리스크 Deep Risk』 장별 분석 및 실천 정리
+# Prompt : 멥 파버 Meb Faber 『글로벌 자산 배분 Global Asset Allocation』 장별 분석 및 실천 정리
 
-윌리엄 번스타인 William J. Bernstein 의 『딥 리스크 Deep Risk: How History Informs Portfolio Design』를 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치이자 리스크 분석가**입니다.
+멥 파버 Meb Faber 의 『글로벌 자산 배분 Global Asset Allocation』를 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치이자 리스크 분석가**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.
 
 ## 목적
