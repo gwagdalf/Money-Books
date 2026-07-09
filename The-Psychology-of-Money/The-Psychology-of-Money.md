@@ -419,7 +419,7 @@ Warren Buffett의 순자산 분석:
 Benjamin Graham이 제안한 이 개념을 Housel은 개인 재정 전반에 적용합니다.
 
 ```
-예상 지출 100 → 계획 예산 000 (30% 마진)
+예상 지출 100 → 계획 예산 130 (30% 마진)
 예상 수익률 7% → 계획 수익률 5% (안전 마진)
 은퇴 예상 기간 30년 → 준비 기간 40년 (안전 마진)
 ```
@@ -701,4 +701,11 @@ Harvard 심리학자 Daniel Gilbert의 연구:
 *출처: The Psychology of Money, Morgan Housel (2020, Harriman House)*
 
 ## dictionary
-* confound : 
+* **Confounding Compounding** : 놀라울 정도로 강력한 복리 효과 / 이해하기 어려울 만큼 엄청난 복리 효과
+* **confound**  [kənˈfaʊnd] 동사 1. 어리둥절[당혹]하게 만들다 The sudden rise in share prices has confounded economists.  
+갑작스런 주가 상승에 경제 전문가들이 어리둥절해 하고 있다. 2. …이 틀렸음을 입증하다 to confound expectations 예상이 틀렸음을 입증하다
+
+
+* The **Seduction** of **Pessimism** : 비관론의 유혹
+* **seduction** [sɪˈdʌkʃn] 명사 1. (성관계를 하자는) 유혹 Cleopatra’s seduction of Caesar 클레오파트라의 시저 유혹 2. 유혹[매력](적인 점·요소) Who could resist the seductions of the tropical island? 그 열대 섬의 유혹을 누가 거부할 수 있겠어요?
+* **pessimism** [ˈpesɪmɪzəm] 명사 1. 비관적인 생각[기분], 비관주의 There is a mood of pessimism in the company about future job prospects. 앞으로의 일자리 전망에 대해 회사 내에서는 비관적인 분위기이다. 
