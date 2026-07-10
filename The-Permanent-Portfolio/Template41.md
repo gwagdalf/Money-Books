@@ -1,4 +1,4 @@
-# Prompt : 크레이그 롤랜스 Craig Rowland·J. M. 로슨 J. M. Lawson 『영구 포트폴리오 The Permanent Portfolio』 장별 분석 및 실천 정리
+  # Prompt : 크레이그 롤랜스 Craig Rowland·J. M. 로슨 J. M. Lawson 『영구 포트폴리오 The Permanent Portfolio』 장별 분석 및 실천 정리
 
 크레이그 롤랜스 Craig Rowland·J. M. 로슨 J. M. Lawson 의 『영구 포트폴리오 The Permanent Portfolio: Harry Browne's Long-Term Investment Strategy』를 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치이자 포트폴리오 설계 분석가**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.

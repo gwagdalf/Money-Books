@@ -1,13 +1,13 @@
-# Prompt : 닉 매기울리 Nick Maggiulli 『계속 사라 Just Keep Buying』 장별 분석 및 실천 정리
+# Prompt : 닉 매기울리 Nick Maggiulli 『저스트. 킵. 바잉. Just Keep Buying』 장별 분석 및 실천 정리
 
-닉 매기울리 Nick Maggiulli 의 『계속 사라 Just Keep Buying』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
+닉 매기울리 Nick Maggiulli 의 『저스트. 킵. 바잉. Just Keep Buying』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.
 
 ## 목적
 
 이 정리는 단순한 독후감이 아닙니다.
 새로운 종목 선정 기법이나 재테크 기술을 얻기 위한 것도 아닙니다.
-**이미 경제적 자유를 이루고 은퇴하여 '자산을 불리는 축적기'를 끝낸 사람이, 그레이엄과 도드가 1929년 대공황 직후인 1934년 『증권분석』에서 처음 정식화한 안전마진(Margin of Safety)·내재가치(Intrinsic Value)·투자와 투기의 구분(Investment vs. Speculation)이라는 가치투자의 원형 개념 — 이후 그레이엄 자신의 『현명한 투자자』, 워런 버핏, 세스 클라먼 등 모든 가치투자 계보가 뿌리로 삼는 개념 — 을 자신의 실제 포트폴리오(고수익 추구 자산군과 자본 보존 자산군의 분리, 인출률 관리, 특정 국가·산업 집중 노출의 분산)와 정직하게 대조하는 실천 철학을 얻기 위한 정리입니다.**
+**이미 경제적 자유를 이루고 은퇴하여 '자산을 불리는 축적기'를 끝낸 사람이, 닉 매기울리가 방대한 과거 시장 데이터로 뒷받침하는 축적기(蓄積期)의 핵심 원칙 — 소득 증대를 통한 저축 극대화, 시장 타이밍이 아닌 꾸준한 매수("Just Keep Buying")의 규율, 변동성의 수용과 위기장에서의 매수, 개별 종목이 아닌 분산 투자 — 을 자신의 실제 포트폴리오(고수익 추구 자산군과 자본 보존 자산군의 분리, 인출률 관리, 특정 국가·산업 집중 노출의 분산)와 정직하게 대조하는 실천 철학을 얻기 위한 정리입니다.**
 
 나는 1976년생이며, 2026년 50세에 이미 **경제적 자유(Financial Independence)** 를 달성했습니다.
 (순자산 약 000억 원 — 돈 문제는 대체로 '해결된 수단'이며, 더 이상 삶의 목적이 아닙니다.)
@@ -23,13 +23,13 @@
 
 ### 이 책 분석의 핵심 긴장 (분석의 축)
 
-그레이엄·도드의 핵심 주장은 명확하다 — 증권분석의 범위와 한계, 내재가치라는 개념, 투자와 투기를 가르는 기준을 정립한 뒤(1부, 1\~5장), 채권·우선주 같은 고정가치 투자를 정량적 기준으로 선별하는 방법을 매우 상세히 제시하고(2\~3부, 6\~26장), 보통주 투자 이론과 손익계산서·대차대조표에 숨은 회계적 함정을 파헤친 뒤(4\~6부, 27\~45장), 마지막으로 시장 가격이 내재가치에서 벗어나는 현상을 포착하는 것이야말로 증권분석의 실질적 효용이라는 결론으로 마무리한다(7부, 46\~52장).
+매기울리의 핵심 주장은 명확하다 — 소득·저축·소비·부채·주택 매수·은퇴 판단이라는 축적기의 실무적 질문에 답한 뒤(1부. 저축, 1\~9장), 왜/무엇에/언제 투자할지, 개별 종목의 위험성, 변동성의 수용, 위기장에서의 매수, 매도 시점, 자산배분, 그리고 "부자처럼 느껴지지 않는" 심리적 함정까지 다룬 뒤(2부. 투자, 10\~21장), 마지막으로 이 모든 실천 원칙을 종합하여 "무엇을 살지 고민하며 멈추지 말고 계속 사라"는 결론(저스트 킵 바잉 원칙들)으로 마무리한다.
 
-이 지점은 나의 상황과 정확히 맞닿아 있으면서도, 동시에 나를 불편하게 만든다. 나는 **한국·미국 빅테크·반도체 집중 투자**를 통해 경제적 자유를 달성했다 — 이는 재무제표를 한 줄씩 검증하며 내재가치와 안전마진을 계산하는 그레이엄식 정량 분석이라기보다, 성장 서사와 산업 모멘텀에 대한 정성적 판단에 가까웠다. 그레이엄·도드의 논리를 그대로 받아들인다면, 이런 방식은 "투자"와 "투기"의 경계 위에서 줄타기를 해온 것일 수 있고, 그 성공은 분석력만이 아니라 특정 국가·산업의 장기 상승장이라는 시대적 순풍 덕이었을 가능성도 정직하게 검토해야 한다. 동시에 나는 이제 **더 이상 공격적으로 자산을 불리는 축적기가 아니라, 이미 확보한 자산을 지키며 인출해 쓰는 국면**에 들어섰다 — "고수익 추구" 버킷은 여전히 정성적 성장 스토리에 의존하는가, 아니면 그레이엄식 정량적 검증(수익력, 순유동자산가치, 장부가치)을 거치는가? "자본 보존" 버킷은 실제로 순유동자산가치·청산가치 같은 하방 방어적 기준에 부합하는가, 아니면 단순히 "덜 위험해 보이는" 자산을 담아둔 것에 불과한가?
+이 지점은 나의 상황과 정확히 맞닿아 있으면서도, 동시에 나를 불편하게 만든다. 나는 이미 '자산을 불리는 축적기'를 끝냈다 — 매기울리가 이 책 대부분(특히 1\~17장)에서 말을 거는 대상은 여전히 소득을 늘리고 자산을 꾸준히 사 모아야 하는 축적기의 투자자이며, 나는 오히려 그 반대 방향 — 이미 확보한 자산을 지키며 인출해 쓰는 국면 — 에 서 있다. 동시에 이 책은 나의 과거를 그대로 비추는 거울이기도 하다: 나는 **한국·미국 빅테크·반도체 집중 투자**를 통해 경제적 자유를 달성했다 — 이것은 매기울리가 12장에서 경계하는 "개별 종목·특정 산업 집중"에 가까운 방식이었는가, 아니면 그가 강조하는 "타이밍을 재지 않고 계속 사는 규율"을 나만의 방식으로 실천한 결과였는가? 그리고 16\~17장이 말하는 "변동성을 두려워 말고 위기에 사라"는 축적기의 원칙은, 지금의 자본 보존 버킷 설계와 정면으로 충돌하는가, 아니면 여전히 고수익 추구 버킷에는 유효한가?
 
-또한 이 책의 2\~3부(6\~26장, 21개 장)는 1930\~40년대 미국 채권·우선주 시장의 매우 기술적이고 시대적인 선별 기준(이자보상배율의 최소 배수, 담보 조항, 만기 구조 등)을 다루므로, 현대의 내 포트폴리오에 문자 그대로 적용하기는 어렵다. 이런 장을 분석할 때는 구체적 수치 기준 자체보다 **"고정가치 투자에서는 상방보다 하방을 먼저 본다"는 태도의 원형**을 짚어, 그 태도가 지금의 자본 보존 버킷 설계에 어떤 시사점을 주는지에 분석의 무게를 둔다. 이 긴장이 이 책 전체를 관통하는 나의 질문이다.
+또한 9장(언제 은퇴할 수 있는가), 18장(언제 매도해야 하는가), 20장(왜 결코 부자처럼 느껴지지 않는가), 21장(가장 중요한 자산)은 축적기의 독자가 아니라 지금의 나 — 이미 은퇴하여 인출기에 들어선 사람 — 에게 직접 말을 거는 장들이다. 이런 장을 분석할 때는 저자의 축적기 중심 논지를 그대로 적용하기보다, 그 논지가 인출기에는 어떻게 뒤집히거나 변형되어야 하는지에 분석의 무게를 둔다. 반대로 1\~8장, 10\~17장처럼 명백히 축적기를 향한 장들을 분석할 때는, "지금의 나에게 무관한 조언"으로 건너뛰기보다 **과거의 나(축적기의 나)가 이 원칙을 어떻게 실천했거나 벗어났는지 복기**하고, 그 복기가 지금의 2버킷 설계·분산 계획에 주는 시사점을 찾는 데 무게를 둔다. 이 긴장이 이 책 전체를 관통하는 나의 질문이다.
 
-각 장을 분석할 때, 이 긴장 — **"한국·미국 빅테크·반도체 집중 투자로 이미 이룬 경제적 자유(정량적 안전마진보다 정성적 성장 서사에 기댄 성공, 그리고 그 방식에 대한 관성)" 대 "그레이엄·도드가 증권분석의 근본 방법론으로 제시하는, 내재가치와 안전마진에 근거한 은퇴 후 자산관리로의 전환 필요성"** — 을 회피하지 말고 정직하게 다루어, **저자의 통찰(내재가치, 투자와 투기의 구분, 정량적·정성적 요인, 고정가치 투자의 선별 기준, 사업 가치평가(수익력·장부가치·청산가치), 회계적 함정에 대한 경계, 가격과 가치의 괴리)을 나의 실제 포트폴리오(고수익 추구·자본 보존의 2버킷 구조, 인출률, 분산 계획)에 어떻게 적용할 것인가**를 분석의 축으로 삼아 주세요.
+각 장을 분석할 때, 이 긴장 — **"닉 매기울리가 데이터로 뒷받침하는, 축적기에 최적화된 '계속 사라'는 원칙(소득 극대화, 시장 타이밍 배제, 변동성 수용, 위기장 매수, 개별 종목 회피와 분산)" 대 "이미 경제적 자유를 달성하고 인출기에 들어선 내가, 축적기의 공격적 매수 규율을 자본 보존과 인출 관리로 어떻게 번역할 것인가, 그리고 한국·미국 빅테크·반도체 집중 투자로 이미 이룬 성공을 이 책의 기준으로 어떻게 재평가할 것인가"** — 를 회피하지 말고 정직하게 다루어, **저자의 통찰(소득 중심 저축, 꾸준한 매수의 규율, 개별 종목 회피와 분산, 변동성·손실회피의 심리, 위기장에서의 역발상, 매도와 인출의 원칙, 부와 행복의 심리적 간극)을 나의 실제 포트폴리오(고수익 추구·자본 보존의 2버킷 구조, 인출률, 분산 계획)에 어떻게 적용할 것인가**를 분석의 축으로 삼아 주세요.
 
 ---
 
@@ -39,80 +39,50 @@ chapterXX-{English Chapter Title Slug}.md
 
 예시:
 
-chapter01-The-Scope-and-Limits-of-Security-Analysis-The-Concept-of-Intrinsic-Value.md
+chapter01-Where-Should-You-Start.md
 
-chapter04-Distinctions-Between-Investment-and-Speculation.md
+chapter04-How-to-Spend-Money-Guilt-Free.md
 
-chapter42-Balance-Sheet-Analysis-Significance-of-Book-Value.md
+chapter12-Why-You-Shouldnt-Buy-Individual-Stocks.md
 
-chapter50-Discrepancies-Between-Price-and-Value.md
+chapter16-Why-You-Shouldnt-Fear-Volatility.md
 
-chapter52-Market-Analysis-and-Security-Analysis.md
+chapter21-The-Most-Important-Asset.md
 
-※ 『증권분석』은 날짜별 잠언집이 아니라 **7부(Part) 52개 장으로 구성되어, 앞부분(개념 정립)이 뒷부분(구체적 분석 기법과 결론)의 전제가 되는 방식으로 이어지는 하나의 논증**이다. 원서에는 공식적인 부(Part) 구분이 있으므로(1부. Survey and Approach / 2부. Fixed-Value Investments / 3부. Senior Securities with Speculative Features / 4부. Theory of Common-Stock Investment. The Dividend Factor / 5부. Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation / 6부. Balance-Sheet Analysis. Implications of Asset Values / 7부. Additional Aspects of Security Analysis. Discrepancies Between Price and Value), 장과 장 사이의 흐름뿐 아니라 소속 부(Part)도 함께 의식하며 작성한다.
-※ **저본**: McGraw-Hill 6판 *Security Analysis: Sixth Edition, Foreword by Warren Buffett* (2008, ISBN 978-0-07-159253-6)을 저본으로 삼는다. 본문 자체는 1940년 2판 텍스트를 그대로 수록하고 있으며, 워런 버핏의 서문, 세스 클라먼의 서문, 제임스 그랜트의 도입부, 그리고 하워드 막스·브루스 그린왈드 등 10인의 현대 가치투자자가 부(Part)별로 덧붙인 해설이 함께 실려 있다. 국내에는 『벤저민 그레이엄의 증권분석』(리딩리더, 이건 역, 2012, 6판 기준)이라는 정식 번역본이 있으므로, 인용 시 가능하면 영어 원문과 이 번역본의 표현을 함께 표기한다. 다만 실제 문장·쪽수를 직접 대조하지 못했으므로, 정확한 인용이 필요할 때는 원서 또는 번역서 실물로 재확인한다.
-※ 2\~3부(6\~26장)와 4\~7부 일부 장(9, 11, 12, 13, 14, 25, 30, 35, 36, 46장)은 6판 인쇄본에는 요약만 실리고 전문이 부록 CD에 수록되어 있다. 이런 장을 분석할 때는 이 사실을 명시하고, 인쇄본에 실린 요약과 다른 장·부에서 반복되는 원칙을 근거로 분석하며, 확인할 수 없는 세부 수치를 지어내지 않는다.
-※ 각 장의 인용문·사례·수치(대공황 시기의 채권 부도 사례, 1930\~40년대 특정 기업의 재무제표 분석 사례 등)는 반드시 실제 책 내용을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치를 지어내지 않는다. 그레이엄·도드의 시장 진단 중 1930\~40년대라는 특정 시기에 국한된 판단(당시의 채권·우선주 시장, 대공황기의 기업 재무 상태 등)은 "그레이엄·도드는 ~라고 본다"는 식으로 시대적 주장임을 명시해 서술한다.
+※ 『저스트. 킵. 바잉.』은 날짜별 잠언집이 아니라 **2부(Part) 21개 장 + 결론(Conclusion)으로 구성되어, 앞부분(저축의 실무 원칙)이 뒷부분(투자의 실행 원칙)의 전제가 되는 방식으로 이어지는 하나의 논증**이다. 원서에는 공식적인 부(Part) 구분이 있으므로(1부. Saving / 2부. Investing), 장과 장 사이의 흐름뿐 아니라 소속 부(Part)도 함께 의식하며 작성한다.
+※ **저본**: Harriman House 2022년판 *Just Keep Buying: Proven Ways to Save Money and Build Your Wealth* (ISBN 978-0-85719-925-6)을 저본으로 삼는다. 국내에는 『저스트.킵.바잉.』(정식 번역본, 특별증보판 포함)이라는 번역본이 있으므로, 인용 시 가능하면 영어 원문과 이 번역본의 표현을 함께 표기한다. 다만 실제 문장·쪽수를 직접 대조하지 못했으므로, 정확한 인용이 필요할 때는 원서 또는 번역서 실물로 재확인한다.
+※ 이 책은 『증권분석』과 달리 요약만 실리고 전문이 부록에 수록된 장이 없다 — 21개 장 모두 전문이 인쇄본에 실려 있으므로, 특정 장을 "요약만 확인 가능"이라는 식으로 서술하지 않는다.
+※ 각 장의 인용문·사례·수치(저자가 제시하는 과거 시장 수익률 백테스트, 하락폭·변동성 시뮬레이션 결과, 실제 투자자·독자 사례 등)는 반드시 실제 책 내용을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치를 지어내지 않는다. 저자의 데이터 기반 주장 중 특정 기간·특정 데이터셋(예: 특정 연도 구간의 S\&P 500 백테스트)에 근거한 결론은 "매기울리는 ~라고 본다"는 식으로, 그 근거가 특정 데이터·기간에 기반한 것임을 명시해 서술한다.
 ※ 이 책의 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 
-참고 — 『증권분석』의 장 구성 (저본: McGraw-Hill 6판, 2008):
+참고 — 『저스트. 킵. 바잉.』의 장 구성 (저본: Harriman House, 2022):
 
 | 부 | 장 번호 | 영어 제목 | 파일명 슬러그 | 한글 의미 |
 |----|---------|-----------|---------------|-----------|
-| **1부. 개관과 접근법**<br>Survey and Approach | 1장 | The Scope and Limits of Security Analysis. The Concept of Intrinsic Value | The-Scope-and-Limits-of-Security-Analysis-The-Concept-of-Intrinsic-Value | 증권분석의 범위와 한계. 내재가치의 개념 |
-| | 2장 | Fundamental Elements in the Problem of Analysis. Quantitative and Qualitative Factors | Fundamental-Elements-in-the-Problem-of-Analysis-Quantitative-and-Qualitative-Factors | 분석 문제의 근본 요소. 정량적·정성적 요인 |
-| | 3장 | Sources of Information | Sources-of-Information | 정보의 원천 |
-| | 4장 | Distinctions Between Investment and Speculation | Distinctions-Between-Investment-and-Speculation | 투자와 투기의 구분 |
-| | 5장 | Classification of Securities | Classification-of-Securities | 증권의 분류 |
-| **2부. 고정가치 투자**<br>Fixed-Value Investments | 6장 | The Selection of Fixed-Value Investments | The-Selection-of-Fixed-Value-Investments | 고정가치 투자의 선정 |
-| | 7장 | The Selection of Fixed-Value Investments: Second and Third Principles | The-Selection-of-Fixed-Value-Investments-Second-and-Third-Principles | 고정가치 투자의 선정: 두 번째·세 번째 원칙 |
-| | 8장 | Specific Standards for Bond Investment | Specific-Standards-for-Bond-Investment | 채권 투자를 위한 구체적 기준 |
-| | 9장 | Specific Standards for Bond Investment (Continued)\* | Specific-Standards-for-Bond-Investment-Continued-I | 채권 투자 기준(계속)\* |
-| | 10장 | Specific Standards for Bond Investment (Continued) | Specific-Standards-for-Bond-Investment-Continued-II | 채권 투자 기준(계속) |
-| | 11장 | Specific Standards for Bond Investment (Continued)\* | Specific-Standards-for-Bond-Investment-Continued-III | 채권 투자 기준(계속)\* |
-| | 12장 | Special Factors in the Analysis of Railroad and Public-Utility Bonds\* | Special-Factors-in-the-Analysis-of-Railroad-and-Public-Utility-Bonds | 철도·공익기업 채권 분석의 특수 요인\* |
-| | 13장 | Other Special Factors in Bond Analysis\* | Other-Special-Factors-in-Bond-Analysis | 채권 분석의 다른 특수 요인\* |
-| | 14장 | The Theory of Preferred Stocks\* | The-Theory-of-Preferred-Stocks | 우선주의 이론\* |
-| | 15장 | Technique of Selecting Preferred Stocks for Investment | Technique-of-Selecting-Preferred-Stocks-for-Investment | 투자용 우선주 선정 기법 |
-| | 16장 | Income Bonds and Guaranteed Securities | Income-Bonds-and-Guaranteed-Securities | 수익사채와 보증증권 |
-| | 17장 | Guaranteed Securities (Continued) | Guaranteed-Securities-Continued | 보증증권(계속) |
-| | 18장 | Protective Covenants and Remedies of Senior Security Holders | Protective-Covenants-and-Remedies-of-Senior-Security-Holders | 보호 조항과 상위 증권 보유자의 구제수단 |
-| | 19장 | Protective Covenants (Continued) | Protective-Covenants-Continued | 보호 조항(계속) |
-| | 20장 | Preferred-Stock Protective Provisions. Maintenance of Junior Capital | Preferred-Stock-Protective-Provisions-Maintenance-of-Junior-Capital | 우선주 보호 조항. 후순위 자본의 유지 |
-| | 21장 | Supervision of Investment Holdings | Supervision-of-Investment-Holdings | 투자 보유 자산의 관리·감독 |
-| **3부. 투기적 요소를 가진 상위 증권**<br>Senior Securities with Speculative Features | 22장 | Privileged Issues | Privileged-Issues | 특권부 증권 |
-| | 23장 | Technical Characteristics of Privileged Senior Securities | Technical-Characteristics-of-Privileged-Senior-Securities | 특권부 상위 증권의 기술적 특성 |
-| | 24장 | Technical Aspects of Convertible Issues | Technical-Aspects-of-Convertible-Issues | 전환증권의 기술적 측면 |
-| | 25장 | Senior Securities with Warrants. Participating Issues. Switching and Hedging\* | Senior-Securities-with-Warrants-Participating-Issues-Switching-and-Hedging | 워런트부 상위 증권. 참가증권. 교체매매와 헤지\* |
-| | 26장 | Senior Securities of Questionable Safety | Senior-Securities-of-Questionable-Safety | 안전성이 의심되는 상위 증권 |
-| **4부. 보통주 투자 이론. 배당 요인**<br>Theory of Common-Stock Investment. The Dividend Factor | 27장 | The Theory of Common-Stock Investment | The-Theory-of-Common-Stock-Investment | 보통주 투자의 이론 |
-| | 28장 | Newer Canons of Common-Stock Investment | Newer-Canons-of-Common-Stock-Investment | 보통주 투자의 새로운 규범 |
-| | 29장 | The Dividend Factor in Common-Stock Analysis | The-Dividend-Factor-in-Common-Stock-Analysis | 보통주 분석에서의 배당 요인 |
-| | 30장 | Stock Dividends\* | Stock-Dividends | 주식배당\* |
-| **5부. 손익계산서 분석. 보통주 가치평가의 수익 요인**<br>Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation | 31장 | Analysis of the Income Account | Analysis-of-the-Income-Account | 손익계산서 분석 |
-| | 32장 | Extraordinary Losses and Other Special Items in the Income Account | Extraordinary-Losses-and-Other-Special-Items-in-the-Income-Account | 손익계산서상의 특별손실과 기타 특수 항목 |
-| | 33장 | Misleading Artifices in the Income Account. Earnings of Subsidiaries | Misleading-Artifices-in-the-Income-Account-Earnings-of-Subsidiaries | 손익계산서의 오도하는 기법들. 자회사의 이익 |
-| | 34장 | The Relation of Depreciation and Similar Charges to Earning Power | The-Relation-of-Depreciation-and-Similar-Charges-to-Earning-Power | 감가상각 등 유사 비용과 수익력의 관계 |
-| | 35장 | Public-Utility Depreciation Policies\* | Public-Utility-Depreciation-Policies | 공익기업의 감가상각 정책\* |
-| | 36장 | Amortization Charges from the Investor's Standpoint\* | Amortization-Charges-from-the-Investors-Standpoint | 투자자 관점에서 본 상각비용\* |
-| | 37장 | Significance of the Earnings Record | Significance-of-the-Earnings-Record | 이익 기록의 의미 |
-| | 38장 | Specific Reasons for Questioning or Rejecting the Past Record | Specific-Reasons-for-Questioning-or-Rejecting-the-Past-Record | 과거 실적을 의심하거나 기각해야 할 구체적 이유 |
-| | 39장 | Price-Earnings Ratios for Common Stocks. Adjustments for Changes in Capitalization | Price-Earnings-Ratios-for-Common-Stocks-Adjustments-for-Changes-in-Capitalization | 보통주의 주가수익비율. 자본구조 변화에 대한 조정 |
-| | 40장 | Capitalization Structure | Capitalization-Structure | 자본구조 |
-| | 41장 | Low-Priced Common Stocks. Analysis of the Source of Income | Low-Priced-Common-Stocks-Analysis-of-the-Source-of-Income | 저가 보통주. 수익 원천의 분석 |
-| **6부. 대차대조표 분석. 자산가치의 함의**<br>Balance-Sheet Analysis. Implications of Asset Values | 42장 | Balance-Sheet Analysis. Significance of Book Value | Balance-Sheet-Analysis-Significance-of-Book-Value | 대차대조표 분석. 장부가치의 의미 |
-| | 43장 | Significance of the Current-Asset Value | Significance-of-the-Current-Asset-Value | 유동자산가치의 의미 |
-| | 44장 | Implications of Liquidating Value. Stockholder-Management Relationships | Implications-of-Liquidating-Value-Stockholder-Management-Relationships | 청산가치의 함의. 주주-경영진 관계 |
-| | 45장 | Balance-Sheet Analysis (Concluded) | Balance-Sheet-Analysis-Concluded | 대차대조표 분석(결론) |
-| **7부. 증권분석의 추가적 측면. 가격과 가치의 괴리**<br>Additional Aspects of Security Analysis. Discrepancies Between Price and Value | 46장 | Stock-Option Warrants\* | Stock-Option-Warrants | 스톡옵션 워런트\* |
-| | 47장 | Cost of Financing and Management | Cost-of-Financing-and-Management | 자금조달과 경영의 비용 |
-| | 48장 | Some Aspects of Corporate Pyramiding | Some-Aspects-of-Corporate-Pyramiding | 기업 피라미딩의 몇 가지 측면 |
-| | 49장 | Comparative Analysis of Companies in the Same Field | Comparative-Analysis-of-Companies-in-the-Same-Field | 동일 업종 기업 간의 비교 분석 |
-| | 50장 | Discrepancies Between Price and Value | Discrepancies-Between-Price-and-Value | 가격과 가치의 괴리 |
-| | 51장 | Discrepancies Between Price and Value (Continued) | Discrepancies-Between-Price-and-Value-Continued | 가격과 가치의 괴리(계속) |
-| | 52장 | Market Analysis and Security Analysis | Market-Analysis-and-Security-Analysis | 시장분석과 증권분석 |
+| **1부. 저축**<br>Saving | 1장 | Where Should You Start? | Where-Should-You-Start | 어디서부터 시작해야 하는가 |
+| | 2장 | How Much Should You Save? | How-Much-Should-You-Save | 얼마나 저축해야 하는가 |
+| | 3장 | How To Save More | How-To-Save-More | 어떻게 더 저축할 것인가 |
+| | 4장 | How to Spend Money Guilt-Free | How-to-Spend-Money-Guilt-Free | 죄책감 없이 돈 쓰는 법 |
+| | 5장 | How Much Lifestyle Creep is Okay? | How-Much-Lifestyle-Creep-is-Okay | 라이프스타일 인플레이션은 어느 정도까지 괜찮은가 |
+| | 6장 | Should You Ever Go Into Debt? | Should-You-Ever-Go-Into-Debt | 부채를 져도 되는가 |
+| | 7장 | Should You Rent or Should You Buy? | Should-You-Rent-or-Should-You-Buy | 임차해야 하는가, 매수해야 하는가 |
+| | 8장 | How To Save for a Down Payment (and Other Big Purchases) | How-To-Save-for-a-Down-Payment-and-Other-Big-Purchases | 계약금(과 다른 큰 지출)을 위해 저축하는 법 |
+| | 9장 | When Can You Retire? | When-Can-You-Retire | 언제 은퇴할 수 있는가 |
+| **2부. 투자**<br>Investing | 10장 | Why Should You Invest? | Why-Should-You-Invest | 왜 투자해야 하는가 |
+| | 11장 | What Should You Invest In? | What-Should-You-Invest-In | 무엇에 투자해야 하는가 |
+| | 12장 | Why You Shouldn't Buy Individual Stocks | Why-You-Shouldnt-Buy-Individual-Stocks | 개별 종목을 사면 안 되는 이유 |
+| | 13장 | How Soon Should You Invest? | How-Soon-Should-You-Invest | 얼마나 빨리 투자해야 하는가 |
+| | 14장 | Why You Shouldn't Wait to Buy the Dip | Why-You-Shouldnt-Wait-to-Buy-the-Dip | 조정을 기다리지 말아야 하는 이유 |
+| | 15장 | Why Investing Depends on Luck | Why-Investing-Depends-on-Luck | 투자가 운에 좌우되는 이유 |
+| | 16장 | Why You Shouldn't Fear Volatility | Why-You-Shouldnt-Fear-Volatility | 변동성을 두려워하지 말아야 하는 이유 |
+| | 17장 | How to Buy During a Crisis | How-to-Buy-During-a-Crisis | 위기 상황에서 매수하는 법 |
+| | 18장 | When Should You Sell? | When-Should-You-Sell | 언제 매도해야 하는가 |
+| | 19장 | Where Should You Invest? | Where-Should-You-Invest | 어디에 투자해야 하는가 |
+| | 20장 | Why You Will Never Feel Rich | Why-You-Will-Never-Feel-Rich | 왜 결코 부자처럼 느껴지지 않는가 |
+| | 21장 | The Most Important Asset | The-Most-Important-Asset | 가장 중요한 자산 |
+| — | 결론 | Conclusion: The Just Keep Buying Rules | Conclusion-The-Just-Keep-Buying-Rules | 결론: 저스트 킵 바잉 원칙들 |
 
-※ 위 표의 장 번호(1\~52)는 영어판 원서 목차와 그대로 일치한다(결번 없음). \* 표시된 장은 6판 인쇄본에 요약만 실리고 전문은 부록 CD에 수록되어 있으므로, 해당 장을 분석할 때는 이 점을 명시한다. 파일 본문 도입부에 해당 장이 속한 부(Part)를 함께 표기한다(예: "27장(4부. 보통주 투자 이론. 배당 요인)").
+※ 위 표의 장 번호(1\~21)는 영어판 원서 목차와 그대로 일치한다(결번 없음). 결론(Conclusion)은 정식 장 번호가 매겨져 있지 않으나, 21개 장의 실천 원칙을 종합하는 별도의 장으로서 분석 대상에 포함한다. 파일 본문 도입부에 해당 장이 속한 부(Part)를 함께 표기한다(예: "12장(2부. 투자)").
 
 ---
 
@@ -122,7 +92,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 ## {한글 장 제목}
 
-> 이 장은 『증권분석』 7부 52개 장 중 {O}번째이며, **{소속 부(Part) 이름}**에 속하며, {이 장이 전체 논증에서 담당하는 역할 — 예: 내재가치 개념의 정의 / 투자와 투기의 구분 제시 / 고정가치 투자의 정량적 선별 기준 제시 / 보통주 투자 이론의 정립 / 손익계산서의 회계적 함정 해부 / 자산 기반 가치평가 방법론 제시 / 가격과 가치의 괴리라는 결론 제시 등}을 다룬다.
+> 이 장은 『저스트. 킵. 바잉.』 2부 21개 장 중 {O}번째이며, **{소속 부(Part) 이름}**에 속하며, {이 장이 전체 논증에서 담당하는 역할 — 예: 저축 시작의 심리적 장벽 제거 / 소득 중심 저축 전략 제시 / 죄책감 없는 소비 원칙(2배의 법칙) 제시 / 부채의 양면성 구분 / 주택 매수 의사결정 프레임 제시 / 은퇴 가능 시점 판단 기준 제시 / 투자의 필요성 논증 / 개별 종목 회피와 분산 투자 근거 제시 / 매수 시점(DCA vs. 일시불)의 데이터 근거 제시 / 변동성 수용의 데이터 근거 제시 / 위기장 매수의 역발상 논증 / 매도와 인출 원칙 제시 / 부와 행복의 심리적 간극 규명 등}을 다룬다.
 
 ---
 
@@ -142,7 +112,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 * 의미
 * 왜 중요한가
 
-※ 원문은 영어(McGraw-Hill 6판)이므로 원문을 그대로 인용하고, 한국어는 국내 정식 번역본(리딩리더, 이건 역, 2012)의 표현을 참고하되 직접 번역한 경우 그 사실을 밝힌다. 인용문은 반드시 실제 책 내용을 확인한 뒤 작성하며, 지어내지 않는다.
+※ 원문은 영어(Harriman House 2022년판)이므로 원문을 그대로 인용하고, 한국어는 국내 정식 번역본(『저스트.킵.바잉.』)의 표현을 참고하되 직접 번역한 경우 그 사실을 밝힌다. 인용문은 반드시 실제 책 내용을 확인한 뒤 작성하며, 지어내지 않는다.
 ※ 내용을 인용하여 상세히 작성합니다.
 
 ---
@@ -153,9 +123,9 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 예시:
 
-* 개념 (예: 내재가치(Intrinsic Value), 투자와 투기의 구분(Investment vs. Speculation), 정량적·정성적 요인(Quantitative and Qualitative Factors), 고정가치 투자(Fixed-Value Investment), 상위 증권(Senior Securities), 안전마진(Margin of Safety), 수익력(Earning Power), 장부가치(Book Value), 순유동자산가치(Net Current Asset Value), 청산가치(Liquidating Value), 가격과 가치의 괴리(Discrepancies Between Price and Value) 등)
+* 개념 (예: 저스트 킵 바잉(Just Keep Buying)의 규율, 2배의 법칙(2x Rule), 인적 자본(Human Capital), 라이프스타일 크립(Lifestyle Creep), 달러 코스트 애버리징(Dollar-Cost Averaging) vs. 일시불 투자(Lump-Sum Investing), 하락폭 회피(Drawdown Avoidance)와 변동성, 수익률의 왜도(Skewness of Returns), 인출률(Withdrawal Rate), 헤도닉 적응(Hedonic Adaptation) 등)
 * 정의
-* 이 장에서 저자가 드는 예시·사례 (대공황기 채권 부도 사례, 1930\~40년대 특정 철도·공익기업·제조업체의 재무제표 분석 사례 등)
+* 이 장에서 저자가 드는 예시·사례 (과거 시장 데이터 백테스트, 저자 자신 또는 독자의 실제 저축·투자 사례 등)
 * 나의 삶·자산관리 계획에서의 의미
 
 ---
@@ -173,35 +143,35 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 - 이 장이 어떤 전제에서 출발해 어떤 결론에 이르는지, 논증의 단계를 순서대로 정리한다.
 - 이 장의 결론이 앞 장(또는 앞 부)의 결론을 어떻게 이어받는지, 그리고 다음 장에서 어떤 논의로 이어질 여지를 남기는지도 짚는다(장과 장, 부와 부 사이의 논리적 이음매).
 
-### (2) 이 장이 참조하거나 논쟁하는 투자 이론적·역사적 배경
+### (2) 이 장이 참조하거나 논쟁하는 투자 이론적·실증적 배경
 
-- 이 장에 언급되거나 암시되는 실제 투자 이론적·역사적 논의 — 1929년 대공황과 그 직후 채권·주식시장의 신뢰 붕괴라는 시대적 배경, 그레이엄 본인이 이후 펴낸 『현명한 투자자』20장의 안전마진 개념과의 연결, 워런 버핏·세스 클라먼·하워드 막스 등 후대 가치투자자들이 이 책의 원칙을 어떻게 계승·변형했는지, 효율적 시장 가설(유진 파마)에 대한 사전적 반박으로서의 의미 등 — 의 배경을 보충 설명한다.
-- 저자가 왜 하필 이 지점에서 그 논의를 인용·변형하는지, 어떤 통찰(내재가치, 투자와 투기의 구분, 정량적 분석의 우선성 등)을 드러내기 위해서인지 해석한다.
-- 표면적 소개보다 그 인용이 그레이엄·도드의 전체 논증에서 담당하는 역할에 집중한다.
+- 이 장에 언급되거나 암시되는 실제 투자 이론적·실증적 논의 — 효율적 시장 가설과 시장 타이밍의 실증적 실패, 행동재무학이 말하는 손실회피(Loss Aversion)·현상유지 편향, 벤저민 그레이엄·존 보글 등이 강조해 온 분산·저비용 인덱스 투자 전통과의 접점, 4% 룰 등 인출률 연구와의 연결, 매기울리 자신의 블로그(Of Dollars And Data)에서 반복적으로 검증해 온 백테스트 방법론 등 — 의 배경을 보충 설명한다.
+- 저자가 왜 하필 이 지점에서 그 논의를 인용·변형하는지, 어떤 통찰(꾸준한 매수의 우위, 변동성의 재해석, 개별 종목의 위험성 등)을 드러내기 위해서인지 해석한다.
+- 표면적 소개보다 그 인용이 매기울리의 전체 논증에서 담당하는 역할에 집중한다.
 
-### (3) 실제 시장·회계·투자자 심리에서 작동하는 메커니즘
+### (3) 실제 저축·투자·심리에서 작동하는 메커니즘
 
-- 이 장의 논증이 '실제 시장·기업 회계·투자자 심리 속에서 어떻게 작동하는가'를 구체적으로 짚는다.
-  (왜 회계상 이익은 경영진의 재량에 따라 왜곡될 수 있는가, 왜 시장 가격은 단기적으로 내재가치와 무관하게 움직이면서도 장기적으로는 수렴하는 경향을 보이는가, 안전마진이 왜 예측이 아니라 방어의 논리로 작동하는가, 고정가치 투자에서 하방을 먼저 보는 태도가 왜 보통주 투자에도 똑같이 적용되어야 하는가 등)
+- 이 장의 논증이 '실제 소득·저축·투자 행동과 투자자 심리 속에서 어떻게 작동하는가'를 구체적으로 짚는다.
+  (왜 시장 타이밍은 통계적으로 지속 가능한 전략이 되기 어려운가, 왜 변동성 회피가 오히려 장기 수익을 갉아먹는가, 왜 소득 증대가 지출 절감보다 저축 여력의 상한을 넓히는가, 왜 부의 증가가 준거점의 상향 조정 때문에 주관적 만족으로 곧장 이어지지 않는가 등)
 - 특히 이 장이 다루는 원칙(들)이 지금 나의 실제 포트폴리오(고수익 추구·자본 보존 버킷의 구성, 인출률 관리)에서 어느 지점에 해당한다고 볼 수 있는지, 그 진단이 왜 은퇴 후 자산관리 설계와 직결되는지 밝힌다.
 
 ### (4) 뉘앙스와 한계
 
-- 저자의 논증(1930\~40년대 미국 채권·우선주 시장이라는 특정 시대 상황에 근거한 정량적 기준의 일반화 가능성, 오늘날의 회계 기준·시장 구조와의 괴리, 내재가치를 계산하는 과정 자체에 내재하는 주관성 등)을 과도하게 일반화할 때 생기는 위험이나 예외를 짚는다.
-- 특히 이 책의 **"철저한 정량적 분석과 안전마진 없이는 진정한 투자가 아니다"는 통찰**과, 나의 **집중된 성장주 투자(한국·미국 빅테크·반도체)로 이미 경제적 자유를 달성한 과거 성과** 사이의 긴장을 정직하게 검토한다.
-  (나의 과거 성공은 정량적 안전마진의 원칙에 부합했던 것인가, 아니면 시대적 순풍(성장주 장기 상승장)에 기댄 것이었는가 — 그리고 그 답이 앞으로의 고수익 추구·자본 보존 버킷 설계를 어떻게 바꿔야 하는지.)
-- 저자의 통찰을 무비판적으로 인용해 "나는 이미 경제적 자유를 이루었으니 나의 과거 투자 방식도 결국 안전마진의 일종이었다"고 안이하게 단정하거나, 반대로 "나는 이제 은퇴했으니 이 책의 정량적 분석 기법은 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
-- 특히 2\~3부(6\~26장)처럼 채권·우선주에 관한 시대적·기술적 세부 기준을 다루는 장에서는, 구체적 수치 기준을 오늘날에 그대로 적용하려 하기보다 그 기준이 담고 있는 하방 방어의 태도를 어떻게 지금의 자본 보존 버킷에 옮길 수 있는지에 초점을 맞춘다.
+- 저자의 논증(축적기 투자자를 전제로 한 데이터·시뮬레이션의 일반화 가능성, 오늘날의 시장 구조·세제와의 괴리, 과거 데이터 백테스트가 미래에도 반복된다는 가정에 내재하는 한계 등)을 과도하게 일반화할 때 생기는 위험이나 예외를 짚는다.
+- 특히 이 책의 **"타이밍을 재지 말고 꾸준히, 계속 사라"는 축적기 통찰**과, 나의 **집중된 성장주 투자(한국·미국 빅테크·반도체)로 이미 경제적 자유를 달성한 과거 성과**, 그리고 **지금은 인출기에 들어섰다는 현재 국면** 사이의 삼중 긴장을 정직하게 검토한다.
+  (나의 과거 성공은 "계속 사는 규율"에 가까웠는가, 아니면 개별 산업에 대한 집중 베팅이었는가 — 그리고 이 장의 원칙을 지금 인출기의 나에게 그대로 적용해야 하는가, 반대로 적용해서는 안 되는가.)
+- 저자의 통찰을 무비판적으로 인용해 "나는 이미 계속 사기를 실천해 경제적 자유를 이루었으니 앞으로도 같은 방식으로 계속 사면 된다"고 안이하게 단정하거나, 반대로 "나는 이제 은퇴했으니 이 책은 축적기 독자를 위한 것일 뿐 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
+- 특히 16\~17장(변동성 수용, 위기장 매수)처럼 축적기의 공격적 원칙을 다루는 장에서는, 그 원칙을 오늘날의 나에게 그대로 재현하려 하기보다 그 원칙이 담고 있는 태도(단기 변동에 흔들리지 않는 규율)를 자본 보존 버킷의 하방 관리에 어떻게 다르게 적용할 수 있는지에 초점을 맞춘다.
 
 ### (5) 나의 삶과 자산관리 계획으로의 연결
 
-- 이 장의 논증이 **경제적 자유를 이미 달성한 50세**의 남은 삶 설계, 특히 **원금 보전과 하방 방어를 최우선에 두는 은퇴 후 포트폴리오 운용**에 어떤 의미를 갖는지 심화하여 연결한다.
+- 이 장의 논증이 **경제적 자유를 이미 달성한 50세**의 남은 삶 설계, 특히 **원금 보전과 인출 관리를 최우선에 두는 은퇴 후 포트폴리오 운용**에 어떤 의미를 갖는지 심화하여 연결한다.
 - 특히 나의 **실제 포트폴리오 원칙(고수익 추구 버킷과 자본 보존 버킷의 분리, 연 2\~3% 인출률, 6개월 생활비의 현금성 자산 보유, 한국·미국 빅테크·반도체 집중 노출의 점진적 분산)** 에 이 장의 논증을 어떻게 적용할지 다리를 놓는다.
-  - "내재가치와 투자·투기의 구분(1부)"의 관점에서, 나의 과거 투자 방식이 실제로 가치와 가격의 괴리를 근거로 한 것이었는지, 아니면 성장 서사나 군중심리에 가까웠는지 구분해보기,
-  - "고정가치 투자와 상위 증권의 선별 기준(2\~3부)"의 관점에서, 지금 자본 보존 버킷에 담긴 자산들이 실제로 하방 방어를 우선하는 기준에 따라 설계되어 있는지, 아니면 단순히 "덜 위험해 보이는" 자산에 불과한지 점검하기,
-  - "손익계산서·대차대조표 분석(5\~6부)"의 관점에서, 내가 보유한 기업들의 발표 이익과 자산가치를 얼마나 회의적으로 검증해 왔는지 되짚어보기,
-  - "가격과 가치의 괴리(7부)"의 관점에서, 한국·미국 빅테크·반도체 집중 노출을 분산하는 과정에서 시장이 과대평가하거나 과소평가하는 지점을 어떻게 포착할지 검토하기.
-- 이미 실천해 온 '집중과 성장'을 통한 경제적 자유 달성의 경험을, 그레이엄·도드가 말하는 "가격과 가치는 별개이며, 그 괴리를 체계적으로 분석하는 것이 투자의 본질이다"는 통찰과 연결해, 앞으로의 포트폴리오를 스스로 어떻게 재설계할지 해석한다.
+  - "저축과 소득의 원칙(1부)"의 관점에서, 과거 나의 축적 방식이 소득 중심이었는지 소비 절제 중심이었는지 되짚어보고, 그 습관이 지금의 지출·인출 계획에 남긴 흔적을 점검하기,
+  - "개별 종목 회피와 분산(12장)"의 관점에서, 한국·미국 빅테크·반도체 집중 노출이 이 책의 기준으로 볼 때 어떤 위험을 내포하고 있었는지, 그리고 지금의 분산 계획이 이를 얼마나 교정하고 있는지 점검하기,
+  - "변동성과 위기 대응(16\~17장)"의 관점에서, 고수익 추구 버킷은 여전히 변동성을 감내할 수 있는 구조인지, 자본 보존 버킷은 실제로 변동성으로부터 격리되어 있는지 구분해보기,
+  - "매도와 인출의 원칙(18장)"의 관점에서, 나의 연 2\~3% 인출이 이 장이 말하는 "계획된 인출"에 해당하는지, 아니면 시장 상황에 반응하는 임기응변에 가까운지 되짚어보기.
+- 이미 실천해 온 '집중과 성장'을 통한 경제적 자유 달성의 경험을, 매기울리가 말하는 "무엇을 살지 고민하며 멈추지 말고 계속 사라"는 축적기의 통찰과 연결하되, 그 통찰이 인출기에는 "무엇을 지킬지 고민하며 계속 관리하라"는 원칙으로 어떻게 번역되어야 하는지 해석한다.
 - 단, 구체적 실천 항목은 6\~7번 섹션에서 다루므로, 여기서는 '해석과 이해'에 머문다.
 
 ---
@@ -209,7 +179,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 ## 5. 더 생각해볼 질문
 
 - 내용과 관련하여, 더 생각해볼 질문 1\~3개를 작성합니다.
-- 가능하면 그중 하나는 **'철저한 정량적 분석과 안전마진 없이는 진정한 투자가 아니라는 그레이엄·도드의 통찰' 대 '한국·미국 빅테크·반도체 집중 투자로 이미 경제적 자유를 달성한 나의 과거 성과와 그 성공 방식에 대한 미련'** 의 긴장을 나의 포트폴리오 재설계에 비추어 묻는 질문으로 작성한다.
+- 가능하면 그중 하나는 **'타이밍을 재지 말고 변동성을 수용하며 꾸준히 계속 사라는 매기울리의 축적기 통찰' 대 '한국·미국 빅테크·반도체 집중 투자로 이미 경제적 자유를 달성했고, 이제는 인출기에 들어선 나의 자본 보존 우선 원칙'** 의 긴장을 나의 포트폴리오 재설계에 비추어 묻는 질문으로 작성한다.
 
 ---
 
@@ -218,10 +188,10 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 다음 질문에 답하라.
 
 * 이 장의 내용이 현재 나의 삶과, 이미 확보한 자산을 지키며 인출해 쓰는 은퇴 후 포트폴리오 설계와 어떻게 연결되는가?
-* 경제적 자유를 이미 달성하고 '성장과 집중에서 정량적 안전마진과 방어로' 넘어가야 하는 50세에게 주는 가장 중요한 교훈은 무엇인가?
+* 경제적 자유를 이미 달성하고 '축적기의 공격적 매수 규율에서 인출기의 방어적 관리로' 넘어가야 하는 50세에게 주는 가장 중요한 교훈은 무엇인가?
 * 나의 실제 포트폴리오(고수익 추구·자본 보존 2버킷, 연 2\~3% 인출률, 6개월 현금 보유, 특정 국가·산업 분산 계획)에서, 이 장의 원리로 더 견고하게 만들 수 있는 부분은 무엇인가?
-* 나는 이미 어떤 부분에서 저자가 말하는 '내재가치 분석'이나 '하방 방어'를 실천하고 있는가?
-* 여전히 과거의 성공 방식(집중 투자, 성장 서사에 대한 베팅) 때문에, 은퇴 후에도 정량적 검증 없이 같은 방식으로 '더 벌려' 하고 있는 지점은 무엇인가?
+* 나는 이미 어떤 부분에서 저자가 말하는 '계속 사는 규율'이나 '분산'을 실천하고 있는가?
+* 여전히 과거의 성공 방식(집중 투자, 변동성에 대한 무감각) 때문에, 은퇴 후에도 자본 보존보다 공격적 태도를 무의식적으로 유지하고 있는 지점은 무엇인가?
 
 ---
 
@@ -237,7 +207,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 4.
 5.
 
-가능하면 측정 가능하고 구체적으로 작성한다. (예: 새로운 매수 결정 전 "이 기업의 추정 내재가치(수익력·장부가치·청산가치 기준) 대비 지금 가격에 얼마의 할인폭이 있는가"를 문서화하는 습관, 분기에 한 번 자본 보존 버킷의 자산들이 실제로 순유동자산가치·장부가치 기준에 부합하는지 점검하는 습관, 보유 기업의 분기 실적 발표 시 발표된 이익이 아니라 감가상각·특별손실을 조정한 실질 수익력을 따로 계산해보는 습관, 연 1\~2회 한국·미국 빅테크·반도체 집중 노출의 분산 진행 상황을 점검하는 습관, 연 1회 지난 투자 결정 중 무엇이 정량적 분석에 근거했고 무엇이 성장 서사에 근거했는지 함께 복기하는 습관 등)
+가능하면 측정 가능하고 구체적으로 작성한다. (예: 신규 지출·투자 결정 전 "이것이 소득을 늘리는 결정인가, 단순 소비인가"를 구분해 기록하는 습관, 분기에 한 번 자본 보존 버킷이 실제로 변동성 회피를 우선하는 구조인지 점검하는 습관, 연 1\~2회 고수익 추구 버킷 내 개별 종목·특정 산업(한국·빅테크·반도체) 집중 비중을 수치로 확인하는 습관, 매 인출 시점마다 "사전에 계획된 인출"인지 "시장 상황에 대한 반응적 매도"인지 스스로 확인하고 기록하는 습관, 연 1회 지난 투자 결정 중 무엇이 "계속 사기의 규율"에 해당했고 무엇이 시장 타이밍이나 산업 집중 베팅에 가까웠는지 함께 복기하는 습관 등)
 
 ---
 
@@ -253,20 +223,20 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 본문에 등장한 영어 단어·표현 중 기억할 만한 것을 정리한다.
 
-* 단어/표현 — 뜻, 본문에서의 쓰임 (예: Benjamin Graham, David Dodd, Intrinsic Value, Margin of Safety, Investment vs. Speculation, Fixed-Value Investment, Senior Securities, Earning Power, Book Value, Net Current Asset Value, Liquidating Value, Discrepancies Between Price and Value 등)
+* 단어/표현 — 뜻, 본문에서의 쓰임 (예: Nick Maggiulli, Just Keep Buying, Dollar-Cost Averaging, Lump-Sum Investing, 2x Rule, Human Capital, Lifestyle Creep, Drawdown, Skewness of Returns, Withdrawal Rate, Hedonic Adaptation 등)
 
 ---
 
 ## 작성 원칙
 
 * 단순 요약이 아니라 논증 재구성 중심으로 작성한다.
-* 그레이엄·도드 특유의 핵심 개념 — **내재가치(Intrinsic Value)**, **투자와 투기의 구분(Investment vs. Speculation)**, **정량적·정성적 요인(Quantitative and Qualitative Factors)**, **고정가치 투자와 상위 증권의 선별 기준**, **사업 가치평가(수익력·장부가치·순유동자산가치·청산가치)**, **가격과 가치의 괴리(Discrepancies Between Price and Value)** — 을 유지한다.
-* 새로운 종목 선정 기법을 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 그레이엄·도드가 확립한 가치투자의 원형 방법론을 통해, 축적기의 집중·성장 중심 투자 태도에서 은퇴 후의 방어·원금 보전 중심 태도로 어떻게 전환할 것인가라는 실천 철학**에 초점을 맞춘다.
-* 각 장이 7부 52장 중 어디에 해당하는지(소속 부 포함) 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 인출률, 분산 계획)에 적용하는 방법을 분석에 포함한다.
-* 2\~3부(6\~26장)처럼 1930\~40년대 채권·우선주의 기술적·시대적 세부 기준을 다루는 장에서는, 수치 기준 자체의 현대적 재현보다 "하방을 먼저 본다"는 태도의 원형을 짚어 자본 보존 버킷 설계에 연결하는 데 무게를 둔다.
+* 매기울리 특유의 핵심 개념 — **저스트 킵 바잉(Just Keep Buying)의 규율**, **2배의 법칙(2x Rule)**, **인적 자본(Human Capital)과 소득 중심 저축**, **개별 종목 회피와 분산 투자**, **변동성의 수용과 하락폭(Drawdown) 관리**, **위기장에서의 역발상 매수**, **매도·인출의 원칙**, **부와 행복의 심리적 간극(Hedonic Adaptation)** — 을 유지한다.
+* 새로운 종목 선정 기법을 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 매기울리가 데이터로 뒷받침하는 축적기의 원형 방법론("타이밍을 재지 말고 꾸준히 계속 사라")을 통해, 축적기의 집중·성장 중심 투자 태도에서 은퇴 후의 방어·인출 관리 중심 태도로 어떻게 전환할 것인가라는 실천 철학**에 초점을 맞춘다.
+* 각 장이 2부 21장 중 어디에 해당하는지(소속 부 포함) 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 인출률, 분산 계획)에 적용하는 방법을 분석에 포함한다.
+* 9장·18장·20장·21장처럼 은퇴·매도·심리·인생 전반을 다루는 장에서는 축적기 중심의 논지를 그대로 적용하기보다 인출기 관점에서 어떻게 재해석되어야 하는지에 무게를 두고, 1\~8장·10\~17장처럼 명백히 축적기를 향한 장에서는 과거의 나를 복기하는 방식으로 연결한다.
 * 이미 경제적 자유를 달성하고 '자산을 지키며 써야 하는' 은퇴자의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
-* 저자의 통찰을 무비판적으로 인용해 "나의 과거 집중 투자도 결국 안전마진의 일종이었다"고 안이하게 단정하거나, 반대로 "나는 이미 은퇴했으니 이 책의 정량적 분석 기법은 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다. 특히 **철저한 분석과 안전마진 없이는 진정한 투자가 아니라는 통찰과, 집중 성장주 투자로 이미 경제적 자유를 달성한 나의 과거 성과에 대한 미련 사이의 긴장**을 정직하게 다룬다.
-* 인용문·사례·수치는 반드시 실제 책 내용(영어 원서 6판, 필요시 국내 정식 번역본)을 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 6판 인쇄본에 요약만 실리고 CD에 전문이 수록된 장은 이를 명시한다. 그레이엄·도드의 시장 진단 중 1930\~40년대라는 특정 시기에 국한된 판단은 "그레이엄·도드는 ~라고 본다"는 식으로 시대적 주장임을 명시한다.
+* 저자의 통찰을 무비판적으로 인용해 "나의 과거 집중 투자도 결국 계속 사기의 규율이었다"고 안이하게 단정하거나, 반대로 "나는 이미 은퇴했으니 이 책은 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다. 특히 **타이밍을 재지 말고 변동성을 수용하며 계속 사라는 축적기의 통찰과, 집중 성장주 투자로 이미 경제적 자유를 달성한 나의 과거 성과, 그리고 지금은 인출기에 들어섰다는 현재 국면 사이의 긴장**을 정직하게 다룬다.
+* 인용문·사례·수치는 반드시 실제 책 내용(영어 원서, 필요시 국내 정식 번역본)을 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 저자의 데이터 기반 주장 중 특정 기간·데이터셋에 근거한 결론은 "매기울리는 ~라고 본다"는 식으로 그 근거의 범위를 명시한다.
 * 한국어로 작성하되, 영어 원어 표기·핵심 원문·핵심 용어는 유지한다.
 * 마크다운 형식을 준수한다. (숫자·나이·비율 범위의 물결표는 `\~`로 이스케이프한다. 예: `2\~3%`)
 * 분량은 장의 실제 논증 밀도에 따라 유동적으로, 약 3,000\~5,000자 수준으로 작성한다. 원문 자체가 짧은 장은 분석의 깊이로 분량을 채우되, 없는 내용을 지어내 늘리지 않는다.

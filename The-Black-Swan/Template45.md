@@ -1,13 +1,13 @@
-# Prompt : 나심 탈레브 Nassim Nicholas Taleb 『블랙 스완 The Black Swan』 장별 분석 및 실천 정리
+# Prompt : 나심 니콜라스 탈레브 Nassim Nicholas Taleb 『블랙 스완 The Black Swan』 장별 분석 및 실천 정리
 
-나심 탈레브 Nassim Nicholas Taleb 의 『블랙 스완 The Black Swan』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
+나심 니콜라스 탈레브 Nassim Nicholas Taleb 의 『블랙 스완 The Black Swan: The Impact of the Highly Improbable』을 깊이 있게 분석하는 **은퇴 후 자산관리·자기 훈련 독서 코치**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.
 
 ## 목적
 
 이 정리는 단순한 독후감이 아닙니다.
-새로운 종목 선정 기법이나 재테크 기술을 얻기 위한 것도 아닙니다.
-**이미 경제적 자유를 이루고 은퇴하여 '자산을 불리는 축적기'를 끝낸 사람이, 그레이엄과 도드가 1929년 대공황 직후인 1934년 『증권분석』에서 처음 정식화한 안전마진(Margin of Safety)·내재가치(Intrinsic Value)·투자와 투기의 구분(Investment vs. Speculation)이라는 가치투자의 원형 개념 — 이후 그레이엄 자신의 『현명한 투자자』, 워런 버핏, 세스 클라먼 등 모든 가치투자 계보가 뿌리로 삼는 개념 — 을 자신의 실제 포트폴리오(고수익 추구 자산군과 자본 보존 자산군의 분리, 인출률 관리, 특정 국가·산업 집중 노출의 분산)와 정직하게 대조하는 실천 철학을 얻기 위한 정리입니다.**
+새로운 종목 선정 기법이나 예측 모델을 얻기 위한 것도 아닙니다.
+**이미 경제적 자유를 이루고 은퇴하여 '자산을 불리는 축적기'를 끝낸 사람이, 나심 탈레브가 이 책에서 정식화한 통찰 — 역사와 시장을 실제로 움직이는 것은 평균과 정규분포로 설명되는 '평범의 왕국(Mediocristan)'의 사건들이 아니라, 과거 경험으로는 거의 예상할 수 없고(희귀성) 일단 벌어지면 압도적인 영향을 미치며(충격의 크기) 벌어진 뒤에야 사람들이 마치 예측 가능했던 것처럼 그럴듯한 이야기를 지어내는(사후 설명 가능성) '블랙 스완(Black Swan)'이라는 것, 그리고 인간의 정신은 확증 편향·서사적 오류(Narrative Fallacy)·침묵하는 증거(Silent Evidence)·루딕 오류(Ludic Fallacy) 같은 인식론적 함정을 통해 스스로 이 사실을 체계적으로 은폐한다는 것 — 을 자신의 실제 포트폴리오(고수익 추구 자산군과 자본 보존 자산군의 분리, 인출률 관리, 특정 국가·산업 집중 노출의 분산)와 정직하게 대조하는 실천 철학을 얻기 위한 정리입니다.**
 
 나는 1976년생이며, 2026년 50세에 이미 **경제적 자유(Financial Independence)** 를 달성했습니다.
 (순자산 약 000억 원 — 돈 문제는 대체로 '해결된 수단'이며, 더 이상 삶의 목적이 아닙니다.)
@@ -23,13 +23,11 @@
 
 ### 이 책 분석의 핵심 긴장 (분석의 축)
 
-그레이엄·도드의 핵심 주장은 명확하다 — 증권분석의 범위와 한계, 내재가치라는 개념, 투자와 투기를 가르는 기준을 정립한 뒤(1부, 1\~5장), 채권·우선주 같은 고정가치 투자를 정량적 기준으로 선별하는 방법을 매우 상세히 제시하고(2\~3부, 6\~26장), 보통주 투자 이론과 손익계산서·대차대조표에 숨은 회계적 함정을 파헤친 뒤(4\~6부, 27\~45장), 마지막으로 시장 가격이 내재가치에서 벗어나는 현상을 포착하는 것이야말로 증권분석의 실질적 효용이라는 결론으로 마무리한다(7부, 46\~52장).
+탈레브의 핵심 주장은 명확하다 — 1부(1\~9장)에서 인간의 정신이 확증 편향, 서사적 오류, 침묵하는 증거, 루딕 오류를 통해 불확실성을 체계적으로 과소평가하고 스스로를 속인다는 것을 보이고, 2부(10\~13장)는 전문가·예측가·경제학자조차 미래를 예측하지 못한다는 "예측의 스캔들"을 파헤치며, 3부(14\~18장)는 평균이 의미를 갖는 '평범의 왕국(Mediocristan)'과 소수의 극단적 사건이 전체를 결정하는 '극단의 왕국(Extremistan)'을 구분한 뒤, 현대 금융이론(정규분포·종형 곡선에 기반한 리스크 모델)이 후자에 전자의 도구를 잘못 적용한 "위대한 지적 사기"라고 결론짓는다. 마지막 4부(19장 단 하나의 장)는 이 모든 논증의 실천적 귀결로서, 미래를 예측하려 들지 말고 대신 극도로 안전한 자산과 상방이 열린 소규모의 투기적 베팅으로 양극화하고 애매한 "중간" 위험을 피하라는 바벨 전략(barbell-like strategy)을 제시한다.
 
-이 지점은 나의 상황과 정확히 맞닿아 있으면서도, 동시에 나를 불편하게 만든다. 나는 **한국·미국 빅테크·반도체 집중 투자**를 통해 경제적 자유를 달성했다 — 이는 재무제표를 한 줄씩 검증하며 내재가치와 안전마진을 계산하는 그레이엄식 정량 분석이라기보다, 성장 서사와 산업 모멘텀에 대한 정성적 판단에 가까웠다. 그레이엄·도드의 논리를 그대로 받아들인다면, 이런 방식은 "투자"와 "투기"의 경계 위에서 줄타기를 해온 것일 수 있고, 그 성공은 분석력만이 아니라 특정 국가·산업의 장기 상승장이라는 시대적 순풍 덕이었을 가능성도 정직하게 검토해야 한다. 동시에 나는 이제 **더 이상 공격적으로 자산을 불리는 축적기가 아니라, 이미 확보한 자산을 지키며 인출해 쓰는 국면**에 들어섰다 — "고수익 추구" 버킷은 여전히 정성적 성장 스토리에 의존하는가, 아니면 그레이엄식 정량적 검증(수익력, 순유동자산가치, 장부가치)을 거치는가? "자본 보존" 버킷은 실제로 순유동자산가치·청산가치 같은 하방 방어적 기준에 부합하는가, 아니면 단순히 "덜 위험해 보이는" 자산을 담아둔 것에 불과한가?
+이 지점은 나의 상황과 정확히 맞닿아 있으면서도, 동시에 나를 불편하게 만든다. 나는 **한국·미국 빅테크·반도체 집중 투자**를 통해 경제적 자유를 달성했다 — 그리고 나는 그 성공에 대해 이미 "그래서 성공했다"는 그럴듯한 서사를 가지고 있다. 탈레브의 논리를 그대로 받아들인다면, 이 서사 자체가 의심의 대상이다. 이 집중 투자가 실제로는 (한도가 정해진 자본에 한해 상방이 열린) 정당한 바벨형 베팅이었는가, 아니면 아직 자신의 블랙 스완을 만나지 못한 "중간 위험"에 불과했는가? 그리고 "왜 통했는가"에 대한 나의 설명 — 한국·기술·반도체의 장기 성장에 대한 안목이 있었다는 이야기 — 은 실제 인과 관계를 반영하는가, 아니면 사후에 지어낸 서사적 오류이며, 비슷하게 집중 투자했지만 실패한 무수히 많은 사례(침묵하는 증거)를 보지 못한 채 나의 성공만을 근거로 삼는 생존자 편향은 아닌가? 동시에 나는 이제 **더 이상 공격적으로 자산을 불리는 축적기가 아니라, 이미 확보한 자산을 지키며 인출해 쓰는 국면**에 들어섰다 — "자본 보존" 버킷은 실제로 극단의 왕국에서 벌어지는 부정적 블랙 스완(통화 위기, 지정학적 충격, 기술주 동반 폭락 등)으로부터 방어되는가, 아니면 단지 "평범의 왕국에서 안전해 보이는" 자산(단기 채권, 예금 등)을 담아둔 것에 불과한가? 연 2\~3% 인출률(작년 수익의 1/3 한도)이라는 규칙은 이미 어느 정도 바벨적 방어 논리를 내장한 것인가, 아니면 정규분포적 "평균적인 해"를 가정한 채 진짜 블랙 스완이 오면 무너질 수 있는 평범의 왕국식 어림짐작인가?
 
-또한 이 책의 2\~3부(6\~26장, 21개 장)는 1930\~40년대 미국 채권·우선주 시장의 매우 기술적이고 시대적인 선별 기준(이자보상배율의 최소 배수, 담보 조항, 만기 구조 등)을 다루므로, 현대의 내 포트폴리오에 문자 그대로 적용하기는 어렵다. 이런 장을 분석할 때는 구체적 수치 기준 자체보다 **"고정가치 투자에서는 상방보다 하방을 먼저 본다"는 태도의 원형**을 짚어, 그 태도가 지금의 자본 보존 버킷 설계에 어떤 시사점을 주는지에 분석의 무게를 둔다. 이 긴장이 이 책 전체를 관통하는 나의 질문이다.
-
-각 장을 분석할 때, 이 긴장 — **"한국·미국 빅테크·반도체 집중 투자로 이미 이룬 경제적 자유(정량적 안전마진보다 정성적 성장 서사에 기댄 성공, 그리고 그 방식에 대한 관성)" 대 "그레이엄·도드가 증권분석의 근본 방법론으로 제시하는, 내재가치와 안전마진에 근거한 은퇴 후 자산관리로의 전환 필요성"** — 을 회피하지 말고 정직하게 다루어, **저자의 통찰(내재가치, 투자와 투기의 구분, 정량적·정성적 요인, 고정가치 투자의 선별 기준, 사업 가치평가(수익력·장부가치·청산가치), 회계적 함정에 대한 경계, 가격과 가치의 괴리)을 나의 실제 포트폴리오(고수익 추구·자본 보존의 2버킷 구조, 인출률, 분산 계획)에 어떻게 적용할 것인가**를 분석의 축으로 삼아 주세요.
+각 장을 분석할 때, 이 긴장 — **"한국·미국 빅테크·반도체 집중 투자로 이미 이룬 경제적 자유, 그리고 그 성공을 설명하는 그럴듯한 서사(서사적 오류·확증 편향·침묵하는 증거의 가능성, 그리고 그 성공 방식을 은퇴 후에도 그대로 끌고 가려는 관성)" 대 "탈레브가 제시하는, 예측을 포기하고 평범의 왕국과 극단의 왕국을 구분하며 극도의 안전 자산과 제한된 상방 개방형 베팅으로 양극화하는 바벨형 방어 구조로의 전환 필요성"** — 을 회피하지 말고 정직하게 다루어, **저자의 통찰(블랙 스완의 정의, 평범의 왕국과 극단의 왕국, 서사적 오류, 확증 편향, 침묵하는 증거, 루딕 오류, 인식론적 오만, 예측의 스캔들, 바벨 전략)을 나의 실제 포트폴리오(고수익 추구·자본 보존의 2버킷 구조, 인출률, 분산 계획)에 어떻게 적용할 것인가**를 분석의 축으로 삼아 주세요.
 
 ---
 
@@ -39,80 +37,52 @@ chapterXX-{English Chapter Title Slug}.md
 
 예시:
 
-chapter01-The-Scope-and-Limits-of-Security-Analysis-The-Concept-of-Intrinsic-Value.md
+chapter00-Prologue-On-the-Plumage-of-Birds.md
 
-chapter04-Distinctions-Between-Investment-and-Speculation.md
+chapter06-The-Narrative-Fallacy.md
 
-chapter42-Balance-Sheet-Analysis-Significance-of-Book-Value.md
+chapter09-The-Ludic-Fallacy-or-The-Uncertainty-of-the-Nerd.md
 
-chapter50-Discrepancies-Between-Price-and-Value.md
+chapter14-From-Mediocristan-to-Extremistan-and-Back.md
 
-chapter52-Market-Analysis-and-Security-Analysis.md
+chapter19-Half-and-Half-or-How-to-Get-Even-with-the-Black-Swan.md
 
-※ 『증권분석』은 날짜별 잠언집이 아니라 **7부(Part) 52개 장으로 구성되어, 앞부분(개념 정립)이 뒷부분(구체적 분석 기법과 결론)의 전제가 되는 방식으로 이어지는 하나의 논증**이다. 원서에는 공식적인 부(Part) 구분이 있으므로(1부. Survey and Approach / 2부. Fixed-Value Investments / 3부. Senior Securities with Speculative Features / 4부. Theory of Common-Stock Investment. The Dividend Factor / 5부. Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation / 6부. Balance-Sheet Analysis. Implications of Asset Values / 7부. Additional Aspects of Security Analysis. Discrepancies Between Price and Value), 장과 장 사이의 흐름뿐 아니라 소속 부(Part)도 함께 의식하며 작성한다.
-※ **저본**: McGraw-Hill 6판 *Security Analysis: Sixth Edition, Foreword by Warren Buffett* (2008, ISBN 978-0-07-159253-6)을 저본으로 삼는다. 본문 자체는 1940년 2판 텍스트를 그대로 수록하고 있으며, 워런 버핏의 서문, 세스 클라먼의 서문, 제임스 그랜트의 도입부, 그리고 하워드 막스·브루스 그린왈드 등 10인의 현대 가치투자자가 부(Part)별로 덧붙인 해설이 함께 실려 있다. 국내에는 『벤저민 그레이엄의 증권분석』(리딩리더, 이건 역, 2012, 6판 기준)이라는 정식 번역본이 있으므로, 인용 시 가능하면 영어 원문과 이 번역본의 표현을 함께 표기한다. 다만 실제 문장·쪽수를 직접 대조하지 못했으므로, 정확한 인용이 필요할 때는 원서 또는 번역서 실물로 재확인한다.
-※ 2\~3부(6\~26장)와 4\~7부 일부 장(9, 11, 12, 13, 14, 25, 30, 35, 36, 46장)은 6판 인쇄본에는 요약만 실리고 전문이 부록 CD에 수록되어 있다. 이런 장을 분석할 때는 이 사실을 명시하고, 인쇄본에 실린 요약과 다른 장·부에서 반복되는 원칙을 근거로 분석하며, 확인할 수 없는 세부 수치를 지어내지 않는다.
-※ 각 장의 인용문·사례·수치(대공황 시기의 채권 부도 사례, 1930\~40년대 특정 기업의 재무제표 분석 사례 등)는 반드시 실제 책 내용을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치를 지어내지 않는다. 그레이엄·도드의 시장 진단 중 1930\~40년대라는 특정 시기에 국한된 판단(당시의 채권·우선주 시장, 대공황기의 기업 재무 상태 등)은 "그레이엄·도드는 ~라고 본다"는 식으로 시대적 주장임을 명시해 서술한다.
+chapter20-Epilogue-Yevgenias-White-Swans.md
+
+※ 『블랙 스완』은 날짜별 잠언집이 아니라 **프롤로그 + 4부(Part) 19개 장 + 에필로그로 구성되어, 앞부분(인식론적 회의주의의 정립)이 뒷부분(예측 불가능성의 실증과 실천적 처방)의 전제가 되는 방식으로 이어지는 하나의 논증**이다. 원서에는 공식적인 부(Part) 구분이 있으므로(1부. Umberto Eco's Antilibrary, or How We Seek Validation / 2부. We Just Can't Predict / 3부. Those Gray Swans of Extremistan / 4부. The End), 장과 장 사이의 흐름뿐 아니라 소속 부(Part)도 함께 의식하며 작성한다. 4부는 19장 단 하나로만 구성되어 있다는 점에 유의한다(결번이 아니라 원서 구조 자체가 그러하다).
+※ **저본**: 2판(Random House, *The Black Swan: Second Edition — The Impact of the Highly Improbable, With a new section: "On Robustness and Fragility"*, 2010, ISBN 978-0-8129-7381-5)을 저본으로 삼는다. 1판(2007)과 달리 2판은 말미에 "On Robustness and Fragility"라는 후기 에세이가 추가되었다. 국내에는 『블랙 스완』(동녘사이언스, 차익종 역, 2008년 초판 / 김현구·차익종 역, 2018년 개정증보판)이라는 정식 번역본이 있으므로, 인용 시 가능하면 영어 원문과 이 번역본의 표현을 함께 표기한다. 다만 실제 문장·쪽수를 직접 대조하지 못했으므로, 정확한 인용이 필요할 때는 원서 또는 번역서 실물로 재확인한다. 장 제목의 한국어 번역(아래 표의 "한글 의미" 열)은 편의상 직역한 것이며, 정식 번역본의 실제 소제목 표기와 다를 수 있다.
+※ 2판 말미의 후기 에세이 "On Robustness and Fragility"는 번호가 매겨진 장(Chapter)이 아니다. `fromWeb/The-Black-Swan-qwen.md`(2차 자료)에 따르면 대략 9개 절로 구성되어 있고, 그 한글 절 제목은 다음과 같다: (1) 대자연에서 배우기, (2) 내가 이 모든 산책을 하는 이유 또는 시스템이 허약해지는 과정, (3) 돼지 목에 진주목걸이, (4) 아스퍼거 증후군과 존재론적 검은 백조, (5) 현대 철학사에서 (아마도) 가장 유용한 문제, (6) 제4사분면, 가장 유용한 문제에 대한 해답, (7) 제4사분면과 관련하여 무엇을 할 것인가, (8) 검은 백조에 강인한 사회를 위한 10가지 원칙, (9) 아모르 파티: 부서지지 않는 존재가 되는 법. 이 중 (6)(8)(9)는 "The Fourth Quadrant", "Ten Principles for a Black-Swan-Robust Society", "Amor Fati: How to Become Indestructible"라는 영문 표현이 웹 검색으로도 별도 확인되었으나, 나머지 절의 정확한 영문 원제·전체 절 개수·순서는 확인하지 못했다. 이는 **원서 실물로 직접 대조하지 못한 잠정 정보**이므로, 이 에세이를 별도 파일로 분석하기 전에 반드시 원서 실물(전자책/페이퍼백)로 절 제목(한글·영문 모두)·순서·개수를 재확인하고, 확인 전까지는 영문 제목을 지어내 쓰지 않는다.
+※ 각 장의 인용문·사례·수치(2008년 금융위기 이전에 출간되었다는 시점, 저자 개인의 일화, 실험·연구 인용 등)는 반드시 실제 책 내용을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치를 지어내지 않는다.
 ※ 이 책의 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 
-참고 — 『증권분석』의 장 구성 (저본: McGraw-Hill 6판, 2008):
+참고 — 『블랙 스완』의 장 구성 (저본: Random House 2판, 2010):
 
 | 부 | 장 번호 | 영어 제목 | 파일명 슬러그 | 한글 의미 |
 |----|---------|-----------|---------------|-----------|
-| **1부. 개관과 접근법**<br>Survey and Approach | 1장 | The Scope and Limits of Security Analysis. The Concept of Intrinsic Value | The-Scope-and-Limits-of-Security-Analysis-The-Concept-of-Intrinsic-Value | 증권분석의 범위와 한계. 내재가치의 개념 |
-| | 2장 | Fundamental Elements in the Problem of Analysis. Quantitative and Qualitative Factors | Fundamental-Elements-in-the-Problem-of-Analysis-Quantitative-and-Qualitative-Factors | 분석 문제의 근본 요소. 정량적·정성적 요인 |
-| | 3장 | Sources of Information | Sources-of-Information | 정보의 원천 |
-| | 4장 | Distinctions Between Investment and Speculation | Distinctions-Between-Investment-and-Speculation | 투자와 투기의 구분 |
-| | 5장 | Classification of Securities | Classification-of-Securities | 증권의 분류 |
-| **2부. 고정가치 투자**<br>Fixed-Value Investments | 6장 | The Selection of Fixed-Value Investments | The-Selection-of-Fixed-Value-Investments | 고정가치 투자의 선정 |
-| | 7장 | The Selection of Fixed-Value Investments: Second and Third Principles | The-Selection-of-Fixed-Value-Investments-Second-and-Third-Principles | 고정가치 투자의 선정: 두 번째·세 번째 원칙 |
-| | 8장 | Specific Standards for Bond Investment | Specific-Standards-for-Bond-Investment | 채권 투자를 위한 구체적 기준 |
-| | 9장 | Specific Standards for Bond Investment (Continued)\* | Specific-Standards-for-Bond-Investment-Continued-I | 채권 투자 기준(계속)\* |
-| | 10장 | Specific Standards for Bond Investment (Continued) | Specific-Standards-for-Bond-Investment-Continued-II | 채권 투자 기준(계속) |
-| | 11장 | Specific Standards for Bond Investment (Continued)\* | Specific-Standards-for-Bond-Investment-Continued-III | 채권 투자 기준(계속)\* |
-| | 12장 | Special Factors in the Analysis of Railroad and Public-Utility Bonds\* | Special-Factors-in-the-Analysis-of-Railroad-and-Public-Utility-Bonds | 철도·공익기업 채권 분석의 특수 요인\* |
-| | 13장 | Other Special Factors in Bond Analysis\* | Other-Special-Factors-in-Bond-Analysis | 채권 분석의 다른 특수 요인\* |
-| | 14장 | The Theory of Preferred Stocks\* | The-Theory-of-Preferred-Stocks | 우선주의 이론\* |
-| | 15장 | Technique of Selecting Preferred Stocks for Investment | Technique-of-Selecting-Preferred-Stocks-for-Investment | 투자용 우선주 선정 기법 |
-| | 16장 | Income Bonds and Guaranteed Securities | Income-Bonds-and-Guaranteed-Securities | 수익사채와 보증증권 |
-| | 17장 | Guaranteed Securities (Continued) | Guaranteed-Securities-Continued | 보증증권(계속) |
-| | 18장 | Protective Covenants and Remedies of Senior Security Holders | Protective-Covenants-and-Remedies-of-Senior-Security-Holders | 보호 조항과 상위 증권 보유자의 구제수단 |
-| | 19장 | Protective Covenants (Continued) | Protective-Covenants-Continued | 보호 조항(계속) |
-| | 20장 | Preferred-Stock Protective Provisions. Maintenance of Junior Capital | Preferred-Stock-Protective-Provisions-Maintenance-of-Junior-Capital | 우선주 보호 조항. 후순위 자본의 유지 |
-| | 21장 | Supervision of Investment Holdings | Supervision-of-Investment-Holdings | 투자 보유 자산의 관리·감독 |
-| **3부. 투기적 요소를 가진 상위 증권**<br>Senior Securities with Speculative Features | 22장 | Privileged Issues | Privileged-Issues | 특권부 증권 |
-| | 23장 | Technical Characteristics of Privileged Senior Securities | Technical-Characteristics-of-Privileged-Senior-Securities | 특권부 상위 증권의 기술적 특성 |
-| | 24장 | Technical Aspects of Convertible Issues | Technical-Aspects-of-Convertible-Issues | 전환증권의 기술적 측면 |
-| | 25장 | Senior Securities with Warrants. Participating Issues. Switching and Hedging\* | Senior-Securities-with-Warrants-Participating-Issues-Switching-and-Hedging | 워런트부 상위 증권. 참가증권. 교체매매와 헤지\* |
-| | 26장 | Senior Securities of Questionable Safety | Senior-Securities-of-Questionable-Safety | 안전성이 의심되는 상위 증권 |
-| **4부. 보통주 투자 이론. 배당 요인**<br>Theory of Common-Stock Investment. The Dividend Factor | 27장 | The Theory of Common-Stock Investment | The-Theory-of-Common-Stock-Investment | 보통주 투자의 이론 |
-| | 28장 | Newer Canons of Common-Stock Investment | Newer-Canons-of-Common-Stock-Investment | 보통주 투자의 새로운 규범 |
-| | 29장 | The Dividend Factor in Common-Stock Analysis | The-Dividend-Factor-in-Common-Stock-Analysis | 보통주 분석에서의 배당 요인 |
-| | 30장 | Stock Dividends\* | Stock-Dividends | 주식배당\* |
-| **5부. 손익계산서 분석. 보통주 가치평가의 수익 요인**<br>Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation | 31장 | Analysis of the Income Account | Analysis-of-the-Income-Account | 손익계산서 분석 |
-| | 32장 | Extraordinary Losses and Other Special Items in the Income Account | Extraordinary-Losses-and-Other-Special-Items-in-the-Income-Account | 손익계산서상의 특별손실과 기타 특수 항목 |
-| | 33장 | Misleading Artifices in the Income Account. Earnings of Subsidiaries | Misleading-Artifices-in-the-Income-Account-Earnings-of-Subsidiaries | 손익계산서의 오도하는 기법들. 자회사의 이익 |
-| | 34장 | The Relation of Depreciation and Similar Charges to Earning Power | The-Relation-of-Depreciation-and-Similar-Charges-to-Earning-Power | 감가상각 등 유사 비용과 수익력의 관계 |
-| | 35장 | Public-Utility Depreciation Policies\* | Public-Utility-Depreciation-Policies | 공익기업의 감가상각 정책\* |
-| | 36장 | Amortization Charges from the Investor's Standpoint\* | Amortization-Charges-from-the-Investors-Standpoint | 투자자 관점에서 본 상각비용\* |
-| | 37장 | Significance of the Earnings Record | Significance-of-the-Earnings-Record | 이익 기록의 의미 |
-| | 38장 | Specific Reasons for Questioning or Rejecting the Past Record | Specific-Reasons-for-Questioning-or-Rejecting-the-Past-Record | 과거 실적을 의심하거나 기각해야 할 구체적 이유 |
-| | 39장 | Price-Earnings Ratios for Common Stocks. Adjustments for Changes in Capitalization | Price-Earnings-Ratios-for-Common-Stocks-Adjustments-for-Changes-in-Capitalization | 보통주의 주가수익비율. 자본구조 변화에 대한 조정 |
-| | 40장 | Capitalization Structure | Capitalization-Structure | 자본구조 |
-| | 41장 | Low-Priced Common Stocks. Analysis of the Source of Income | Low-Priced-Common-Stocks-Analysis-of-the-Source-of-Income | 저가 보통주. 수익 원천의 분석 |
-| **6부. 대차대조표 분석. 자산가치의 함의**<br>Balance-Sheet Analysis. Implications of Asset Values | 42장 | Balance-Sheet Analysis. Significance of Book Value | Balance-Sheet-Analysis-Significance-of-Book-Value | 대차대조표 분석. 장부가치의 의미 |
-| | 43장 | Significance of the Current-Asset Value | Significance-of-the-Current-Asset-Value | 유동자산가치의 의미 |
-| | 44장 | Implications of Liquidating Value. Stockholder-Management Relationships | Implications-of-Liquidating-Value-Stockholder-Management-Relationships | 청산가치의 함의. 주주-경영진 관계 |
-| | 45장 | Balance-Sheet Analysis (Concluded) | Balance-Sheet-Analysis-Concluded | 대차대조표 분석(결론) |
-| **7부. 증권분석의 추가적 측면. 가격과 가치의 괴리**<br>Additional Aspects of Security Analysis. Discrepancies Between Price and Value | 46장 | Stock-Option Warrants\* | Stock-Option-Warrants | 스톡옵션 워런트\* |
-| | 47장 | Cost of Financing and Management | Cost-of-Financing-and-Management | 자금조달과 경영의 비용 |
-| | 48장 | Some Aspects of Corporate Pyramiding | Some-Aspects-of-Corporate-Pyramiding | 기업 피라미딩의 몇 가지 측면 |
-| | 49장 | Comparative Analysis of Companies in the Same Field | Comparative-Analysis-of-Companies-in-the-Same-Field | 동일 업종 기업 간의 비교 분석 |
-| | 50장 | Discrepancies Between Price and Value | Discrepancies-Between-Price-and-Value | 가격과 가치의 괴리 |
-| | 51장 | Discrepancies Between Price and Value (Continued) | Discrepancies-Between-Price-and-Value-Continued | 가격과 가치의 괴리(계속) |
-| | 52장 | Market Analysis and Security Analysis | Market-Analysis-and-Security-Analysis | 시장분석과 증권분석 |
+| — | 프롤로그 | Prologue: On the Plumage of Birds | Prologue-On-the-Plumage-of-Birds | 프롤로그: 새의 깃털에 관하여 |
+| **1부. 움베르토 에코의 반(反)서재, 혹은 우리는 어떻게 확신을 추구하는가**<br>Umberto Eco's Antilibrary, or How We Seek Validation | 1장 | The Apprenticeship of an Empirical Skeptic | The-Apprenticeship-of-an-Empirical-Skeptic | 경험적 회의주의자의 수업시대 |
+| | 2장 | Yevgenia's Black Swan | Yevgenias-Black-Swan | 예브게니아의 블랙 스완 |
+| | 3장 | The Speculator and the Prostitute | The-Speculator-and-the-Prostitute | 투기꾼과 매춘부 |
+| | 4장 | One Thousand and One Days, or How Not to Be a Sucker | One-Thousand-and-One-Days-or-How-Not-to-Be-a-Sucker | 천일하고도 하루, 혹은 어떻게 순진한 봉이 되지 않을 것인가 |
+| | 5장 | Confirmation Shmonfirmation! | Confirmation-Shmonfirmation | 확증이라니, 무슨 확증! |
+| | 6장 | The Narrative Fallacy | The-Narrative-Fallacy | 서사적 오류 |
+| | 7장 | Living in the Antechamber of Hope | Living-in-the-Antechamber-of-Hope | 희망의 대기실에서 살아가기 |
+| | 8장 | Giacomo Casanova's Unfailing Luck: The Problem of Silent Evidence | Giacomo-Casanovas-Unfailing-Luck-The-Problem-of-Silent-Evidence | 자코모 카사노바의 변함없는 행운: 침묵하는 증거의 문제 |
+| | 9장 | The Ludic Fallacy, or The Uncertainty of the Nerd | The-Ludic-Fallacy-or-The-Uncertainty-of-the-Nerd | 루딕 오류, 혹은 범생이의 불확실성 |
+| **2부. 우리는 그저 예측할 수 없다**<br>We Just Can't Predict | 10장 | The Scandal of Prediction | The-Scandal-of-Prediction | 예측의 스캔들 |
+| | 11장 | How to Look for Bird Poop | How-to-Look-for-Bird-Poop | 새똥을 어떻게 찾을 것인가 |
+| | 12장 | Epistemocracy, a Dream | Epistemocracy-a-Dream | 인식정치(에피스테모크라시), 하나의 꿈 |
+| | 13장 | Apelles the Painter, or What Do You Do if You Cannot Predict? | Apelles-the-Painter-or-What-Do-You-Do-if-You-Cannot-Predict | 화가 아펠레스, 혹은 예측할 수 없다면 무엇을 할 것인가 |
+| **3부. 극단의 왕국의 회색 백조들**<br>Those Gray Swans of Extremistan | 14장 | From Mediocristan to Extremistan, and Back | From-Mediocristan-to-Extremistan-and-Back | 평범의 왕국에서 극단의 왕국으로, 그리고 다시 돌아와서 |
+| | 15장 | The Bell Curve, That Great Intellectual Fraud | The-Bell-Curve-That-Great-Intellectual-Fraud | 종형 곡선, 그 위대한 지적 사기 |
+| | 16장 | The Aesthetics of Randomness | The-Aesthetics-of-Randomness | 무작위성의 미학 |
+| | 17장 | Locke's Madmen, or Bell Curves in the Wrong Places | Lockes-Madmen-or-Bell-Curves-in-the-Wrong-Places | 로크의 광인들, 혹은 잘못된 곳에 놓인 종형 곡선 |
+| | 18장 | The Uncertainty of the Phony | The-Uncertainty-of-the-Phony | 가짜(사이비)의 불확실성 |
+| **4부. 끝**<br>The End | 19장 | Half and Half, or How to Get Even with the Black Swan | Half-and-Half-or-How-to-Get-Even-with-the-Black-Swan | 반반씩, 혹은 블랙 스완에게 되갚아주는 법 |
+| — | 에필로그 | Epilogue: Yevgenia's White Swans | Epilogue-Yevgenias-White-Swans | 에필로그: 예브게니아의 하얀 백조들 |
+| — | (2판 후기 에세이, 비번호) | Postscript Essay: On Robustness and Fragility | Postscript-Essay-On-Robustness-and-Fragility | 후기 에세이: 강건함과 취약함에 관하여 (아래 각주의 잠정 절 구성 참고 — 작성 전 원서 재확인 필수) |
 
-※ 위 표의 장 번호(1\~52)는 영어판 원서 목차와 그대로 일치한다(결번 없음). \* 표시된 장은 6판 인쇄본에 요약만 실리고 전문은 부록 CD에 수록되어 있으므로, 해당 장을 분석할 때는 이 점을 명시한다. 파일 본문 도입부에 해당 장이 속한 부(Part)를 함께 표기한다(예: "27장(4부. 보통주 투자 이론. 배당 요인)").
+※ 위 표의 장 번호(1\~19)는 영어판 2판 원서 목차와 그대로 일치한다(결번 없음). 프롤로그와 에필로그는 번호가 매겨진 장이 아니며, 편의상 `chapter00`과 `chapter20`으로 명명한다. 파일 본문 도입부에 해당 장이 속한 부(Part)를 함께 표기한다(예: "6장(1부. 움베르토 에코의 반서재, 혹은 우리는 어떻게 확신을 추구하는가)").
 
 ---
 
@@ -122,7 +92,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 ## {한글 장 제목}
 
-> 이 장은 『증권분석』 7부 52개 장 중 {O}번째이며, **{소속 부(Part) 이름}**에 속하며, {이 장이 전체 논증에서 담당하는 역할 — 예: 내재가치 개념의 정의 / 투자와 투기의 구분 제시 / 고정가치 투자의 정량적 선별 기준 제시 / 보통주 투자 이론의 정립 / 손익계산서의 회계적 함정 해부 / 자산 기반 가치평가 방법론 제시 / 가격과 가치의 괴리라는 결론 제시 등}을 다룬다.
+> 이 장은 『블랙 스완』 프롤로그 + 4부 19개 장 + 에필로그 중 {O}번째이며, **{소속 부(Part) 이름}**에 속하며, {이 장이 전체 논증에서 담당하는 역할 — 예: 경험적 회의주의자로서 저자의 배경 소개 / 블랙 스완의 정의 제시 / 확증 편향·서사적 오류·침묵하는 증거·루딕 오류 같은 인식론적 함정의 해부 / 전문가·예측가의 예측 실패 실증 / 평범의 왕국과 극단의 왕국의 구분 / 정규분포·종형 곡선에 기반한 현대 금융이론 비판 / 예측을 포기하고 바벨형으로 방어하는 실천적 결론 제시 등}을 다룬다.
 
 ---
 
@@ -142,7 +112,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 * 의미
 * 왜 중요한가
 
-※ 원문은 영어(McGraw-Hill 6판)이므로 원문을 그대로 인용하고, 한국어는 국내 정식 번역본(리딩리더, 이건 역, 2012)의 표현을 참고하되 직접 번역한 경우 그 사실을 밝힌다. 인용문은 반드시 실제 책 내용을 확인한 뒤 작성하며, 지어내지 않는다.
+※ 원문은 영어(Random House 2판)이므로 원문을 그대로 인용하고, 한국어는 국내 정식 번역본(동녘사이언스, 차익종/김현구·차익종 역)의 표현을 참고하되 직접 번역한 경우 그 사실을 밝힌다. 인용문은 반드시 실제 책 내용을 확인한 뒤 작성하며, 지어내지 않는다.
 ※ 내용을 인용하여 상세히 작성합니다.
 
 ---
@@ -153,9 +123,9 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 예시:
 
-* 개념 (예: 내재가치(Intrinsic Value), 투자와 투기의 구분(Investment vs. Speculation), 정량적·정성적 요인(Quantitative and Qualitative Factors), 고정가치 투자(Fixed-Value Investment), 상위 증권(Senior Securities), 안전마진(Margin of Safety), 수익력(Earning Power), 장부가치(Book Value), 순유동자산가치(Net Current Asset Value), 청산가치(Liquidating Value), 가격과 가치의 괴리(Discrepancies Between Price and Value) 등)
+* 개념 (예: 블랙 스완(Black Swan), 평범의 왕국(Mediocristan), 극단의 왕국(Extremistan), 서사적 오류(Narrative Fallacy), 확증 편향(Confirmation Bias), 침묵하는 증거(Silent Evidence), 루딕 오류(Ludic Fallacy), 인식론적 오만(Epistemic Arrogance), 플라톤성(Platonicity), 예측의 스캔들(The Scandal of Prediction), 종형 곡선/정규분포(The Bell Curve/Gaussian Distribution), 바벨 전략(Barbell-like Strategy), 강건함과 취약함(Robustness and Fragility) 등)
 * 정의
-* 이 장에서 저자가 드는 예시·사례 (대공황기 채권 부도 사례, 1930\~40년대 특정 철도·공익기업·제조업체의 재무제표 분석 사례 등)
+* 이 장에서 저자가 드는 예시·사례 (저자 개인의 일화, 칠면조의 비유, 검은 백조 발견의 역사, 2008년 금융위기 이전 출간이라는 시점, 실제 예측 실패 사례 등)
 * 나의 삶·자산관리 계획에서의 의미
 
 ---
@@ -173,35 +143,34 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 - 이 장이 어떤 전제에서 출발해 어떤 결론에 이르는지, 논증의 단계를 순서대로 정리한다.
 - 이 장의 결론이 앞 장(또는 앞 부)의 결론을 어떻게 이어받는지, 그리고 다음 장에서 어떤 논의로 이어질 여지를 남기는지도 짚는다(장과 장, 부와 부 사이의 논리적 이음매).
 
-### (2) 이 장이 참조하거나 논쟁하는 투자 이론적·역사적 배경
+### (2) 이 장이 참조하거나 논쟁하는 사상적·역사적 배경
 
-- 이 장에 언급되거나 암시되는 실제 투자 이론적·역사적 논의 — 1929년 대공황과 그 직후 채권·주식시장의 신뢰 붕괴라는 시대적 배경, 그레이엄 본인이 이후 펴낸 『현명한 투자자』20장의 안전마진 개념과의 연결, 워런 버핏·세스 클라먼·하워드 막스 등 후대 가치투자자들이 이 책의 원칙을 어떻게 계승·변형했는지, 효율적 시장 가설(유진 파마)에 대한 사전적 반박으로서의 의미 등 — 의 배경을 보충 설명한다.
-- 저자가 왜 하필 이 지점에서 그 논의를 인용·변형하는지, 어떤 통찰(내재가치, 투자와 투기의 구분, 정량적 분석의 우선성 등)을 드러내기 위해서인지 해석한다.
-- 표면적 소개보다 그 인용이 그레이엄·도드의 전체 논증에서 담당하는 역할에 집중한다.
+- 이 장에 언급되거나 암시되는 실제 사상적·역사적 논의 — 흄(Hume)의 귀납의 문제, 포퍼(Popper)의 반증주의, 만델브로트(Mandelbrot)의 프랙탈과 두터운 꼬리 분포, 카너먼·트버스키의 휴리스틱과 편향 연구, 이 책이 2008년 글로벌 금융위기 발생 1년 전에 출간되었다는 시점, 현대 포트폴리오 이론(마코위츠)·블랙-숄즈 옵션가격 모형·VaR(Value at Risk) 같은 정규분포 기반 금융 모델에 대한 사전적 비판 등 — 의 배경을 보충 설명한다.
+- 저자가 왜 하필 이 지점에서 그 논의를 인용·변형하는지, 어떤 통찰(예측 불가능성, 인식론적 겸손, 정규분포의 오용 등)을 드러내기 위해서인지 해석한다.
+- 표면적 소개보다 그 인용이 탈레브의 전체 논증에서 담당하는 역할에 집중한다.
 
-### (3) 실제 시장·회계·투자자 심리에서 작동하는 메커니즘
+### (3) 실제 시장·역사·투자자 심리에서 작동하는 메커니즘
 
-- 이 장의 논증이 '실제 시장·기업 회계·투자자 심리 속에서 어떻게 작동하는가'를 구체적으로 짚는다.
-  (왜 회계상 이익은 경영진의 재량에 따라 왜곡될 수 있는가, 왜 시장 가격은 단기적으로 내재가치와 무관하게 움직이면서도 장기적으로는 수렴하는 경향을 보이는가, 안전마진이 왜 예측이 아니라 방어의 논리로 작동하는가, 고정가치 투자에서 하방을 먼저 보는 태도가 왜 보통주 투자에도 똑같이 적용되어야 하는가 등)
-- 특히 이 장이 다루는 원칙(들)이 지금 나의 실제 포트폴리오(고수익 추구·자본 보존 버킷의 구성, 인출률 관리)에서 어느 지점에 해당한다고 볼 수 있는지, 그 진단이 왜 은퇴 후 자산관리 설계와 직결되는지 밝힌다.
+- 이 장의 논증이 '실제 시장·역사적 사건·투자자 심리 속에서 어떻게 작동하는가'를 구체적으로 짚는다.
+  (왜 전문가·예측가는 자신의 예측 실패를 인식하지 못하는가, 왜 시장의 꼬리 위험(tail risk)은 정규분포가 암시하는 것보다 훨씬 자주 발생하는가, 왜 성공 스토리는 사후에 그럴듯하게 재구성되어 침묵하는 실패 사례들을 가리는가, 바벨 전략이 왜 예측이 아니라 구조적 강건함의 논리로 작동하는가 등)
+- 특히 이 장이 다루는 원칙(들)이 지금 나의 실제 포트폴리오(고수익 추구·자본 보존 버킷의 구성, 인출률 관리, 국가·산업 집중도)에서 어느 지점에 해당한다고 볼 수 있는지, 그 진단이 왜 은퇴 후 자산관리 설계와 직결되는지 밝힌다.
 
 ### (4) 뉘앙스와 한계
 
-- 저자의 논증(1930\~40년대 미국 채권·우선주 시장이라는 특정 시대 상황에 근거한 정량적 기준의 일반화 가능성, 오늘날의 회계 기준·시장 구조와의 괴리, 내재가치를 계산하는 과정 자체에 내재하는 주관성 등)을 과도하게 일반화할 때 생기는 위험이나 예외를 짚는다.
-- 특히 이 책의 **"철저한 정량적 분석과 안전마진 없이는 진정한 투자가 아니다"는 통찰**과, 나의 **집중된 성장주 투자(한국·미국 빅테크·반도체)로 이미 경제적 자유를 달성한 과거 성과** 사이의 긴장을 정직하게 검토한다.
-  (나의 과거 성공은 정량적 안전마진의 원칙에 부합했던 것인가, 아니면 시대적 순풍(성장주 장기 상승장)에 기댄 것이었는가 — 그리고 그 답이 앞으로의 고수익 추구·자본 보존 버킷 설계를 어떻게 바꿔야 하는지.)
-- 저자의 통찰을 무비판적으로 인용해 "나는 이미 경제적 자유를 이루었으니 나의 과거 투자 방식도 결국 안전마진의 일종이었다"고 안이하게 단정하거나, 반대로 "나는 이제 은퇴했으니 이 책의 정량적 분석 기법은 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
-- 특히 2\~3부(6\~26장)처럼 채권·우선주에 관한 시대적·기술적 세부 기준을 다루는 장에서는, 구체적 수치 기준을 오늘날에 그대로 적용하려 하기보다 그 기준이 담고 있는 하방 방어의 태도를 어떻게 지금의 자본 보존 버킷에 옮길 수 있는지에 초점을 맞춘다.
+- 저자의 논증(모든 위험을 예측 불가능한 블랙 스완으로 환원할 때 생기는 과잉 일반화, "예측하지 말라"는 처방이 모든 의사결정을 마비시킬 위험, 극단의 왕국과 평범의 왕국을 가르는 기준 자체의 모호함 등)을 과도하게 일반화할 때 생기는 위험이나 예외를 짚는다.
+- 특히 이 책의 **"평범의 왕국과 극단의 왕국을 구분하고, 예측 대신 구조적 강건함을 추구해야 한다"는 통찰**과, 나의 **집중된 성장주 투자(한국·미국 빅테크·반도체)로 이미 경제적 자유를 달성한 과거 성과와 그 성공을 설명하는 나 자신의 서사** 사이의 긴장을 정직하게 검토한다.
+  (나의 과거 성공은 실제로 상방이 열린 바벨형 베팅에 가까웠는가, 아니면 아직 자신의 블랙 스완을 만나지 못한 중간 위험에 불과했는가 — 그리고 그 답이 앞으로의 고수익 추구·자본 보존 버킷 설계를 어떻게 바꿔야 하는지.)
+- 저자의 통찰을 무비판적으로 인용해 "나는 이미 경제적 자유를 이루었으니 나의 과거 집중 투자도 결국 바벨 전략의 일종이었다"고 안이하게 단정하거나, 반대로 "블랙 스완은 어차피 예측할 수 없으니 대비해도 소용없다"며 성찰과 구조적 방어를 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
 
 ### (5) 나의 삶과 자산관리 계획으로의 연결
 
-- 이 장의 논증이 **경제적 자유를 이미 달성한 50세**의 남은 삶 설계, 특히 **원금 보전과 하방 방어를 최우선에 두는 은퇴 후 포트폴리오 운용**에 어떤 의미를 갖는지 심화하여 연결한다.
+- 이 장의 논증이 **경제적 자유를 이미 달성한 50세**의 남은 삶 설계, 특히 **예측이 아니라 구조적 강건함을 최우선에 두는 은퇴 후 포트폴리오 운용**에 어떤 의미를 갖는지 심화하여 연결한다.
 - 특히 나의 **실제 포트폴리오 원칙(고수익 추구 버킷과 자본 보존 버킷의 분리, 연 2\~3% 인출률, 6개월 생활비의 현금성 자산 보유, 한국·미국 빅테크·반도체 집중 노출의 점진적 분산)** 에 이 장의 논증을 어떻게 적용할지 다리를 놓는다.
-  - "내재가치와 투자·투기의 구분(1부)"의 관점에서, 나의 과거 투자 방식이 실제로 가치와 가격의 괴리를 근거로 한 것이었는지, 아니면 성장 서사나 군중심리에 가까웠는지 구분해보기,
-  - "고정가치 투자와 상위 증권의 선별 기준(2\~3부)"의 관점에서, 지금 자본 보존 버킷에 담긴 자산들이 실제로 하방 방어를 우선하는 기준에 따라 설계되어 있는지, 아니면 단순히 "덜 위험해 보이는" 자산에 불과한지 점검하기,
-  - "손익계산서·대차대조표 분석(5\~6부)"의 관점에서, 내가 보유한 기업들의 발표 이익과 자산가치를 얼마나 회의적으로 검증해 왔는지 되짚어보기,
-  - "가격과 가치의 괴리(7부)"의 관점에서, 한국·미국 빅테크·반도체 집중 노출을 분산하는 과정에서 시장이 과대평가하거나 과소평가하는 지점을 어떻게 포착할지 검토하기.
-- 이미 실천해 온 '집중과 성장'을 통한 경제적 자유 달성의 경험을, 그레이엄·도드가 말하는 "가격과 가치는 별개이며, 그 괴리를 체계적으로 분석하는 것이 투자의 본질이다"는 통찰과 연결해, 앞으로의 포트폴리오를 스스로 어떻게 재설계할지 해석한다.
+  - "블랙 스완의 정의와 서사적 오류·침묵하는 증거(1부)"의 관점에서, 나의 과거 집중 투자 성공을 설명하는 나 자신의 이야기가 실제 인과 관계인지, 사후에 지어낸 서사이자 생존자 편향은 아닌지 구분해보기,
+  - "예측의 스캔들(2부)"의 관점에서, 앞으로의 자산배분·분산 계획이 여전히 "한국·기술·반도체가 계속 좋을 것"이라는 암묵적 예측에 의존하고 있지는 않은지 점검하기,
+  - "평범의 왕국과 극단의 왕국, 종형 곡선 비판(3부)"의 관점에서, 지금 자본 보존 버킷에 담긴 자산들이 실제로 극단의 왕국식 꼬리 위험(통화 위기, 지정학적 충격 등)까지 견디도록 설계되어 있는지, 아니면 단순히 "평범해 보이는 시기에 안전해 보이는" 자산에 불과한지 점검하기,
+  - "바벨 전략(4부)"의 관점에서, 고수익 추구 버킷과 자본 보존 버킷의 경계가 실제로 극단적으로 안전한 자산과 상방이 열린 소규모 베팅으로 뚜렷이 양극화되어 있는지, 아니면 애매한 "중간 위험" 자산이 섞여 있지는 않은지 검토하기.
+- 이미 실천해 온 '집중과 성장'을 통한 경제적 자유 달성의 경험을, 탈레브가 말하는 "예측하지 말고 구조로 대비하라"는 통찰과 연결해, 앞으로의 포트폴리오를 스스로 어떻게 재설계할지 해석한다.
 - 단, 구체적 실천 항목은 6\~7번 섹션에서 다루므로, 여기서는 '해석과 이해'에 머문다.
 
 ---
@@ -209,7 +178,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 ## 5. 더 생각해볼 질문
 
 - 내용과 관련하여, 더 생각해볼 질문 1\~3개를 작성합니다.
-- 가능하면 그중 하나는 **'철저한 정량적 분석과 안전마진 없이는 진정한 투자가 아니라는 그레이엄·도드의 통찰' 대 '한국·미국 빅테크·반도체 집중 투자로 이미 경제적 자유를 달성한 나의 과거 성과와 그 성공 방식에 대한 미련'** 의 긴장을 나의 포트폴리오 재설계에 비추어 묻는 질문으로 작성한다.
+- 가능하면 그중 하나는 **'예측을 포기하고 평범의 왕국과 극단의 왕국을 구분하며 구조적 강건함으로 대비해야 한다는 탈레브의 통찰' 대 '한국·미국 빅테크·반도체 집중 투자로 이미 경제적 자유를 달성한 나의 과거 성과와, 그 성공을 설명하는 나 자신의 서사에 대한 미련'** 의 긴장을 나의 포트폴리오 재설계에 비추어 묻는 질문으로 작성한다.
 
 ---
 
@@ -218,10 +187,10 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 다음 질문에 답하라.
 
 * 이 장의 내용이 현재 나의 삶과, 이미 확보한 자산을 지키며 인출해 쓰는 은퇴 후 포트폴리오 설계와 어떻게 연결되는가?
-* 경제적 자유를 이미 달성하고 '성장과 집중에서 정량적 안전마진과 방어로' 넘어가야 하는 50세에게 주는 가장 중요한 교훈은 무엇인가?
+* 경제적 자유를 이미 달성하고 '예측과 확신에서 구조적 강건함으로' 넘어가야 하는 50세에게 주는 가장 중요한 교훈은 무엇인가?
 * 나의 실제 포트폴리오(고수익 추구·자본 보존 2버킷, 연 2\~3% 인출률, 6개월 현금 보유, 특정 국가·산업 분산 계획)에서, 이 장의 원리로 더 견고하게 만들 수 있는 부분은 무엇인가?
-* 나는 이미 어떤 부분에서 저자가 말하는 '내재가치 분석'이나 '하방 방어'를 실천하고 있는가?
-* 여전히 과거의 성공 방식(집중 투자, 성장 서사에 대한 베팅) 때문에, 은퇴 후에도 정량적 검증 없이 같은 방식으로 '더 벌려' 하고 있는 지점은 무엇인가?
+* 나는 이미 어떤 부분에서 저자가 말하는 '바벨형 방어(극단적 안전 자산과 상방이 열린 제한된 베팅의 양극화)'를 실천하고 있는가?
+* 여전히 과거의 성공 서사(집중 투자, 특정 국가·산업에 대한 확신) 때문에, 은퇴 후에도 구조적 대비 없이 같은 방식의 예측에 의존하고 있는 지점은 무엇인가?
 
 ---
 
@@ -237,7 +206,7 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 4.
 5.
 
-가능하면 측정 가능하고 구체적으로 작성한다. (예: 새로운 매수 결정 전 "이 기업의 추정 내재가치(수익력·장부가치·청산가치 기준) 대비 지금 가격에 얼마의 할인폭이 있는가"를 문서화하는 습관, 분기에 한 번 자본 보존 버킷의 자산들이 실제로 순유동자산가치·장부가치 기준에 부합하는지 점검하는 습관, 보유 기업의 분기 실적 발표 시 발표된 이익이 아니라 감가상각·특별손실을 조정한 실질 수익력을 따로 계산해보는 습관, 연 1\~2회 한국·미국 빅테크·반도체 집중 노출의 분산 진행 상황을 점검하는 습관, 연 1회 지난 투자 결정 중 무엇이 정량적 분석에 근거했고 무엇이 성장 서사에 근거했는지 함께 복기하는 습관 등)
+가능하면 측정 가능하고 구체적으로 작성한다. (예: 새로운 투자 결정 전 "이것이 상방이 열린 바벨형 베팅인가, 아니면 애매한 중간 위험인가"를 문서화하는 습관, 분기에 한 번 자본 보존 버킷의 자산들이 실제로 극단의 왕국식 꼬리 위험(통화 위기, 동반 폭락 등)을 견디는지 스트레스 테스트해보는 습관, 과거 투자 성공을 복기할 때 "왜 통했다고 설명하는가"와 "실제로 무엇이 원인이었는가"를 분리해 기록하는 습관, 연 1\~2회 한국·미국 빅테크·반도체 집중 노출의 분산 진행 상황을 점검하는 습관, 연 1회 나의 포트폴리오 결정 중 무엇이 예측에 근거했고 무엇이 구조적 강건함에 근거했는지 함께 복기하는 습관 등)
 
 ---
 
@@ -253,20 +222,19 @@ chapter52-Market-Analysis-and-Security-Analysis.md
 
 본문에 등장한 영어 단어·표현 중 기억할 만한 것을 정리한다.
 
-* 단어/표현 — 뜻, 본문에서의 쓰임 (예: Benjamin Graham, David Dodd, Intrinsic Value, Margin of Safety, Investment vs. Speculation, Fixed-Value Investment, Senior Securities, Earning Power, Book Value, Net Current Asset Value, Liquidating Value, Discrepancies Between Price and Value 등)
+* 단어/표현 — 뜻, 본문에서의 쓰임 (예: Nassim Nicholas Taleb, Black Swan, Mediocristan, Extremistan, Narrative Fallacy, Confirmation Bias, Silent Evidence, Ludic Fallacy, Epistemic Arrogance, Platonicity, The Scandal of Prediction, The Bell Curve, Barbell Strategy, Robustness and Fragility 등)
 
 ---
 
 ## 작성 원칙
 
 * 단순 요약이 아니라 논증 재구성 중심으로 작성한다.
-* 그레이엄·도드 특유의 핵심 개념 — **내재가치(Intrinsic Value)**, **투자와 투기의 구분(Investment vs. Speculation)**, **정량적·정성적 요인(Quantitative and Qualitative Factors)**, **고정가치 투자와 상위 증권의 선별 기준**, **사업 가치평가(수익력·장부가치·순유동자산가치·청산가치)**, **가격과 가치의 괴리(Discrepancies Between Price and Value)** — 을 유지한다.
-* 새로운 종목 선정 기법을 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 그레이엄·도드가 확립한 가치투자의 원형 방법론을 통해, 축적기의 집중·성장 중심 투자 태도에서 은퇴 후의 방어·원금 보전 중심 태도로 어떻게 전환할 것인가라는 실천 철학**에 초점을 맞춘다.
-* 각 장이 7부 52장 중 어디에 해당하는지(소속 부 포함) 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 인출률, 분산 계획)에 적용하는 방법을 분석에 포함한다.
-* 2\~3부(6\~26장)처럼 1930\~40년대 채권·우선주의 기술적·시대적 세부 기준을 다루는 장에서는, 수치 기준 자체의 현대적 재현보다 "하방을 먼저 본다"는 태도의 원형을 짚어 자본 보존 버킷 설계에 연결하는 데 무게를 둔다.
+* 탈레브 특유의 핵심 개념 — **블랙 스완(Black Swan)**, **평범의 왕국과 극단의 왕국(Mediocristan vs. Extremistan)**, **서사적 오류(Narrative Fallacy)**, **확증 편향(Confirmation Bias)**, **침묵하는 증거(Silent Evidence)**, **루딕 오류(Ludic Fallacy)**, **인식론적 오만(Epistemic Arrogance)**, **바벨 전략(Barbell-like Strategy)** — 을 유지한다.
+* 새로운 예측 모델이나 종목 선정 기법을 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 탈레브가 해부한 예측 불가능성과 인식론적 함정을 통해, 축적기의 집중·확신·성공 서사 중심 태도에서 은퇴 후의 구조적 강건함·바벨형 방어 중심 태도로 어떻게 전환할 것인가라는 실천 철학**에 초점을 맞춘다.
+* 각 장이 프롤로그+4부 19개 장+에필로그 중 어디에 해당하는지(소속 부 포함) 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 인출률, 분산 계획)에 적용하는 방법을 분석에 포함한다.
 * 이미 경제적 자유를 달성하고 '자산을 지키며 써야 하는' 은퇴자의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
-* 저자의 통찰을 무비판적으로 인용해 "나의 과거 집중 투자도 결국 안전마진의 일종이었다"고 안이하게 단정하거나, 반대로 "나는 이미 은퇴했으니 이 책의 정량적 분석 기법은 나와 무관하다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다. 특히 **철저한 분석과 안전마진 없이는 진정한 투자가 아니라는 통찰과, 집중 성장주 투자로 이미 경제적 자유를 달성한 나의 과거 성과에 대한 미련 사이의 긴장**을 정직하게 다룬다.
-* 인용문·사례·수치는 반드시 실제 책 내용(영어 원서 6판, 필요시 국내 정식 번역본)을 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 6판 인쇄본에 요약만 실리고 CD에 전문이 수록된 장은 이를 명시한다. 그레이엄·도드의 시장 진단 중 1930\~40년대라는 특정 시기에 국한된 판단은 "그레이엄·도드는 ~라고 본다"는 식으로 시대적 주장임을 명시한다.
+* 저자의 통찰을 무비판적으로 인용해 "나의 과거 집중 투자도 결국 바벨 전략의 일종이었다"고 안이하게 단정하거나, 반대로 "블랙 스완은 어차피 예측할 수 없으니 대비해도 소용없다"며 성찰을 회피하는 명분으로 삼지 않도록 균형 있게 작성한다. 특히 **예측을 포기하고 구조적 강건함으로 대비해야 한다는 통찰과, 집중 성장주 투자와 그 성공을 설명하는 나 자신의 서사로 이미 경제적 자유를 달성한 나의 과거 성과에 대한 미련 사이의 긴장**을 정직하게 다룬다.
+* 인용문·사례·수치는 반드시 실제 책 내용(영어 원서 2판, 필요시 국내 정식 번역본)을 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 이 책이 2008년 글로벌 금융위기 발생 1년 전인 2007년에 초판 출간되었다는 시점을 인용할 때는 그 사실 관계를 정확히 짚는다.
 * 한국어로 작성하되, 영어 원어 표기·핵심 원문·핵심 용어는 유지한다.
 * 마크다운 형식을 준수한다. (숫자·나이·비율 범위의 물결표는 `\~`로 이스케이프한다. 예: `2\~3%`)
 * 분량은 장의 실제 논증 밀도에 따라 유동적으로, 약 3,000\~5,000자 수준으로 작성한다. 원문 자체가 짧은 장은 분석의 깊이로 분량을 채우되, 없는 내용을 지어내 늘리지 않는다.

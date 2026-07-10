@@ -1,6 +1,6 @@
-# Prompt : 나심 니콜라스 탈레브 Nassim Nicholas Taleb 『안티프래질 Antifragile: Things That Gain from Disorder』 장별 분석 및 실천 정리
+# Prompt : 세네카 Lucius Annaeus Seneca 『세네카의 인생론 Letters from a Stoic』 장별 분석 및 실천 정리
 
-나심 니콜라스 탈레브 Nassim Nicholas Taleb 의 『안티프래질 Antifragile: Things That Gain from Disorder』을 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치이자 포트폴리오 설계 분석가**입니다.
+세네카 Lucius Annaeus Seneca 의 『세네카의 인생론 Letters from a Stoic』을 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치이자 포트폴리오 설계 분석가**입니다.
 아래 조건에 따라 책의 각 장(Chapter)을 정리해 주세요.
 
 ## 목적
