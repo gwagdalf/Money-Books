@@ -13,7 +13,7 @@
 | **지은이** | 찰스 T. 멍거 (Charles T. Munger, 1924\~2023) |
 | **엮은이** | 피터 D. 카우프만 (Peter D. Kaufman) |
 | **서문** | 워런 E. 버핏 (Warren E. Buffett) |
-| **원서 출판 이력** | 2005년 초판 — Donning Company Publishers, 480쪽(ISBN 1-57864-303-1) → 2008년 확장 3판 — 532쪽(ISBN 1-578-64501-8) → 2023년 최신 개정판 — Stripe Press(ISBN 9781953953230), 공동창업자 존 콜리슨(John Collison)의 서문 추가 |
+| **원서 출판 이력** | 2005년 초판 — Donning Company Publishers, 480쪽(ISBN 1-57864-303-1) → 2008년 확장 3판 — 532쪽(ISBN 1-578-64501-8) → 2023년 최신 개정판 — Stripe Press(ISBN 9781953953230), 스트라이프(Stripe) 공동창업자 존 콜리슨(John Collison)의 서문 추가 |
 | **국내 번역본** | 『가난한 찰리의 연감: 버크셔 해서웨이의 전설, 찰리 멍거의 모든 것』, 김영사, 김태훈 역, 2024년 11월, 459쪽, ISBN 9788934911388 (2023년 Stripe Press 최종판 기준, 마지막 강연 "인간적 오판의 심리학" 전면 개정판 수록) |
 | **저자 이력** | 하버드 로스쿨 졸업(학부 졸업장 없이 입학 허가를 받은 것으로 유명), 변호사로 활동하다 투자자로 전향. 1978년부터 버크셔 해서웨이 부회장, 웨스코 파이낸셜 회장 역임. 워런 버핏의 오랜 동업자로서 버크셔의 투자 철학을 "저평가된 담배꽁초를 줍는 방식"에서 "훌륭한 기업을 합리적인 가격에 사는 방식"으로 전환시킨 인물로 평가받는다. 2023년 11월 99세로 별세. |
 
@@ -52,7 +52,7 @@
 
 ### 4. 능력범위와 집중투자 (Circle of Competence & Focus Investing)
 
-자신이 진정으로 이해하는 영역의 경계를 정직하게 파악하고 그 안에서만 판단하는 태도(능력범위)와, 소수의 훌륭한 기회에 집중해 크게 베팅하고 이후에는 섣불리 매매하지 않는 투자 방식("앉아서 버티는 투자", sit on your ass investing / focus investing)을 강조한다. 멍거는 "당신의 평생 동안 위대한 투자 기회는 몇 번 오지 않는다"고 말하며, 폭넓은 분산보다 소수의 확신에 집중하는 편이 합리적이라고 주장한다.
+자신이 진정으로 이해하는 영역의 경계를 정직하게 파악하고 그 안에서만 판단하는 태도(능력범위)와, 소수의 훌륭한 기회에 집중해 크게 베팅하고 이후에는 섣불리 매매하지 않는 투자 방식("앉아서 버티는 투자", sit on your ass investing / focus investing)을 강조한다. 멍거는 한 사람의 투자 인생에서 정말로 훌륭한 기회는 손에 꼽을 만큼만 찾아온다고 보며, 폭넓은 분산보다 소수의 확신에 집중하는 편이 합리적이라고 주장한다.
 
 ### 5. 인센티브가 만드는 편향 (Incentive-Caused Bias)
 
@@ -69,11 +69,11 @@
 | **제1부** | — | A Portrait of Charlie Munger | 찰리 멍거의 초상 (전기적 스케치) |
 | **제2부** | — | The Munger Approach to Life, Learning, and Decision-Making | 삶·배움·의사결정에 대한 멍거의 접근법 |
 | **제3부** | — | Best of Mungerisms | 멍거 어록 모음 |
-| **제4부** | 강연 1 | Harvard-Westlake School Commencement Speech | 하버드-웨스트레이크 스쿨 졸업식 축사 (1986. 6. 13.) |
+| **제4부** | 강연 1 | Harvard School Commencement Speech | 하버드 스쿨 졸업식 축사 (1986. 6. 13.) |
 | | 강연 2 | A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business | 투자와 경영에 관한 세속의 지혜 — USC 마셜 경영대학원 (1994. 4. 14.) |
 | | 강연 3 | A Lesson on Elementary, Worldly Wisdom, Revisited | 세속의 지혜, 다시 살펴보다 — 스탠퍼드 로스쿨 (1996. 4. 19.) |
 | | 강연 4 | Practical Thought About Practical Thought? | 실용적 사고에 대한 실용적 사고 (1996. 7. 20., 2006년 추가 논평 포함) |
-| | 강연 5 | The Need for More Multidisciplinary Skill | 더 많은 다학문적 능력의 필요성 — 하버드 로스쿨 (1998. 4. 24.) |
+| | 강연 5 | The Need for More Multidisciplinary Skills from Professionals: Educational Implications | 더 많은 다학문적 능력의 필요성 — 하버드 로스쿨 (1998. 4. 24.) |
 | | 강연 6 | Investment Practices of Leading Charitable Foundations | 선도적 자선재단들의 투자 관행 — 재단 재무담당자 모임 (1998. 10. 14.) |
 | | 강연 7 | Philanthropy Roundtable Breakfast Meeting | 자선단체 라운드테이블 조찬 모임 연설 (2000. 11. 10.) |
 | | 강연 8 | The Great Financial Scandal of 2003 | 2003년의 거대한 금융 스캔들 (예언적 풍자 강연, 2000년) |
@@ -106,7 +106,7 @@
 
 ### 제4부 — Eleven Talks (열한 개의 강연)
 
-- **강연 1 (1986)**: 손자에게 훈계하듯 "어떻게 하면 비참한 인생을 살 수 있는가"를 역발상으로 제시하며 실패의 처방전을 나열한다.
+- **강연 1 (1986)**: 졸업을 앞둔 학생들에게 "어떻게 하면 비참한 인생을 살 수 있는가"를 역발상으로 제시하며 실패의 처방전을 나열한다.
 - **강연 2 (1994)**: 투자와 경영에 세속의 지혜를 적용하는 방법을 다학문적 정신모형의 틀로 처음 체계적으로 제시한 대표 강연.
 - **강연 3 (1996)**: 강연 2의 내용을 스탠퍼드 로스쿨 학생들 앞에서 심화·보완한다.
 - **강연 4 (1996/2006)**: 실용적 사고의 본질을 파고들며, 2006년 추가된 논평에서 그간의 통찰을 재점검한다.

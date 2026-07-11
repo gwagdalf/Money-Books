@@ -42,11 +42,13 @@ chapter01-Harvard-School-Commencement-Speech.md
 
 chapter02-Elementary-Worldly-Wisdom.md
 
+chapter05-The-Need-for-More-Multidisciplinary-Skill.md
+
 chapter09-Academic-Economics.md
 
 chapter11-The-Psychology-of-Human-Misjudgment.md
 
-※ 『가난한 찰리의 연감』은 전통적 의미의 "장(chapter)"이 아니라 네 부분(제1부 전기적 스케치, 제2부 멍거의 접근법 정리, 제3부 어록 모음, 제4부 열한 개의 강연)으로 구성된다. 이 프로젝트에서는 **제4부의 열한 개 강연(Eleven Talks)** 을 챕터 단위로 삼아 chapter01\~chapter11로 번호를 매기고, 원서의 강연 제목을 그대로 파일명 슬러그로 사용한다. 제1부(전기)와 제3부(어록 모음)는 별도 챕터 파일로 다루지 않고, 관련 강연을 분석할 때 배경·근거로 인용한다. 제2부(멍거의 접근법)의 핵심 개념(세속의 지혜, 다학문적 정신모형, 역발상, 능력범위, 오판의 심리학 등)은 각 강연 분석 전반에 스며들어 있으므로, 특정 강연에서 해당 개념이 처음 등장하거나 가장 심화되는 지점에서 함께 다룬다.
+※ 『가난한 찰리의 연감』은 전통적 의미의 "장(chapter)"이 아니라 네 부분(제1부 전기적 스케치, 제2부 멍거의 접근법 정리, 제3부 어록 모음, 제4부 열한 개의 강연)으로 구성된다. 이 프로젝트에서는 **제4부의 열한 개 강연(Eleven Talks)** 을 챕터 단위로 삼아 chapter01\~chapter11로 번호를 매기고, 원서의 강연 제목을 파일명 슬러그로 사용한다. 강연 제목이 짧으면(강연 1, 11 등) 원제 전체를 그대로 슬러그로 쓰고, 부제가 붙어 지나치게 긴 경우(강연 2, 5, 9 등)에는 위 예시처럼 핵심 단어만 남긴 축약형을 사용하되, 본문(2번 섹션 이하)에서 인용할 때는 반드시 정식 전체 제목을 표기한다. 제1부(전기)와 제3부(어록 모음)는 별도 챕터 파일로 다루지 않고, 관련 강연을 분석할 때 배경·근거로 인용한다. 제2부(멍거의 접근법)의 핵심 개념(세속의 지혜, 다학문적 정신모형, 역발상, 능력범위, 오판의 심리학 등)은 각 강연 분석 전반에 스며들어 있으므로, 특정 강연에서 해당 개념이 처음 등장하거나 가장 심화되는 지점에서 함께 다룬다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 Charles T. Munger(지음), Peter D. Kaufman(엮음), *Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger*, Stripe Press, 2023년판(찰리 멍거 생전 마지막 개정을 반영한 최종판)을 기준으로 삼는다. 국내 번역본(『가난한 찰리의 연감』, 김영사, 김태훈 역, 2024)이 있는 경우 인용 시 원문과 함께 병기하되, 정확한 판본·번역자를 확인하지 못했다면 지어내지 말고 직접 번역임을 밝힌다. 2005년 초판·2008년 확장 3판·2023년 Stripe Press판 사이에 수록된 강연 수(9\~11개)와 순서가 다를 수 있으므로, 참조하는 판본을 명시한다.
 ※ 각 강연의 인용문·일화·통계(침체된 담배꽁초 투자 vs. 훌륭한 기업 투자로의 전환, 웨스코 파이낸셜·데일리 저널·버크셔 해서웨이 관련 사례, 25가지 오판의 표준적 원인 각각의 정의와 사례 등)는 반드시 실제 원문 및 확인 가능한 2차 자료를 참고하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다. 특히 각 강연이 행해진 연도·장소(예: "1994년 USC 마셜 경영대학원")를 임의로 최신화하거나 다른 강연과 혼동하지 않는다.
@@ -59,7 +61,7 @@ chapter11-The-Psychology-of-Human-Misjudgment.md
 | 2장 | A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business | 투자와 경영에 관한 세속의 지혜 | 1994년, USC 마셜 경영대학원 — 다학문적 정신모형 프레임워크 최초 체계화 |
 | 3장 | A Lesson on Elementary, Worldly Wisdom, Revisited | 세속의 지혜, 다시 살펴보다 | 1996년, 스탠퍼드 로스쿨 — 2강연의 심화·보완 |
 | 4장 | Practical Thought About Practical Thought? | 실용적 사고에 대한 실용적 사고 | 1996년(2006년 추가 논평) — 실용적 사고의 본질 |
-| 5장 | The Need for More Multidisciplinary Skill | 더 많은 다학문적 능력의 필요성 | 1998년, 하버드 로스쿨 — 법학 교육의 좁은 전문화 비판 |
+| 5장 | The Need for More Multidisciplinary Skills from Professionals: Educational Implications | 더 많은 다학문적 능력의 필요성 | 1998년, 하버드 로스쿨 — 법학 교육의 좁은 전문화 비판 |
 | 6장 | Investment Practices of Leading Charitable Foundations | 선도적 자선재단들의 투자 관행 | 1998년, 재단 재무담당자 모임 — 분산·비용·인센티브 구조 |
 | 7장 | Philanthropy Roundtable Breakfast Meeting | 자선단체 라운드테이블 조찬 연설 | 2000년 — 자선활동에 대한 실용적 조언 |
 | 8장 | The Great Financial Scandal of 2003 | 2003년의 거대한 금융 스캔들 | 2000년 — 미래를 배경으로 한 풍자적·예언적 경고 |
