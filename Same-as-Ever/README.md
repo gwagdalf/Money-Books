@@ -23,49 +23,49 @@
 
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
-| [Ch.01](chapter01-Hanging-by-a-Thread.md) | Hanging by a Thread | 실 하나에 매달리다 | 역사적 우연성, 복잡계, 사후 편향 |
-| [Ch.02](chapter02-Risk-is-What-You-Dont-See.md) | Risk is What You Don't See | 위험은 보이지 않는 곳에 있다 | 보이지 않는 리스크, 꼬리 위험, 안전마진 |
-| [Ch.03](chapter03-Expect-Surprises.md) | Expect Surprises | 놀라움을 예상하라 | 비대칭적 확실성, 순서 위험, 내성 설계 |
-| [Ch.04](chapter04-Certainty.md) | Certainty | 확신 | 확신의 역설, 내러티브 편향, 겸손함 |
+| [Ch.01](chapter01-Hanging-by-a-Thread.md) | Hanging by a Thread | 한 가닥 실에 매달린 세상 | 역사적 우연성, 복잡계, 사후 편향 |
+| [Ch.02](chapter02-Risk-is-What-You-Dont-See.md) | Risk Is What You Don't See | 위험은 보이지 않는 곳에 있다 | 보이지 않는 리스크, 꼬리 위험, 안전마진 |
+| [Ch.05](chapter05-Wild-Numbers.md) | Wild Numbers | 숫자의 함정 | 정밀성의 착시, 표본 크기, 선택적 제시 |
+| [Ch.08](chapter08-Calm-Plants-the-Seeds-of-Crazy.md) | Calm Plants the Seeds of Crazy | 평온은 광기의 씨앗을 심는다 | 민스키 모멘트, 위험 지각의 역설, 방심 |
 
 ### Part 2. 시간과 복리
 
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
-| [Ch.05](chapter05-Room-for-Error.md) | Room for Error | 오차의 여지 | 안전마진, 생존 가능성, 레버리지 위험 |
-| [Ch.06](chapter06-Too-Much-Too-Soon-Too-Fast.md) | Too Much, Too Soon, Too Fast | 너무 많이, 너무 빨리, 너무 빠르게 | 복리 파괴, 즉각적 보상 편향, 인내 |
-| [Ch.07](chapter07-When-the-Magic-Happens.md) | When the Magic Happens | 마법이 일어날 때 | 복리 폭발, 임계질량, 인내의 비대칭성 |
-| [Ch.10](chapter10-Keep-Running.md) | Keep Running | 계속 달려라 | 붉은 여왕 효과, 지속적 적응, 실질 가치 |
+| [Ch.09](chapter09-Too-Much-Too-Soon-Too-Fast.md) | Too Much, Too Soon, Too Fast | 너무 많이, 너무 빨리 | 복리 파괴, 즉각적 보상 편향, 인내 |
+| [Ch.10](chapter10-When-the-Magic-Happens.md) | When the Magic Happens | 마법은 언제 일어나는가 | 복리 폭발, 임계질량, 인내의 비대칭성 |
+| [Ch.11](chapter11-Overnight-Tragedies-and-Long-Term-Miracles.md) | Overnight Tragedies and Long-Term Miracles | 하루아침의 비극과 장기적인 기적 | 속도의 비대칭, 복리의 비가시성, 뉴스 편향 |
+| [Ch.12](chapter12-Tiny-and-Magnificent.md) | Tiny and Magnificent | 작지만 위대한 것 | 복리적 누적, 습관의 복리, 원인의 착시 |
+| [Ch.16](chapter16-Keep-Running.md) | Keep Running | 계속 달려라 | 붉은 여왕 효과, 지속적 적응, 실질 가치 |
 
 ### Part 3. 아이디어와 전략의 한계
 
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
-| [Ch.08](chapter08-Winners-Keep-Winning.md) | Winners Keep Winning | 승자는 계속 이긴다 | 자기 강화적 우위, 모멘텀, 생존 편향 |
-| [Ch.09](chapter09-The-Arc-of-a-Good-Idea.md) | The Arc of a Good Idea | 좋은 아이디어의 궤적 | 아이디어의 궤적, 나쁜 다각화, 과잉 채택 |
-| [Ch.15](chapter15-Complications.md) | Complications | 복잡함 | 복잡성의 역설, 불투명한 비용, 단순함의 힘 |
-| [Ch.18](chapter18-Trying-Too-Hard.md) | Trying Too Hard | 너무 애쓰기 | 행동 편향, 과최적화, 전략적 비활동 |
+| [Ch.15](chapter15-Its-Supposed-to-Be-Hard.md) | It's Supposed to Be Hard | 원래 어려운 것이다 | 어려움이라는 입장료, 쉬움의 자기 소멸성 |
+| [Ch.17](chapter17-The-Wonders-of-the-Future.md) | The Wonders of the Future | 미래의 경이로움 | 진보의 불균형성, 구조적 낙관론, 기대 조정 |
+| [Ch.21](chapter21-Time-Horizons.md) | Time Horizons | 시간의 관점 | 시간 지평의 이질성, 행동과 지평의 불일치 |
+| [Ch.22](chapter22-Trying-Too-Hard.md) | Trying Too Hard | 지나치게 애쓰지 마라 | 행동 편향, 과최적화, 전략적 비활동 |
 
 ### Part 4. 인간 본성과 심리
 
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
-| [Ch.11](chapter11-The-Wonders-of-the-Future.md) | The Wonders of the Future | 미래의 경이로움 | 진보의 불균형성, 구조적 낙관론, 기대 조정 |
-| [Ch.12](chapter12-Harder-than-It-Looks.md) | Harder than It Looks | 보이는 것보다 어렵고, 생각보다 덜 재미있다 | 빙산의 일각, 부의 보이지 않는 비용, 생존 편향 |
-| [Ch.13](chapter13-Incentives.md) | Incentives | 인센티브: 세상에서 가장 강력한 힘 | 인센티브의 지배력, 인센티브 왜곡, 자기 인식 |
-| [Ch.16](chapter16-Wounds-Heal-Scars-Last.md) | Wounds Heal, Scars Last | 상처는 낫지만 흉터는 남는다 | 경험적 흉터, 행동적 흔적, 세대 간 전달 |
-| [Ch.17](chapter17-People-Are-Different.md) | People Are Different | 사람은 저마다 다르다 | 투자자 다양성, 시간 지평 불일치, 자기 맥락 |
-| [Ch.19](chapter19-Wisdom.md) | Wisdom | 지혜 | 지능 vs. 지혜, 역발상 사고, 실수 회피 |
+| [Ch.04](chapter04-Wild-Minds.md) | Wild Minds | 극단적인 사람들 | 재능과 결함의 패키지화, 생존 편향, 괴짜 신화 |
+| [Ch.06](chapter06-Best-Story-Wins.md) | Best Story Wins | 최고의 이야기가 승리한다 | 서사적 사고, 확증적 이야기 소비, 버블의 서사 |
+| [Ch.13](chapter13-Elation-and-Despair.md) | Elation and Despair | 환희와 절망 | 감정의 진자운동, 자기 증폭적 감정 |
+| [Ch.18](chapter18-Harder-Than-It-Looks-and-Not-as-Fun-as-It-Seems.md) | Harder Than It Looks and Not as Fun as It Seems | 생각보다 훨씬 어렵고 생각만큼 재미있지도 않다 | 빙산의 일각, 부의 보이지 않는 비용, 생존 편향 |
+| [Ch.19](chapter19-Incentives.md) | Incentives: The Most Powerful Force in the World | 인센티브: 세상에서 가장 강력한 힘 | 인센티브의 지배력, 인센티브 왜곡, 자기 인식 |
 
 ### Part 5. 시스템과 균형
 
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
-| [Ch.14](chapter14-Nothings-Free.md) | Nothing's Free | 공짜는 없다 | 입장료 vs. 벌금, 숨겨진 대가, 심리적 내구성 |
-| [Ch.20](chapter20-Calm-Plants-the-Seeds-of-Crazy.md) | Calm Plants the Seeds of Crazy | 평온함이 광기의 씨앗을 심는다 | 민스키 모멘트, 위험 지각의 역설, 방심 |
-| [Ch.21](chapter21-Too-Much-of-a-Good-Thing.md) | Too Much of a Good Thing | 과유불급 | 충분함, 쾌락의 쳇바퀴, 욕망의 이동 |
-| [Ch.22](chapter22-Reasonable-Formation-of-Unreasonable-Things.md) | The Reasonable Formation of Unreasonable Things | 비합리적인 것들의 합리적인 형성 | 개인적 합리성, 집합적 비합리성, 군중의 광기 |
-| [Ch.23](chapter23-Expectations-and-Reality.md) | Expectations and Reality | 기대와 현실 | 행복 방정식, 헤도닉 트레드밀, 충분함 |
+| [Ch.03](chapter03-Expectations-and-Reality.md) | Expectations and Reality | 기대와 현실 | 행복 방정식, 헤도닉 트레드밀, 충분함 |
+| [Ch.07](chapter07-Does-Not-Compute.md) | Does Not Compute | 계산되지 않는 것들 | 심리적 수익률, 지속 가능성 우선 원칙 |
+| [Ch.14](chapter14-Casualties-of-Perfection.md) | Casualties of Perfection | 완벽주의의 희생자들 | 최적화와 회복탄력성의 상충, 완충 장치 |
+| [Ch.20](chapter20-Now-You-Get-It.md) | Now You Get It | 이제야 이해하게 된다 | 경험과 지식의 간극, 세대 간 리스크 인식 |
+| [Ch.23](chapter23-Wounds-Heal-Scars-Last.md) | Wounds Heal, Scars Last | 상처는 아물지만 흉터는 남는다 | 경험적 흉터, 행동적 흔적, 세대 간 전달 |
 
 ---
 
