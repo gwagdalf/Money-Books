@@ -42,24 +42,35 @@ chapter01-Why-Learn-the-Mathematics-of-AI.md
 
 chapter02-Data-Data-Data.md
 
-chapter05-Convolution.md
+chapter05-Convolutional-Neural-Networks-and-Computer-Vision.md
 
-※ **중요**: 이 책의 완전한 장별 목차(전체 장 수, 정확한 순서와 제목)를 신뢰할 수 있는 단일 출처로 확인하지 못했다. 1장("Why Learn the Mathematics of AI")·2장("Data, Data, Data")·5장("Convolution")만 비교적 신뢰도 높게 확인되었으며, 나머지 장(회귀, 신경망 최적화, SVD, 그래프 이론, 마르코프 과정, 인과 모델링 등)의 정확한 장 번호·제목은 원서 실물 또는 O'Reilly 공식 목차 페이지로 반드시 재확인한 뒤 챕터 분석을 시작해야 한다.
-※ 이 책 `README.md`가 아직 없다면, 목차를 원서 실물로 완전히 확인한 뒤 작성한다.
+chapter14-Artificial-Intelligence-Ethics-Mathematics-Law-and-Policy.md
+
+※ 『Essential Math for AI』(O'Reilly Media, 2023년 초판)는 **전 14개 장**으로 구성된다. 이 프로젝트에서는 원서의 장 번호·제목을 그대로 파일명 슬러그로 사용한다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: Hala Nelson, *Essential Math for AI: Next-Level Mathematics for Efficient and Successful AI Systems*, O'Reilly Media, 2023년 초판. 동명의 다른 저자(Andrew Hinton 등) 책과 혼동하지 않도록 주의한다. 국내 정식 번역본 존재 여부를 확인하지 못했으므로, 확인 전까지 인용은 직접 번역임을 밝힌다.
 ※ 각 장의 수학적 정의·수식·코드 예제는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 내용을 지어내지 않는다.
 
-참고 — 『Essential Math for AI』의 챕터(장) 구성 (미완성, 재확인 필요):
+참고 — 『Essential Math for AI』의 챕터(장) 구성 (전 14장):
 
-| 챕터 번호 | 영문 제목 | 확인 상태 | 다루는 핵심 개념/주제 |
-|-----------|-----------|-----------|-------------------|
-| 1 | Why Learn the Mathematics of AI | 확인됨 | 책의 동기 부여, AI 수학 학습의 필요성 |
-| 2 | Data, Data, Data | 확인됨 | 데이터의 확률분포, 전처리 |
-| 3\~4 | (제목 미확인) | 미확인 | 회귀분석, 신경망을 위한 최적화로 추정 |
-| 5 | Convolution | 확인됨 | 합성곱, CNN과의 연결 |
-| 이후 | (제목·순서 미확인) | 미확인 | SVD, 그래프 이론·페이지랭크, 마르코프 과정, 인과 모델링, 강화학습 등으로 추정 |
+| 챕터 번호 | 영문 제목 | 한글 제목(의역) | 다루는 핵심 개념/주제 |
+|-----------|-----------|------------------|-------------------|
+| 1 | Why Learn the Mathematics of AI? | AI 수학을 배워야 하는 이유 | 책의 동기 부여, AI 수학 학습의 필요성 |
+| 2 | Data, Data, Data | 데이터, 데이터, 데이터 | 데이터의 확률분포, 전처리 |
+| 3 | Fitting Functions to Data | 데이터에 함수 적합시키기 | 회귀분석 |
+| 4 | Optimization for Neural Networks | 신경망을 위한 최적화 | 경사하강법, 역전파 |
+| 5 | Convolutional Neural Networks and Computer Vision | 합성곱 신경망과 컴퓨터 비전 | 합성곱, CNN, Gabor 필터 |
+| 6 | Singular Value Decomposition: Image Processing, Natural Language Processing, and Social Media | 특이값분해: 이미지 처리, 자연어 처리, 소셜 미디어 | SVD와 그 응용 |
+| 7 | Natural Language and Finance AI: Vectorization and Time Series | 자연어와 금융 AI: 벡터화와 시계열 | 텍스트·시계열 데이터의 벡터화 |
+| 8 | Probabilistic Generative Models | 확률적 생성 모델 | 이미지 생성 모델 등 |
+| 9 | Graph Models | 그래프 모델 | 페이지랭크, 그래프 신경망 |
+| 10 | Operations Research | 오퍼레이션 리서치(운용 과학) | 최적화 기반 의사결정 |
+| 11 | Probability | 확률 | 확률의 역설, 베이지안 네트워크, 확률 과정, 인과 모델링과 do-계산법, 강화학습 |
+| 12 | Mathematical Logic | 수리 논리학 | AI와 형식 논리 |
+| 13 | Artificial Intelligence and Partial Differential Equations | 인공지능과 편미분방정식 | PDE 기반 AI 응용 |
+| 14 | Artificial Intelligence, Ethics, Mathematics, Law, and Policy | 인공지능, 윤리, 수학, 법, 정책 | AI 윤리·정책의 수학적·사회적 함의 |
 
-※ 위 표는 미완성이며, 실제 챕터별 분석을 시작하기 전 반드시 원서 실물 또는 출판사 공식 자료로 전체 목차를 재확인해야 한다.
+※ 위 표는 O'Reilly 공식 챕터 페이지, 저자 공식 GitHub 부속자료, Shroff Publishers 공개 자료를 상호 대조해 확정한 것이며, 각 장 내부의 정확한 절 구성은 원서 실물 또는 O'Reilly 플랫폼으로 반드시 재확인한다.
 
 ---
 

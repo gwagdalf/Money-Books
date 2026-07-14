@@ -1,4 +1,4 @@
-# Chapter 07. Rule No. 7 — Think of Your Life as Distinct Seasons
+# Chapter 07. Start to Time-Bucket Your Life (Rule No. 7 — Think of Your Life as Distinct Seasons)
 
 ## 법칙 7 — 인생을 뚜렷한 '계절'로 나눠 생각하라 (타임 버킷)
 

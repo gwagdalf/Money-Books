@@ -84,7 +84,7 @@
 | 12장 | The Context of Our Character, Part II | 우리 성격의 맥락 2부 | 현금이 아닌 매개(토큰 등)를 거칠 때 부정직함이 증가하는 실험 |
 | 13장 | Beer and Free Lunches: What Is Behavioral Economics, and Where Are the Free Lunches? | 맥주와 공짜 점심 | 행동경제학과 전통 경제학의 차이, 그리고 이 통찰의 실천적 함의 종합 |
 | 14장(개정판 추가) | Reflections and Anecdotes about Some of the Chapters | 각 장에 대한 성찰과 일화 | 개정증보판에서 추가된, 각 장의 배경과 후일담에 대한 저자의 성찰 |
-| 15장(개정판 추가) | Two Instances Where Actual Experience Trumped the Theory Two Instances Where Actual Experience Trumped the Theory / Thoughts on the 2008 Financial Crisis | 서브프라임 모기지 위기에 대한 단상 | 2008년 금융위기를 행동경제학적 관점에서 성찰하는 추가 에세이 |
+| 15장(개정판 추가) | Thoughts about the Subprime Mortgage Crisis and Its Consequences | 서브프라임 모기지 위기에 대한 단상 | 2008년 금융위기를 행동경제학적 관점에서 성찰하는 추가 에세이 |
 
 ※ 위 표는 원서(HarperCollins, 2008년 초판 및 2009년 개정증보판) 목차 및 복수의 2차 자료(서평·챕터별 요약본)를 상호 대조해 정리한 것이며, 각 챕터 내부의 정확한 절 구성·인용문, 특히 개정판 추가 에세이의 정확한 제목과 순서는 원서 실물 또는 국내 정식 번역본(청림출판)으로 반드시 재확인한다.
 

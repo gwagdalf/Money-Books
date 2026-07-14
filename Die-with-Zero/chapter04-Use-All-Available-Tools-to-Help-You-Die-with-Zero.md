@@ -1,4 +1,4 @@
-# Chapter 04. Rule No. 4 — Use All Available Tools to Help You Die with Zero
+# Chapter 04. How to Spend Your Money, Without Actually Hitting Zero Before You Die (Rule No. 4 — Use All Available Tools to Help You Die with Zero)
 
 ## 법칙 4 — 제로를 위한 모든 도구를 활용하라
 

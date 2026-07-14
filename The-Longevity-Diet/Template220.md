@@ -48,23 +48,29 @@ chapter03-Diabetes-Prevention-and-the-Longevity-Diet.md
 
 chapterXX-How-to-Stay-Young-Summary.md
 
-※ **중요한 한계**: 이 책의 전체 장(chapter) 제목·순서를 출판사 페이지·Goodreads·서평 사이트 등 공개된 자료만으로는 완전히 확인하지 못했다. 확인된 것은 ① 서두의 몰로키오(Molochio) 마을 일화와 다섯 기둥 방법론, ② "8장 — 영양, FMD, 당뇨병 예방과 치료(Nutrition, FMD, and Diabetes Prevention and Treatment)", ③ "12장 — 젊음을 유지하는 법 요약" 정도다. 따라서 이 책의 챕터 분석을 실제로 진행하기 전에, **반드시 원서(Avery, 2018) 실물 또는 전자책의 목차 페이지로 정확한 장 번호·제목을 재확인**하고, 그에 맞게 위 파일명 규칙을 다시 정해야 한다. 확인 전까지는 아래 표의 장 번호를 잠정적 추정으로만 취급하고, 지어낸 장 제목을 실제 원서 목차인 것처럼 단정하지 않는다.
-※ 이 책 `README.md`가 아직 없다면, 정확한 목차를 재확인한 뒤 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: Valter Longo, *The Longevity Diet*, Avery(Penguin Random House), 2018년 초판. 국내 정식 번역본의 존재 여부를 확인하지 못했으므로, 인용 시 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·임상연구 수치·백세인 사례는 반드시 실제 원문 및 신뢰할 수 있는 출처(저자 공식 홈페이지, 학술 논문, 대형 서점의 도서 미리보기 등)를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다. 특히 "다섯 기둥"·FMD 관련 임상 데이터는 연도가 명시된 자료인지 반드시 확인하고, 최신 연구와 혼동하지 않는다.
 
-참고 — 『The Longevity Diet』의 확인된 구성 (전체 장 번호·순서는 미확인, 원서 재확인 필요):
+참고 — 『The Longevity Diet』의 확인된 전체 구성 (원서 발췌 PDF 및 독립 2차 자료로 교차 확인):
 
-| 구성(잠정) | 영문 제목(확인된 범위) | 한글 제목(의역) | 다루는 핵심 개념 |
-|-----------|-----------|------------------|-------------------|
-| 서두 | Molochio and the Five Pillars of Longevity | 몰로키오와 장수 연구의 다섯 기둥 | 백세인 마을 일화, 다섯 기둥 방법론 소개 |
-| 중반부(장 번호 미확인) | The Daily Longevity Diet | 일상 장수 식단 | 식물·생선 위주 저단백 식단 가이드라인 |
-| 중반부(장 번호 미확인) | The Fasting-Mimicking Diet | 공복 모방 식단 | FMD의 과학적 근거와 시행법 |
+| 장 | 영문 제목 | 한글 제목(의역) | 다루는 핵심 개념 |
+|----|-----------|------------------|-------------------|
+| 1장 | Caruso's Fountain | 카루소의 샘 | 몰로키오(Molochio) 마을 일화, 백세인 관찰의 출발점 |
+| 2장 | Aging, Programmed Longevity, and Juventology | 노화, 프로그램된 장수, 유베놀로지 | 노화의 생물학적 메커니즘과 저자가 제안하는 새로운 학문 분야 |
+| 3장 | The Five Pillars | 다섯 기둥 | 장수 연구의 다섯 기둥 방법론 소개 |
+| 4장 | The Longevity Diet | 장수 식단 | 일상 장수 식단 가이드라인 |
+| 5장 | Exercise and Healthy Longevity | 운동과 건강한 장수 | 운동과 장수의 관계 |
+| 6장 | Fasting-Mimicking Diets, Weight Management, and Healthy Longevity | 공복 모방 식단, 체중 관리, 건강한 장수 | FMD의 과학적 근거와 시행법 |
+| 7장 | Nutrition and Fasting-Mimicking Diets in Cancer Prevention and Treatment | 영양과 FMD를 통한 암 예방과 치료 | 암과 식이·FMD의 관계 |
 | 8장 | Nutrition, FMD, and Diabetes Prevention and Treatment | 영양, FMD, 당뇨병 예방과 치료 | 당뇨병과 식이·FMD의 관계 |
-| 중후반부(장 번호 미확인) | (질병별 장 — 심혈관질환·암·인지기능 저하 등, 순서 미확인) | 질병별 식이 개입 | 개별 질환과 식이의 관계 |
-| 12장 | How to Stay Young (Summary) | 젊음을 유지하는 법 (요약) | 연령대별 실천 가이드라인 종합 |
+| 9장 | FMD, Nutrition, and Cardiovascular Disease Prevention and Treatment | FMD, 영양, 심혈관질환 예방과 치료 | 심혈관질환과 식이·FMD의 관계 |
+| 10장 | FMD and Nutrition in the Prevention and Treatment of Alzheimer's and Other Neurodegenerative Diseases | FMD와 영양을 통한 알츠하이머 및 신경퇴행성질환의 예방과 치료 | 인지기능 저하와 식이·FMD의 관계 |
+| 11장 | FMD and Nutrition in the Prevention and Treatment of Inflammatory and Autoimmune Diseases | FMD와 영양을 통한 염증성·자가면역질환의 예방과 치료 | 자가면역질환과 식이·FMD의 관계 |
+| 12장 | How to Stay Young | 젊음을 유지하는 법 | 연령대별 실천 가이드라인 종합 |
+| 부록 A | Longevity Diet Two-Week Meal Plan | 장수 식단 2주 식단표 | 실천용 2주 식단 |
+| 부록 B | Food Sources of Vitamins and Minerals | 비타민·미네랄 식품 공급원 | 영양소별 식품 목록 |
 
-※ 위 표는 검색 가능한 2차 자료로 확인한 범위 내에서만 정리한 것이며, 전체 장 구성은 반드시 원서 실물로 재확인해야 한다. 확인 전에는 개별 챕터 분석을 시작하지 말고, 우선 목차 확인 작업을 선행한다.
+※ 위 표는 원서 발췌 PDF와 독립된 2차 자료(강연·인터뷰 등)로 교차 확인한 전체 장 구성이다. 각 장 내부의 구체적 인용문·수치는 여전히 개별 확인이 필요하다.
 
 ---
 

@@ -34,43 +34,44 @@
 ### 이 책을 관통하는 핵심 틀
 
 ```
-1장 황금을 갈망한 사나이 — 문제의식의 제시 (가난한 서기 반시르의 좌절)
-2장 바빌론에서 가장 부유한 사람 — 아르카드의 등장과 그의 원칙의 기원
-3장 텅 빈 지갑을 치료하는 일곱 가지 처방
+1장 바빌론 역사 소묘 — 실제 고대 바빌론 문명(관개·성벽·문자)에 대한 논픽션 도입부
+2장 황금을 갈망한 사나이 — 문제의식의 제시 (가난한 서기 반시르의 좌절)
+3장 바빌론에서 가장 부유한 사람 — 아르카드의 등장과 그의 원칙의 기원
+4장 텅 빈 지갑을 치료하는 일곱 가지 처방
     ① 지갑을 살찌우기 시작하라  ② 지출을 통제하라  ③ 금을 불려라
     ④ 손실로부터 재산을 지켜라  ⑤ 집을 수익성 있는 투자로 만들어라
     ⑥ 미래의 소득을 보장하라  ⑦ 벌이 능력을 키워라
-4장 행운의 여신을 만나다 — 행운은 기회를 붙잡는 행동에서 온다
-5장 황금의 다섯 가지 법칙
-6장 바빌론의 금 대금업자 — 담보와 신용의 원칙
-7장 바빌론의 성벽 — 위험에 대비하는 보호막(보험·안전자산)의 비유
-8장 바빌론의 낙타 상인 — 빚을 갚고 신용을 회복하는 법
-9장 바빌론에서 발굴된 점토판 — 부채 상환 계획의 구체적 실천
-10장 바빌론에서 가장 운이 좋은 사람 — 준비된 자에게 오는 행운
+5장 행운의 여신을 만나다 — 행운은 기회를 붙잡는 행동에서 온다
+6장 황금의 다섯 가지 법칙
+7장 바빌론의 금 대금업자 — 담보와 신용의 원칙
+8장 바빌론의 성벽 — 위험에 대비하는 보호막(보험·안전자산)의 비유
+9장 바빌론의 낙타 상인 — 빚을 갚고 신용을 회복하는 법
+10장 바빌론에서 발굴된 점토판 — 부채 상환 계획의 구체적 실천
+11장 바빌론에서 가장 운이 좋은 사람 — 준비된 자에게 오는 행운
 ```
 
 ---
 
 ## 목차 (Table of Contents)
 
-『The Richest Man in Babylon』(가장 널리 통용되는 Signet판 기준)은 Foreword(서문)에 이어 **10개 장**으로 구성된다. 일부 확장판에는 "바빌론 역사 소묘(An Historical Sketch of Babylon)"라는 부록성 장이 추가로 포함되기도 한다.
+『The Richest Man in Babylon』(가장 널리 통용되는 Signet판 기준)은 Foreword(서문)에 이어 "바빌론 역사 소묘(An Historical Sketch of Babylon)"가 **1장으로 먼저 나오고**, 이어서 **10편의 우화가 2\~11장**으로 구성된다. (원문 실물 스캔·스터디 가이드로 재확인 — 흔히 알려진 것과 달리 이 역사 소묘는 부록이 아니라 본문 맨 앞에 위치한다.)
 
 | 챕터 번호 | 영문 제목 | 한글 제목 |
 |-----------|-----------|-----------|
 | 00 (Foreword) | Foreword | 서문 |
-| 1장 | The Man Who Desired Gold | 황금을 갈망한 사나이 |
-| 2장 | The Richest Man in Babylon | 바빌론에서 가장 부유한 사람 |
-| 3장 | Seven Cures for a Lean Purse | 텅 빈 지갑을 치료하는 일곱 가지 처방 |
-| 4장 | Meet the Goddess of Good Luck | 행운의 여신을 만나다 |
-| 5장 | The Five Laws of Gold | 황금의 다섯 가지 법칙 |
-| 6장 | The Gold Lender of Babylon | 바빌론의 금 대금업자 |
-| 7장 | The Walls of Babylon | 바빌론의 성벽 |
-| 8장 | The Camel Trader of Babylon | 바빌론의 낙타 상인 |
-| 9장 | The Clay Tablets from Babylon | 바빌론에서 발굴된 점토판 |
-| 10장 | The Luckiest Man in Babylon | 바빌론에서 가장 운이 좋은 사람 |
-| (부록, 일부 판본) | An Historical Sketch of Babylon | 바빌론 역사 소묘 |
+| 1장 | An Historical Sketch of Babylon | 바빌론 역사 소묘 |
+| 2장 | The Man Who Desired Gold | 황금을 갈망한 사나이 |
+| 3장 | The Richest Man in Babylon | 바빌론에서 가장 부유한 사람 |
+| 4장 | Seven Cures for a Lean Purse | 텅 빈 지갑을 치료하는 일곱 가지 처방 |
+| 5장 | Meet the Goddess of Good Luck | 행운의 여신을 만나다 |
+| 6장 | The Five Laws of Gold | 황금의 다섯 가지 법칙 |
+| 7장 | The Gold Lender of Babylon | 바빌론의 금 대금업자 |
+| 8장 | The Walls of Babylon | 바빌론의 성벽 |
+| 9장 | The Camel Trader of Babylon | 바빌론의 낙타 상인 |
+| 10장 | The Clay Tablets from Babylon | 바빌론에서 발굴된 점토판 |
+| 11장 | The Luckiest Man in Babylon | 바빌론에서 가장 운이 좋은 사람 |
 
-※ 위 표는 가장 널리 통용되는 Signet판(New American Library) 실물 목차를 직접 확인해 정리했다. 국내 여러 출판사의 번역본(국일미디어, 책수레 등)은 장 구성·제목 표현이 다를 수 있으므로, 실제 사용하는 판본을 개별 챕터 분석 파일 작성 시 반드시 재확인한다.
+※ 위 표는 가장 널리 통용되는 Signet판(New American Library) 원문 실물 스캔(Internet Archive 전문) 및 스터디 가이드를 상호 대조해 정리했다(2026-07-14 재확인). 국내 여러 출판사의 번역본(국일미디어, 책수레 등)은 장 구성·제목 표현이 다를 수 있으므로, 실제 사용하는 판본을 개별 챕터 분석 파일 작성 시 반드시 재확인한다.
 
 ---
 

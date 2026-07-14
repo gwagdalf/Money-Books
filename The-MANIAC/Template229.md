@@ -58,6 +58,7 @@ chapter03-Lee-or-The-Delusions-of-Artificial-Intelligence.md
 | 장 | 영문 제목 | 다루는 실존 인물 | 핵심 개념/주제 |
 |----|-----------|-----------------|-------------------|
 | 1 | Paul or the Discovery of the Irrational | 파울 에렌페스트 | 과학기술 발전에 대한 절망, 이성의 한계 |
+| 2 (전체 표제) | John or the Mad Dreams of Reason | 존 폰 노이만 | 아래 3부(Part I\~III)로 구성된 다중 목소리 서술 |
 | 2 (Part I) | The Limits of Logic | 존 폰 노이만 (초기 생애) | 수학적 천재성의 형성, 논리의 한계 |
 | 2 (Part II) | The Delicate Balance of Terror | 존 폰 노이만 (맨해튼 프로젝트·게임이론·컴퓨터) | 게임 이론, 냉전 핵전략, 폰 노이만 컴퓨터 구조 |
 | 2 (Part III) | Ghosts in the Machine | 존 폰 노이만 (말년) | 자기복제 오토마타, 생물학적 계산 이론 |

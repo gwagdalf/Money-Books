@@ -82,9 +82,9 @@ chapter11-Investor-Profiles.md
 | 8장 | The Valuation of Franchise Stocks | 프랜차이즈 주식의 가치평가 |
 | 9장 | Research Strategy | 리서치 전략 |
 | 10장 | Risk Management and Building Portfolios | 리스크 관리와 포트폴리오 구성 |
-| 11장 | Investor Profiles | 실전 투자자 프로파일 (버핏, 슐로스, 가벨리, 그린버그, 힐랄, 후멜, 클라만, 프라이스, 루소, 와이스) |
+| 11장 | Investor Profiles | 실전 투자자 프로파일 (버핏, 하일브런, 슐로스, 가벨리, 그린버그, 힐랄, 후멜, 클라만, 프라이스, 루소, 와이스) |
 
-※ 위 표는 Wiley 2판 실물 목차를 직접 확인해 정리했다.
+※ 위 표는 Wiley 2판 실물 목차를 직접 확인해 정리했다. "Investor Profiles"는 워런 버핏(Warren Buffett), 로버트 H. 하일브런(Robert H. Heilbrunn), 월터·에드윈 슐로스(Walter and Edwin Schloss), 마리오 가벨리(Mario Gabelli), 글렌 그린버그(Glenn Greenberg), 폴 힐랄(Paul Hilal), 얀 후멜(Jan Hummel), 세스 클라만(Seth Klarman), 마이클 프라이스(Michael Price), 톰 루소(Thomas Russo), 앤드루 와이스(Andrew Weiss)까지 총 11인(슐로스 형제 포함 시 12인)의 프로파일로 구성된다.
 
 ---
 

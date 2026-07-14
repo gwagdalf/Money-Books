@@ -38,20 +38,21 @@ chapter03-Aim-to-Die-with-Zero.md
 ...
 
 ※ 서문·도입부(Introduction)는 chapter00-Introduction.md로 작성한다.
-※ 이 책은 서문과 9개의 '법칙(Rule)', 그리고 맺음말로 구성된다.
-   각 장은 하나의 법칙에 대응한다.
-   (법칙 1 = 긍정적 인생 경험 극대화 … 법칙 8 = 순자산 정점에서 축적 멈추기 … 법칙 9 = 잃을 것이 적을 때 큰 위험 감수)
+※ 이 책(원서 Portfolio/Penguin, 2020)은 서문과 9개 장, 그리고 결론(맺음말)으로 구성된다. 각 장은 고유한 서술적 제목을 가지며, 그 안에서 하나의 '법칙(Rule No. N)'을 핵심 원칙으로 제시한다 — 장 제목과 법칙 문구는 서로 다른 텍스트이므로 챕터 분석 작성 시 둘 다 명시한다.
+   (1장 "Optimize Your Life"=법칙 1 긍정적 인생 경험 극대화 … 8장 "Know Your Peak"=법칙 8 순자산 정점에서 축적 멈추기 … 9장 "Be Bold—Not Foolish"=법칙 9 잃을 것이 적을 때 큰 위험 감수)
 
-참고 — 9가지 법칙:
-1. Maximize Your Positive Life Experiences (긍정적 인생 경험을 극대화하라)
-2. Start Investing in Experiences Early (경험에 일찍부터 투자하라)
-3. Aim to Die with Zero (목표는 '잔고 제로'로 죽는 것)
-4. Use All Available Tools to Help You Die with Zero (제로를 위한 모든 도구를 활용하라)
-5. Give Money to Your Children or to Charity When It Has the Most Impact (자녀·기부는 가장 효과가 큰 시점에 주라)
-6. Don't Live Your Life on Autopilot (자동조종 모드로 살지 마라)
-7. Think of Your Life as Distinct Seasons (인생을 뚜렷한 '계절'로 나눠라)
-8. Know When to Stop Growing Your Wealth (부를 그만 불려야 할 때를 알라)
-9. Take Your Biggest Risks When You Have Little to Lose (잃을 것이 적을 때 가장 큰 위험을 감수하라)
+참고 — 실제 장 제목과 각 장이 제시하는 법칙:
+1. Optimize Your Life — Rule No. 1: Maximize Your Positive Life Experiences (긍정적 인생 경험을 극대화하라)
+2. Invest in Experiences — Rule No. 2: Start Investing in Experiences Early (경험에 일찍부터 투자하라)
+3. Why Die with Zero? — Rule No. 3: Aim to Die with Zero (목표는 '잔고 제로'로 죽는 것)
+4. How to Spend Your Money (Without Actually Hitting Zero Before You Die) — Rule No. 4: Use All Available Tools to Help You Die with Zero (제로를 위한 모든 도구를 활용하라)
+5. What About the Kids? — Rule No. 5: Give Money to Your Children or to Charity When It Has the Most Impact (자녀·기부는 가장 효과가 큰 시점에 주라)
+6. Balance Your Life — Rule No. 6: Don't Live Your Life on Autopilot (자동조종 모드로 살지 마라)
+7. Start to Time-Bucket Your Life — Rule No. 7: Think of Your Life as Distinct Seasons (인생을 뚜렷한 '계절'로 나눠라)
+8. Know Your Peak — Rule No. 8: Know When to Stop Growing Your Wealth (부를 그만 불려야 할 때를 알라)
+9. Be Bold—Not Foolish — Rule No. 9: Take Your Biggest Risks When You Have Little to Lose (잃을 것이 적을 때 가장 큰 위험을 감수하라)
+
+※ 파일명 규칙(chapterNN-{법칙 슬러그}.md)은 기존 그대로 유지한다 — 법칙 문구가 이미 이 저장소 전체의 파일명·링크 체계에 쓰이고 있어, 실제 장 제목은 문서 본문(H1 제목)에 병기하는 방식으로 반영한다.
 
 ---
 

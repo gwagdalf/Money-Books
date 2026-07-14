@@ -37,10 +37,10 @@
 약 40개의 주제별 명상 (각 3\~5쪽)
   → 형식: 인용구로 시작 → 그 주제에 대한 성찰 → "짐(Burden)과 축복(Blessing)"의 요약으로 마무리
 
-  다루는 주요 주제(확인된 예시들)
-  - 후회(Regret)          - 관계(Relationships)      - 상실과 슬픔(Sadness)
-  - 향수(Nostalgia)        - 즉시성(Immediacy)         - 고독(Loneliness/Aloneness)
-  - 두려움과 나약함        - 신비를 받아들이는 기쁨    - 용서(Forgiveness)
+  다루는 주요 주제(전체 40개 장 중 일부 예시)
+  - 후회(Regret)          - 관계(Relationships)      - 슬픔(Sadness)
+  - 향수(Nostalgia)        - 즉시성(Immediacy)         - 외로움(Loneliness)  - 고독(Solitude)
+  - 두려움(Fear)          - 신비(Mystery)             - 용서(Forgiveness)
   - 유산(Legacy)          - 변화(Transformation)      - 놓아줌(Letting Go)
   - 배움(Learning)        - 영성(Spirituality)
 
@@ -55,54 +55,86 @@
 
 ## 목차 (Table of Contents)
 
-『The Gift of Years』(BlueBridge, 2008년판)는 서문에 이어 **약 40개의 독립적인 짧은 주제별 장(chapter)**으로 구성되며, 전통적인 부(Part)·장 번호 체계 대신 각 장이 하나의 주제어(예: Regret, Loneliness, Forgiveness)로 명명되는 명상집 형식을 취한다.
+『The Gift of Years』(BlueBridge, 2008년판)는 **Introduction(서문)에 이어 40개의 독립적인 짧은 주제별 장(chapter), 그리고 Afterword(후기)**로 구성되며, 전통적인 부(Part)·장 번호 체계 대신 각 장이 하나의 주제어(예: Regret, Loneliness, Forgiveness)로 명명되는 명상집 형식을 취한다. 아래 순서는 Open Library 서지 레코드(도서관 MARC 목차 데이터, OL18265277M)에 등록된 실제 목차 순서를 그대로 따른 것이다.
 
-| 확인된 대표 주제 | 영문 표기 | 다루는 핵심 내용 |
+| 순번 | 영문 표기 | 한글 의미(직역) |
 |---|---|---|
-| 후회 | Regret | 지나온 삶의 후회를 다루는 법 — 고칠 수 없는 것들과의 화해 |
-| 변화 | Transformation | 노년이 가져오는 정체성의 변화 |
-| 관계와 놓아줌 | Relationships and Letting Go | 관계를 음미하는 법과, 놓아주어야 할 것들 |
-| 고독 | Aloneness / Loneliness | "노년의 수도원"으로서의 고독 |
-| 두려움 | Fear (of Weakness) | 나약함에 대한 두려움을 다루는 법 |
-| 신비 | Mystery | 알 수 없음을 받아들이는 기쁨 |
-| 용서 | Forgiveness | 노년이 주는 용서라는 축복 |
-| 유산 | Legacy | 남기는 것에 대한 성찰 |
-| 향수 | Nostalgia | 과거를 대하는 건강한 태도 |
-| 배움 | Learning | 늦은 나이의 배움이 갖는 의미 |
+| — | Introduction: The Purpose of Life | 서문: 삶의 목적 |
+| 1장 | Regret | 후회 |
+| 2장 | Meaning | 의미 |
+| 3장 | Fear | 두려움 |
+| 4장 | Ageism | 연령차별 |
+| 5장 | Joy | 기쁨 |
+| 6장 | Transition | 전환 |
+| 7장 | Transformation | 변화 |
+| 8장 | Newness | 새로움 |
+| 9장 | Discontinuity | 불연속 |
+| 10장 | Accomplishment | 성취 |
+| 11장 | Adjustment | 적응 |
+| 12장 | Fulfillment | 충만 |
+| 13장 | Mystery | 신비 |
+| 14장 | Relationships | 관계 |
+| 15장 | Tale-telling | 이야기하기 |
+| 16장 | Letting Go | 놓아줌 |
+| 17장 | Learning | 배움 |
+| 18장 | Religion | 종교 |
+| 19장 | Freedom | 자유 |
+| 20장 | Success | 성공 |
+| 21장 | Time | 시간 |
+| 22장 | Wisdom | 지혜 |
+| 23장 | Sadness | 슬픔 |
+| 24장 | Dreams | 꿈 |
+| 25장 | Limitations | 한계 |
+| 26장 | Solitude | 고독 |
+| 27장 | Productivity | 생산성 |
+| 28장 | Memories | 기억 |
+| 29장 | Future | 미래 |
+| 30장 | Agelessness | 나이 없음 |
+| 31장 | Immediacy | 즉시성 |
+| 32장 | Nostalgia | 향수 |
+| 33장 | Spirituality | 영성 |
+| 34장 | Loneliness | 외로움 |
+| 35장 | Forgiveness | 용서 |
+| 36장 | Outreach | 나눔 |
+| 37장 | The Present | 현재 |
+| 38장 | Appreciation | 감사 |
+| 39장 | Faith | 신앙 |
+| 40장 | Legacy | 유산 |
+| — | Afterword: The Twilight Time | 후기: 황혼의 시간 |
 
-※ 이 책은 "챕터 XX. 제목" 형식의 번호가 매겨진 목차 대신, 약 40개의 독립된 주제어 명상으로 구성된다. 온라인에서 확인 가능한 서평·2차 자료(Englewood Review of Books, Foreword Reviews 등)를 통해 위 표의 주제들은 확인했으나, **전체 약 40개 장의 정확한 순서와 완전한 목록은 온라인 자료만으로 독립적으로 검증하지 못했다.** 향후 개별 챕터 분석 파일을 작성할 때는 반드시 원서 실물(BlueBridge, 2008)의 목차로 정확한 순서·전체 목록을 재확인해야 한다.
+※ 위 표는 Open Library 서지 레코드(https://openlibrary.org/books/OL18265277M)의 `table_of_contents` 필드(도서관 목차 데이터)를 원문 그대로 옮긴 것이며, 이전 버전의 "전체 순서를 검증하지 못했다"는 서술은 이 확인으로 해소되었다. 다만 각 장 내부의 소절 구성과 인용문은 원서 실물(BlueBridge, 2008)로 재확인이 필요하다. 이전 버전에서 별도 주제로 다뤘던 "Aloneness"는 실제 목차에는 없으며, "Loneliness"(34장)와 "Solitude"(26장)가 각각 독립된 장으로 존재한다.
 
 ---
 
 ## 챕터별 핵심 내용
 
-※ 위에서 밝힌 대로 전체 목차를 원서 실물로 확인하지 못했으므로, 여기서는 온라인 서평·2차 자료로 교차 확인된 대표 주제들의 핵심 내용만 정리한다. 이 목록은 전체 40개 장 중 일부이며, 실제 순서와 전체 구성은 원서로 재확인이 필요하다.
+※ 전체 40개 장의 순서·제목은 위 목차(Open Library 서지 레코드 기준)로 확인되었다. 다만 각 장 본문의 세부 내용은 온라인 서평·2차 자료로 교차 확인된 대표 주제들만 아래에 정리했으며, 나머지 장의 세부 내용은 원서 실물로 재확인이 필요하다.
 
-### 후회 (Regret)
+### 후회 (Regret, 1장)
 
 지나온 삶에서 고칠 수 없는 것들 — 회복되지 못한 가족 관계, 이루지 못한 꿈 — 을 마주할 때 "그렇다면 인생을 낭비한 것인가?"라는 질문을 정면으로 다룬다.
 
 > 핵심: 후회는 삶이 실패했다는 증거가 아니라, 그 삶이 진지했다는 증거다.
 
-### 고독 (Aloneness / Loneliness)
+### 외로움과 고독 (Loneliness, 34장 / Solitude, 26장)
 
 신체적 활동 반경이 줄어들며 찾아오는 고독을, 그가 "노년의 수도원(the monastery of the elderly)"이라 부르는 내면적 성찰의 공간으로 재해석한다.
 
 > 핵심: 고독은 사회적 관계의 상실만이 아니라, 이전에는 가능하지 않았던 깊은 사색의 조건이기도 하다.
 
-### 신비를 받아들이는 기쁨 (The Joy of Accepting Mystery)
+### 신비를 받아들이는 기쁨 (Mystery, 13장)
 
 노년에 이르러도 여전히 풀리지 않는 삶의 의문들 앞에서, 그 답을 얻지 못한 채로도 살아갈 수 있는 능력을 다룬다.
 
 > 핵심: 모든 것을 설명하려는 욕구를 내려놓는 것 자체가 노년이 주는 자유다.
 
-### 용서 (Forgiveness)
+### 용서 (Forgiveness, 35장)
 
 노년을 다른 사람과, 그리고 자기 자신과 화해할 수 있는 마지막이자 가장 온전한 기회로 제시한다.
 
 > 핵심: 용서는 노년이 우리에게 강요하는 과제가 아니라, 노년만이 온전히 허락하는 축복이다.
 
-### 관계와 놓아줌 (Relationships and Letting Go)
+### 관계와 놓아줌 (Relationships, 14장 / Letting Go, 16장)
 
 남아 있는 관계를 더 깊이 음미하는 법과, 동시에 놓아주어야 할 관계·기대를 구별하는 법을 다룬다.
 
@@ -146,5 +178,6 @@
 - [Foreword Reviews 서평](https://www.forewordreviews.com/reviews/the-gift-of-years/)
 - ["The Gift of Years" 북 스터디 가이드](https://wisdomyears.org/thegift-of-years-book-study/)
 - [Goodreads 도서 정보](https://www.goodreads.com/book/show/2935683-the-gift-of-years)
+- [Open Library 서지 레코드(전체 목차, OL18265277M)](https://openlibrary.org/books/OL18265277M/The_gift_of_years)
 
-※ 이 문서의 목차·챕터별 요약·인용문은 온라인에서 확인 가능한 서평·2차 자료를 상호 대조해 작성했다. **약 40개 장 전체의 정확한 순서와 목록은 온라인 자료만으로 완전히 검증하지 못했으므로**, 향후 개별 챕터 분석 파일을 작성할 때는 반드시 원서 실물(BlueBridge, 2008)로 목차·인용문을 재확인한다.
+※ 이 문서의 목차(Introduction + 40개 장 + Afterword, 전체 순서 포함)는 Open Library 서지 레코드의 도서관 목차 데이터로 확인했다. 각 장별 상세 요약·인용문 중 일부는 온라인 서평·2차 자료를 상호 대조해 작성했으며, 아직 다루지 않은 나머지 장의 세부 내용·인용문은 향후 원서 실물(BlueBridge, 2008)로 재확인한다.

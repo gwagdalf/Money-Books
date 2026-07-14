@@ -46,27 +46,59 @@ chapter03-The-Joy-of-Accepting-Mystery.md
 
 chapter04-Forgiveness.md
 
-※ 『The Gift of Years』(BlueBridge, 2008)는 전통적인 부(Part)·장 번호 체계 대신, 약 40개의 독립적인 짧은 주제별 명상(각 3\~5쪽)으로 구성되며, 각 장은 주제어(예: Regret, Loneliness, Forgiveness)로 명명된다. 이 프로젝트에서는 원서 실물의 목차 순서대로 chapter01부터 순차 번호를 매기고, 각 장의 주제어를 영문 슬러그로 사용한다.
-※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼되, **전체 순서와 목록은 온라인 자료만으로 완전히 검증하지 못했으므로 반드시 원서 실물(BlueBridge, 2008)로 재확인한 뒤 확정한다.**
+※ 『The Gift of Years』(BlueBridge, 2008)는 전통적인 부(Part)·장 번호 체계 대신, Introduction(서문)에 이어 40개의 독립적인 짧은 주제별 명상(각 3\~5쪽), 그리고 Afterword(후기)로 구성되며, 각 장은 주제어(예: Regret, Loneliness, Forgiveness)로 명명된다. 이 프로젝트에서는 실제 원서 목차 순서(아래 표, Open Library 서지 레코드 기준)대로 chapter01(Regret)부터 chapter40(Legacy)까지 순차 번호를 매기고, 각 장의 주제어를 영문 슬러그로 사용한다. Introduction과 Afterword는 필요시 chapter00 / chapter41로 별도 처리한다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼는다. 전체 순서·목록은 Open Library 서지 레코드(도서관 MARC 목차 데이터)로 검증되었다.
 ※ **저본**: 영문 원서는 Joan Chittister, *The Gift of Years: Growing Older Gracefully*, BlueBridge, 2008년 초판(ISBN 978-1-933346-10-6)을 기준으로 삼는다. 국내 정식 번역본의 정확한 판본을 확인하지 못했으므로, 인용 시 원문을 직접 번역하고 그 사실을 밝힌다.
 ※ 각 장의 인용문은 반드시 실제 원문 및 신뢰할 수 있는 2차 자료를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·일화를 지어내지 않는다.
 
-참고 — 『The Gift of Years』에서 온라인 서평·2차 자료로 확인된 대표 주제들 (전체 약 40개 장 중 일부, 순서는 원서 실물로 재확인 필요):
+참고 — 『The Gift of Years』의 전체 목차 (Open Library 서지 레코드 OL18265277M 기준, 실제 순서):
 
-| 확인된 주제 | 영문 표기 | 다루는 핵심 내용 |
+| 순번 | 영문 표기 | 한글 의미(직역) |
 |---|---|---|
-| 후회 | Regret | 고칠 수 없는 과거와의 화해 |
-| 변화 | Transformation | 노년이 가져오는 정체성의 변화 |
-| 관계와 놓아줌 | Relationships and Letting Go | 관계를 음미하는 법과 놓아주어야 할 것들 |
-| 고독 | Aloneness / Loneliness | "노년의 수도원"으로서의 고독 |
-| 두려움 | Fear (of Weakness) | 나약함에 대한 두려움 |
-| 신비 | Mystery | 알 수 없음을 받아들이는 기쁨 |
-| 용서 | Forgiveness | 노년이 주는 용서라는 축복 |
-| 유산 | Legacy | 남기는 것에 대한 성찰 |
-| 향수 | Nostalgia | 과거를 대하는 건강한 태도 |
-| 배움 | Learning | 늦은 나이의 배움이 갖는 의미 |
+| — | Introduction: The Purpose of Life | 서문: 삶의 목적 |
+| 1장 | Regret | 후회 |
+| 2장 | Meaning | 의미 |
+| 3장 | Fear | 두려움 |
+| 4장 | Ageism | 연령차별 |
+| 5장 | Joy | 기쁨 |
+| 6장 | Transition | 전환 |
+| 7장 | Transformation | 변화 |
+| 8장 | Newness | 새로움 |
+| 9장 | Discontinuity | 불연속 |
+| 10장 | Accomplishment | 성취 |
+| 11장 | Adjustment | 적응 |
+| 12장 | Fulfillment | 충만 |
+| 13장 | Mystery | 신비 |
+| 14장 | Relationships | 관계 |
+| 15장 | Tale-telling | 이야기하기 |
+| 16장 | Letting Go | 놓아줌 |
+| 17장 | Learning | 배움 |
+| 18장 | Religion | 종교 |
+| 19장 | Freedom | 자유 |
+| 20장 | Success | 성공 |
+| 21장 | Time | 시간 |
+| 22장 | Wisdom | 지혜 |
+| 23장 | Sadness | 슬픔 |
+| 24장 | Dreams | 꿈 |
+| 25장 | Limitations | 한계 |
+| 26장 | Solitude | 고독 |
+| 27장 | Productivity | 생산성 |
+| 28장 | Memories | 기억 |
+| 29장 | Future | 미래 |
+| 30장 | Agelessness | 나이 없음 |
+| 31장 | Immediacy | 즉시성 |
+| 32장 | Nostalgia | 향수 |
+| 33장 | Spirituality | 영성 |
+| 34장 | Loneliness | 외로움 |
+| 35장 | Forgiveness | 용서 |
+| 36장 | Outreach | 나눔 |
+| 37장 | The Present | 현재 |
+| 38장 | Appreciation | 감사 |
+| 39장 | Faith | 신앙 |
+| 40장 | Legacy | 유산 |
+| — | Afterword: The Twilight Time | 후기: 황혼의 시간 |
 
-※ 위 표는 복수의 서평(Englewood Review of Books, Foreword Reviews 등)을 상호 대조해 정리한 것이며, 전체 약 40개 장의 정확한 순서·완전한 목록·각 장 내부의 인용문은 원서 실물로 반드시 재확인한다.
+※ 위 표는 Open Library 서지 레코드(https://openlibrary.org/books/OL18265277M)의 `table_of_contents` 필드(도서관 목차 데이터)를 그대로 옮긴 것이다. 각 장 내부의 인용문·세부 논지는 원서 실물로 반드시 재확인한다.
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 05. Rule No. 5 — Give Money to Your Children or to Charity When It Has the Most Impact
+# Chapter 05. What About the Kids? (Rule No. 5 — Give Money to Your Children or to Charity When It Has the Most Impact)
 
 ## 법칙 5 — 자녀·기부는 '가장 효과가 큰 시점'에 주라
 

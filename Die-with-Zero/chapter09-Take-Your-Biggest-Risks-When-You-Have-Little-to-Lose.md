@@ -1,4 +1,4 @@
-# Chapter 09. Rule No. 9 — Take Your Biggest Risks When You Have Little to Lose
+# Chapter 09. Be Bold—Not Foolish (Rule No. 9 — Take Your Biggest Risks When You Have Little to Lose)
 
 ## 법칙 9 — 잃을 것이 적을 때 가장 큰 위험을 감수하라
 

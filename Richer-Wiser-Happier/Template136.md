@@ -3,7 +3,7 @@
 윌리엄 그린 William Green 의 『돈의 공식 Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life』을 깊이 있게 분석하는 **은퇴 후 자산관리 독서 코치**입니다.
 아래 조건에 따라 책의 각 장(투자자별 인물 장)을 정리해 주세요.
 
-※ **중요한 사전 주의사항**: 이 책은 목차(정확한 장 제목·순서·장 수)가 2차 자료로 완전히 검증되지 않았다. 확인된 것은 1장 제목("The Man Who Cloned Warren Buffett", 모니시 파브라이 편)과 약 19명 이상의 투자자가 등장하는 순서뿐이다. 개별 챕터 분석 파일을 작성하기 전에 반드시 원서 실물(Simon & Schuster, 2021, ISBN 978-1-5011-6485-9) 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 전체 목차를 먼저 확인한다. 확인되지 않은 챕터 제목·인용문·일화를 임의로 지어내 분석을 진행하지 않는다.
+※ **사전 주의사항(2026-07 갱신)**: 목차 구조를 Internet Archive 서지정보(장별 부제 포함, archive.org/details/richerwiserhappi0000gree), Goodreads, 독립 서평(barnabyrobson.org)으로 상호 대조해 재확인했다. 이 책은 "투자자 1인당 1개 장(총 19개 장)" 구조가 아니라, **Introduction + 8개 주제별 장(Chapter) + Epilogue("Beyond Rich")** 로 구성되며, 각 장이 하나의 주제 아래 한 명 또는 여러 투자자를 함께 다룬다. 장 제목과 순서는 Internet Archive 서지정보로 확정되었다. 다만 4·5·7·8장에 그룹으로 묶인 개별 투자자가 정확히 어느 절·순서로 등장하는지, 정확한 인용문·쪽수는 아직 원서 실물(Simon & Schuster, 2021, ISBN 978-1-5011-6485-9) 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 확인되지 않았으므로, 챕터 분석 파일을 작성하기 전에 반드시 재확인한다. 확인되지 않은 세부 인용문·일화를 임의로 지어내 분석을 진행하지 않는다.
 
 ## 목적
 
@@ -36,43 +36,51 @@
 
 ## 출력 파일명
 
-chapterXX-{Investor-Name-Slug}.md
+chapterXX-{English Chapter Slug}.md
 
 예시:
 
-chapter01-Mohnish-Pabrai-The-Man-Who-Cloned-Warren-Buffett.md
+chapter00-Introduction-Inside-the-Minds-of-the-Greatest-Investors.md
 
-chapter11-Nick-Sleep-and-Zakaria.md
+chapter01-The-Man-Who-Cloned-Warren-Buffett.md
 
-chapter16-Charlie-Munger.md
+chapter06-Nick-and-Zaks-Excellent-Adventure.md
 
-chapter19-Peter-Lynch.md
+chapter08-Dont-Be-a-Fool.md
 
-※ 『Richer, Wiser, Happier』(2021년 초판, Simon & Schuster)는 각 장이 대체로 특정 투자자(들)를 중심으로 구성되며, 확인된 인물 등장 순서는 19명 이상이다. **정확한 장 번호·제목·서론과 결론의 존재 여부는 아직 검증되지 않았으므로, 반드시 원서 실물로 먼저 확인한 뒤 분석을 진행한다.**
-※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼되, 미확인 챕터는 "미확인" 상태 그대로 두고 추후 원서 확인 후 갱신한다.
+chapter09-Epilogue-Beyond-Rich.md
+
+※ 『Richer, Wiser, Happier』(2021년 초판, Simon & Schuster)는 **Introduction + 8개 장(Chapter) + Epilogue("Beyond Rich")** 로 구성되며, 각 장이 하나의 주제 아래 한 명 또는 여러 투자자를 함께 다룬다. 번호가 매겨지지 않은 Introduction은 편의상 **chapter00**, Epilogue는 마지막 장 번호+1인 **chapter09**로 명명한다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 William Green, *Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life*, Simon & Schuster, 2021년 초판(ISBN 978-1-5011-6485-9)을 기준으로 삼는다. 국내 번역본(『돈의 공식』, 알에이치코리아, 방영호 옮김)이 있는 경우 인용 시 원문과 함께 병기하되, 정확한 쪽수를 확인하지 못했다면 지어내지 말고 직접 번역임을 밝힌다.
 ※ 각 장의 인터뷰 인용·일화는 반드시 실제 원문을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·일화·수치를 지어내지 않는다.
 
-참고 — 『Richer, Wiser, Happier』의 장 구성 (확인된 인물 등장 순서, Simon & Schuster 2021년판 기준):
+참고 — 『Richer, Wiser, Happier』의 장 구성 (Internet Archive 서지정보로 확인된 장 제목·순서, Simon & Schuster 2021년판 기준):
 
-| 순서 | 다뤄지는 투자자 | 확인 상태 |
-|------|------------------|-----------|
-| 1 | 모니시 파브라이 (The Man Who Cloned Warren Buffett) | 장 제목 확인됨 |
-| 2\~10 | 빌 루앤, 존 템플턴, 하워드 막스, 장마리 에베이야르, 매튜 맥레넌, 어빙 칸, 조엘 그린블랫, 윌 다노프, 빌 밀러 | 인물 순서만 확인, 장 제목 미확인 |
-| 11 | 닉 슬립 & 자카리아 | 장 제목 부분 확인("Nick & Zak's Excellent Adventure" 추정) |
-| 12\~19 | 토머스 루소, 제프리 건들락, 톰 게이너, 폴 라운치스, 찰리 멍거, 조엘 틸링허스트, 에드 소프, 피터 린치 | 인물 순서만 확인, 장 제목 미확인 |
+| 챕터 번호 | 영문 제목 | 부제/핵심 내용 | 주로 다뤄지는 투자자(확인 범위) |
+|-----------|-----------|----------------|-------------------------------|
+| chapter00 | Introduction: Inside the Minds of the Greatest Investors | 책 전체의 문제의식 제시 | — |
+| chapter01 | The Man Who Cloned Warren Buffett | 부끄러움 없이 남의 최고 아이디어를 빌려와 성공하는 법 | 모니시 파브라이 (Mohnish Pabrai) |
+| chapter02 | The Willingness to Be Lonely | 시장을 이기려면 용감하고 독립적이고 "이상해질" 수 있어야 한다 | 존 템플턴 (Sir John Templeton), 빌 루앤(Bill Ruane) 언급 |
+| chapter03 | Everything Changes | 모든 것이 변하고 미래를 알 수 없을 때 현명한 결정을 내리는 법 | 하워드 막스 (Howard Marks) |
+| chapter04 | The Resilient Investor | 지속 가능한 부를 쌓고 시장의 야생성에서 살아남는 법 | 장마리 에베이야르(Jean-Marie Eveillard), 매튜 맥레넌(Matthew McLennan), 어빙 칸(Irving Kahn) |
+| chapter05 | Simplicity Is the Ultimate Sophistication | 최고 수익률로 가는 가장 단순한 길을 찾아온 여정 | 조엘 그린블랫(Joel Greenblatt), 윌 다노프(Will Danoff), 빌 밀러(Bill Miller) 등 |
+| chapter06 | Nick & Zak's Excellent Adventure | 즉각적 보상의 유혹을 이겨낸 극단적으로 비관행적인 투자 파트너십 | 닉 슬립 & 자카리아 (Nick Sleep & Qais Zakaria) |
+| chapter07 | High-Performance Habits | 복리로 쌓이는 습관이 만드는 압도적 경쟁 우위 | 토머스 루소(Thomas Russo), 제프리 건들락(Jeffrey Gundlach), 톰 게이너(Tom Gayner), 폴 라운치스(Paul Lountzis) 등 |
+| chapter08 | Don't Be a Fool | 표준적인 어리석음을 체계적으로 줄이는 찰리 멍거의 전략 | 찰리 멍거(Charlie Munger), 조엘 틸링허스트(Joel Tillinghast), 에드 소프(Ed Thorp), 피터 린치(Peter Lynch) 등 언급 |
+| chapter09 | Epilogue: Beyond Rich | 돈은 중요하지만 풍요로운 삶의 필수 재료는 아니다 | 아놀드 반 덴 버그 (Arnold Van Den Berg) |
 
-※ 위 표는 확정되지 않은 장 제목을 "미확인"으로 명시한 잠정 목차다. 미확인 장에 대한 분석 파일은 원서 실물로 정확한 제목을 확인한 뒤에만 작성한다.
+※ 장 제목·부제는 Internet Archive 서지정보(archive.org/details/richerwiserhappi0000gree) 및 Goodreads 도서 정보로 확인했다. 4·5·7·8장에 그룹으로 묶인 개별 투자자 배정은 barnabyrobson.org 서평과 Novel Investor의 인물 등장 순서를 상호 대조한 추정이며, 각 투자자가 정확히 어느 절에 등장하는지는 원서 실물 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 재확인이 필요하다.
 
 ---
 
 ## 출력 형식 (Markdown)
 
-# Chapter XX. {투자자 이름 / 장 제목}
+# Chapter XX. {영문 챕터 제목}
 
-## {한글 장 제목}
+## {한글 챕터 제목}
 
-> 이 장은 『돈의 공식』에서 {투자자 이름}을(를) 다루며, {이 장이 강조하는 핵심 태도 — 예: 겸손한 학습(파브라이) / 극도의 인내(닉 슬립) / 다학제적 사고와 실수로부터 배움(멍거) / 감정 통제와 장기적 시간관 등}을 조명한다.
+> 이 장은 『돈의 공식』전체 Introduction + 8개 장 + Epilogue 중 {O}번째이며, {이 장이 중심으로 다루는 투자자(들)}과 {이 장이 강조하는 핵심 태도 — 예: 겸손한 학습(파브라이) / 극도의 인내(닉 슬립) / 다학제적 사고와 실수로부터 배움(멍거) / 감정 통제와 장기적 시간관 등}을 조명한다.
 
 ---
 
@@ -203,7 +211,7 @@ chapter19-Peter-Lynch.md
 * 투자 대가들의 전기를 학문적으로 분석하기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 이 책이 보여주는 "겸손한 학습과 검증된 인내"라는 태도를 통해, 나의 집중이 실제로 검증된 것인지 스스로 되묻고, 인출기에 맞게 그 태도를 어떻게 재조정할 것인가라는 실천 철학**에 초점을 맞춘다.
 * 각 장이 다루는 투자자가 전체 구성 중 어디에 해당하는지 명시하고, 이 장의 통찰을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
 * 이미 경제적 자유를 달성하고 '인출기 삶을 설계해야 하는' 50대의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
-* **가장 중요한 원칙**: 이 책의 정확한 챕터 제목·순서·인용문은 아직 완전히 검증되지 않았으므로, 반드시 원서 실물(Simon & Schuster, 2021) 또는 한국어판(알에이치코리아)으로 재확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다.
+* **가장 중요한 원칙**: 장 제목·순서(Introduction + 8개 장 + Epilogue)는 Internet Archive 서지정보로 확인되었으나, 각 장 내부의 정확한 인용문·투자자 배정 절 구성은 아직 완전히 검증되지 않았으므로, 반드시 원서 실물(Simon & Schuster, 2021) 또는 한국어판(알에이치코리아)으로 재확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다.
 * 한국어로 작성하되, 영어 원어 표기·핵심 원문·투자자 이름은 유지한다.
 * 마크다운 형식을 준수한다. (숫자·나이·비율 범위의 물결표는 `\~`로 이스케이프한다. 예: `2\~3%`, `1976년생`, `1\~2장`)
 * 분량은 약 3,000\~5,000자 수준으로 작성한다. 없는 내용을 지어내 늘리지 않고 분석의 깊이로 분량을 채운다.

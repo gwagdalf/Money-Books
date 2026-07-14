@@ -71,12 +71,12 @@
 | 7장 | Moving Beyond Linearity | 선형성을 넘어서 | 다항회귀, 스플라인 등 비선형 모델 |
 | 8장 | Tree-Based Methods | 트리 기반 방법 | 의사결정나무, 랜덤포레스트, 부스팅 |
 | 9장 | Support Vector Machines | 서포트 벡터 머신 | SVM을 통한 분류 |
-| 10장 | Unsupervised Learning | 비지도학습 | 군집분석, 주성분분석 |
-| (2판 추가) 11장 | Deep Learning | 딥러닝 | 신경망 기초 |
-| (2판 추가) 12장 | Survival Analysis and Censored Data | 생존분석과 중도절단 데이터 | 생존분석 기법 |
+| (2판 추가) 10장 | Deep Learning | 딥러닝 | 신경망 기초 |
+| (2판 추가) 11장 | Survival Analysis and Censored Data | 생존분석과 중도절단 데이터 | 생존분석 기법 |
+| 12장 (2판에서 번호 이동) | Unsupervised Learning | 비지도학습 | 군집분석, 주성분분석 |
 | (2판 추가) 13장 | Multiple Testing | 다중검정 | 다중비교 문제 |
 
-※ 위 표는 원서(Springer, 초판 2013/2판 2021) 목차를 기준으로 정리한 것이며, 국내 정식 번역본(루비페이퍼, 2016)은 초판을 저본으로 한 것으로 확인된다. 각 장 내부의 정확한 절 구성·수식은 원서 실물 또는 국내 정식 번역본으로 반드시 재확인한다.
+※ 위 표는 원서(Springer, 초판 2013/2판 2021) 목차 및 저자 공식 웹사이트(statlearning.com)·저자(Hastie) 강의자료 슬라이드 파일명(Ch10_Deep_Learning, Ch11_Survival_Analysis, Ch12_Unsupervised_Learning 등)으로 확인해 정리했다. 2판에서 "Unsupervised Learning"이 10장에서 12장으로 순서가 이동하고, 그 자리(10\~11장)에 "Deep Learning"과 "Survival Analysis and Censored Data"가 새로 삽입되었다. 각 장 내부의 정확한 절 구성·수식은 원서 실물 또는 국내 정식 번역본으로 반드시 재확인한다.
 
 ---
 

@@ -42,27 +42,41 @@ chapter01-The-Winds-of-the-Greeks-and-the-Role-of-the-Dice.md
 
 chapter02-As-Easy-as-I-II-III.md
 
-chapter16-The-Failure-of-Invariance.md (5부 추정 장 — 정확한 번호는 원서 재확인 필요)
+chapter16-The-Failure-of-Invariance.md
 
-chapter19-Awaiting-the-Wildness.md (5부 추정 마지막 장 — 정확한 번호는 원서 재확인 필요)
+chapter19-Awaiting-the-Wildness.md
 
-※ 『Against the Gods』(1996년, John Wiley & Sons 초판)는 서론에 이어 **전 5부(Part), 약 19개 장(Chapter)**으로 구성된 것으로 파악되나, 2\~4부에 속한 개별 장의 정확한 번호·제목·순서는 2차 자료 간 불일치가 있어 확정하지 못했다. **개별 챕터 분석 파일을 작성하기 전, 반드시 원서(John Wiley & Sons, 1996) 또는 한국어판(한국경제신문, 안진환 역) 실물의 목차 페이지로 전체 장 구성(정확한 장 번호·제목·소속 부)을 먼저 확인한 뒤, 아래 참고 표를 그 확인 결과로 갱신한다.**
-※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼되, 반드시 원서 실물로 재확인한 뒤 `README.md`와 파일명을 확정한다.
+※ 『Against the Gods』(1996년, John Wiley & Sons 초판)는 서론에 이어 **전 5부(Part), 19개 장(Chapter)**으로 구성된다. 전체 장 번호·제목·소속 부는 미국 의회도서관(Library of Congress) CIP 서지정보(catdir.loc.gov, LCCN 96033861)로 확인했다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼아 `README.md`와 파일명을 만든다.
 ※ **저본**: 영문 원서는 Peter L. Bernstein, *Against the Gods: The Remarkable Story of Risk*, John Wiley & Sons, 1996년 초판(ISBN 978-0-471-12104-6)을 기준으로 삼는다. 국내 번역본(『리스크: 위험, 기회, 미래가 공존하는』, 안진환 역, 한국경제신문, 2008)이 있는 경우 인용 시 원문과 함께 병기하되, 정확한 쪽수를 확인하지 못했다면 지어내지 말고 직접 번역임을 밝힌다.
-※ 각 장의 인용문·역사적 인물·통계는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다. 특히 이 책은 장 번호·제목의 정확한 확정이 아직 이루어지지 않았으므로, 챕터 분석 시작 전 원서 실물 대조를 우선한다.
+※ 각 장의 인용문·역사적 인물·통계는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다.
 
-참고 — 『Against the Gods』의 부 구성 (John Wiley & Sons 1996년 초판 기준, 장 번호는 잠정):
+참고 — 『Against the Gods』의 부·장 구성 (John Wiley & Sons 1996년 초판 기준, LOC CIP 서지정보로 확인):
 
-| 부(Part) | 다루는 시기 | 다루는 핵심 개념(2차 자료 기준 추정) |
-|-----------|-----------|-------------------|
-| 서론 | — | 문제의식의 총론 제시 |
-| Part I: To 1200 — Beginnings | \~1200년 | 고대 그리스·중세의 리스크 개념 (1장 "The Winds of the Greeks and the Role of the Dice", 2장 "As Easy as I, II, III" 확인됨) |
-| Part II: 1200\~1700 — A Thousand Outstanding Facts | 1200\~1700년 | 르네상스 도박사, 파스칼·페르마의 점수 배분 문제, 베르누이 가문의 대수의 법칙 (개별 장 번호·제목 재확인 필요) |
-| Part III: 1700\~1900 — Measurement Unlimited | 1700\~1900년 | 베이즈 정리, 드무아브르의 정규분포, 골턴의 회귀, 벤담의 효용 이론 (개별 장 번호·제목 재확인 필요) |
-| Part IV: 1900\~1960 — Clouds of Vagueness and the Demand for Precision | 1900\~1960년 | 나이트·케인스의 불확실성 개념, 게임이론 (개별 장 번호·제목 재확인 필요) |
-| Part V: Degrees of Belief — Exploring Uncertainty | 20세기 후반 | 포트폴리오 이론, 옵션 가격결정, 카너먼·트버스키의 행동경제학 (16\~19장으로 추정: "The Failure of Invariance", "The Theory Police", "The Fantastic System of Side Bets", "Awaiting the Wildness" — 정확한 번호 재확인 필요) |
+| 부(Part) | 장 | 영문 제목 | 다루는 핵심 개념 |
+|-----------|----|-----------|-------------------|
+| 서론 | — | Introduction | 문제의식의 총론 제시 |
+| Part I: To 1200 — Beginnings | 1장 | The Winds of the Greeks and the Role of the Dice | 고대 그리스의 확률적 사고 |
+| | 2장 | As Easy As I, II, III | 아라비아 숫자 체계의 도입 |
+| Part II: 1200\~1700 — A Thousand Outstanding Facts | 3장 | The Renaissance Gambler | 르네상스 시대의 도박사(카르다노) |
+| | 4장 | The French Connection | 파스칼·페르마의 점수 배분 문제 |
+| | 5장 | The Remarkable Notions of the Remarkable Notions Man | 야코프 베르누이와 대수의 법칙 |
+| Part III: 1700\~1900 — Measurement Unlimited | 6장 | Considering the Nature of Man | 다니엘 베르누이의 효용 개념 |
+| | 7장 | The Search for Moral Certainty | 베이즈 정리 |
+| | 8장 | The Supreme Law of Unreason | 드무아브르의 정규분포 |
+| | 9장 | The Man with the Sprained Brain | 프랜시스 골턴 |
+| | 10장 | Peapods and Perils | 골턴의 회귀 개념 |
+| | 11장 | The Fabric of Felicity | 벤담의 효용 이론 |
+| Part IV: 1900\~1960 — Clouds of Vagueness and the Demand for Precision | 12장 | The Measure of Our Ignorance | 프랭크 나이트의 불확실성 |
+| | 13장 | The Radically Distinct Notion | 케인스의 불확실성 |
+| | 14장 | The Man Who Counted Everything Except Calories | 폰 노이만과 게임이론 |
+| | 15장 | The Strange Case of the Anonymous Stockbroker | 해리 마코위츠와 포트폴리오 이론 |
+| Part V: Degrees of Belief — Exploring Uncertainty | 16장 | The Failure of Invariance | 카너먼·트버스키의 전망 이론 |
+| | 17장 | The Theory Police | 행동경제학에 대한 반론과 재반론 |
+| | 18장 | The Fantastic System of Side Bets | 파생상품과 리스크 관리 |
+| | 19장 | Awaiting the Wildness | 리스크 정복의 한계에 대한 성찰 |
 
-※ 위 표는 여러 2차 자료를 상호 대조했으나 완전히 확정되지 않은 잠정 정보다. 개별 챕터 분석에 착수하기 전 반드시 원서 또는 한국어판 실물로 전체 장 구성을 재확인한다.
+※ 위 표는 미국 의회도서관 CIP 서지정보(catdir.loc.gov, LCCN 96033861)로 전체 19개 장의 정확한 번호·제목·소속 부를 확인한 것이다. 각 장이 다루는 핵심 개념 설명은 2차 자료 기준 요약이며, 개별 챕터 분석 파일 작성 시 원서 또는 한국어판 실물로 세부 내용을 재확인한다.
 
 ---
 
@@ -72,7 +86,7 @@ chapter19-Awaiting-the-Wildness.md (5부 추정 마지막 장 — 정확한 번�
 
 ## {한글 챕터 제목}
 
-> 이 장은 『리스크』 전체 5부 약 19개 장 중 {P}부 {O}번째이며, {이 장이 다루는 핵심 주제 — 예: 고대 그리스의 확률적 사고 / 파스칼과 페르마의 점수 배분 문제 / 베르누이 가문의 대수의 법칙 / 베이즈 정리 / 나이트의 불확실성 개념 / 행동경제학의 전망 이론 등}을 다룬다.
+> 이 장은 『리스크』 전체 5부 19개 장 중 {P}부 {O}번째이며, {이 장이 다루는 핵심 주제 — 예: 고대 그리스의 확률적 사고 / 파스칼과 페르마의 점수 배분 문제 / 베르누이 가문의 대수의 법칙 / 베이즈 정리 / 나이트의 불확실성 개념 / 행동경제학의 전망 이론 등}을 다룬다.
 
 ---
 
@@ -206,7 +220,7 @@ chapter19-Awaiting-the-Wildness.md (5부 추정 마지막 장 — 정확한 번�
 * 단순 요약이 아니라 논증의 흐름 재구성 중심으로 작성한다.
 * 이 책 특유의 핵심 개념 — **나이트의 불확실성(Knightian Uncertainty)**, **전망 이론(Prospect Theory)**, **리스크 관리의 역사적 계보** — 를 유지한다.
 * 확률론·경제사를 학문적으로 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 이 책이 구분하는 "측정 가능한 위험"과 "측정 불가능한 불확실성"을 통해, 나의 산업·국가 집중이 실제로 어느 쪽에 해당하는지 스스로 되묻고, 인출기에 맞게 리스크 관리를 어떻게 재조정할 것인가라는 실천 철학**에 초점을 맞춘다.
-* 각 장이 전체 5부 약 19개 장 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
+* 각 장이 전체 5부 19개 장 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
 * 이미 경제적 자유를 달성하고 '인출기 삶을 설계해야 하는' 50대의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
 * 저자의 통찰을 무비판적으로 인용해 안이하게 단정하거나, 반대로 "불확실성은 어차피 계산 불가능하다"는 허무주의로 흐르지 않도록 균형 있게 작성한다.
 * 인용문·역사적 일화는 반드시 실제 원문(John Wiley & Sons, 1996년 초판) 또는 신뢰할 수 있는 2차 자료를 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 국내 정식 번역본(한국경제신문, 안진환 역)이 확인되면 원문과 함께 병기하되, 직접 대조하지 못한 경우 직접 번역임을 밝힌다. **이 책의 장 번호·제목은 아직 완전히 확정되지 않았으므로, 챕터 분석 전 반드시 원서 실물로 재확인한다.**

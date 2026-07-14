@@ -1,6 +1,6 @@
 # 돈의 공식 (Richer, Wiser, Happier)
 
-> **일러두기: 이 책은 목차(각 장의 정확한 제목·구성)가 2차 자료로 완전히 검증되지 않았다. 확인된 것은 1장 제목("The Man Who Cloned Warren Buffett", 모니시 파브라이 편)과, 책 전체가 약 40명 이상의 위대한 투자자를 각 장(또는 절)마다 한 명 또는 소수씩 다루는 인물 중심 구성이라는 점이다. 개별 챕터 분석 파일을 작성하기 전 반드시 원서 실물로 전체 목차를 재확인해야 한다.**
+> **일러두기(2026-07 갱신): 목차를 Internet Archive 서지정보, Goodreads, 독립 서평(barnabyrobson.org)의 상호 대조를 통해 재확인했다. 이 책은 애초에 추정했던 "투자자 1인당 1개 장(총 19개 장)" 구조가 아니라, **Introduction + 8개 주제별 장(Chapter) + Epilogue("Beyond Rich")** 로 구성되며, 각 장이 하나의 주제 아래 한 명 또는 여러 투자자를 함께 묶어 다룬다. 아래 목차는 이 구조로 갱신되었다. 각 장 내부에서 정확히 몇 쪽에 어느 투자자가 등장하는지, 절 구분이 있는지는 여전히 원서 실물 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 재확인이 필요하다.**
 
 > **"The best investors I met were, above all, extraordinary learning machines."**
 > — 윌리엄 그린, 『Richer, Wiser, Happier』의 핵심 논지 요약
@@ -19,8 +19,8 @@
 | **저자의 신분** | 저널리스트. 《타임(Time)》, 《포춘(Fortune)》, 《포브스(Forbes)》, 《패스트 컴퍼니(Fast Company)》 등에 20년 넘게 기고해 온 경제·투자 전문 저널리스트로, 이 책을 위해 40여 명이 넘는 세계적 투자자들과 수백 시간에 걸친 인터뷰를 진행했다 |
 | **출간 경위** | 2021년 미국에서 Simon & Schuster를 통해 초판 출간 (ISBN 978-1-5011-6485-9) |
 | **분야** | 투자 대가 인터뷰집 — 저명 투자자들의 투자 철학뿐 아니라 삶의 태도까지 다루는 논픽션 |
-| **다루는 인물(확인된 범위)** | 빌 루앤(Bill Ruane), 모니시 파브라이(Mohnish Pabrai), 존 템플턴(John Templeton), 하워드 막스(Howard Marks), 장마리 에베이야르(Jean-Marie Eveillard), 매튜 맥레넌(Matthew McLennan), 어빙 칸(Irving Kahn), 조엘 그린블랫(Joel Greenblatt), 윌 다노프(Will Danoff), 빌 밀러(Bill Miller), 닉 슬립·자카리아(Nick Sleep & Qais Zakaria), 토머스 루소(Thomas Russo), 제프리 건들락(Jeffrey Gundlach), 톰 게이너(Tom Gayner), 폴 라운치스(Paul Lountzis), 찰리 멍거(Charlie Munger), 조엘 틸링허스트(Joel Tillinghast), 에드 소프(Ed Thorp), 피터 린치(Peter Lynch) 외 다수 |
-| **분량** | 전 20여 개 장(정확한 장 수는 원서 대조 필요), 대부분 특정 투자자(들)의 이름을 딴 장으로 구성 |
+| **다루는 인물(확인된 범위)** | 모니시 파브라이(Mohnish Pabrai), 빌 루앤(Bill Ruane), 존 템플턴(John Templeton), 하워드 막스(Howard Marks), 장마리 에베이야르(Jean-Marie Eveillard), 매튜 맥레넌(Matthew McLennan), 어빙 칸(Irving Kahn), 조엘 그린블랫(Joel Greenblatt), 윌 다노프(Will Danoff), 빌 밀러(Bill Miller), 닉 슬립·자카리아(Nick Sleep & Qais Zakaria), 토머스 루소(Thomas Russo), 제프리 건들락(Jeffrey Gundlach), 톰 게이너(Tom Gayner), 폴 라운치스(Paul Lountzis), 찰리 멍거(Charlie Munger), 조엘 틸링허스트(Joel Tillinghast), 에드 소프(Ed Thorp), 피터 린치(Peter Lynch), 아놀드 반 덴 버그(Arnold Van Den Berg, Epilogue) 외 다수 |
+| **분량** | Introduction("Inside the Minds of the Greatest Investors")에 이어 **8개 장(Chapter)** + Epilogue("Beyond Rich")로 구성. 각 장은 투자자 1인이 아니라, 하나의 주제 아래 한 명 또는 여러 투자자를 함께 다루는 구성이다 |
 | **한국어판 정보** | 『돈의 공식』, 알에이치코리아(RHK), 방영호 옮김 |
 | **성격** | 단순한 투자 기법 나열이 아니라, 위대한 투자자들이 공통으로 지닌 학습 태도·성격·인생관을 통해 "시장에서 이기는 법"과 "인생에서 이기는 법"이 어떻게 연결되는지를 탐구하는 책 |
 
@@ -53,33 +53,24 @@
 
 ---
 
-## 목차 (Table of Contents) — 확인된 범위 내 잠정 구성
+## 목차 (Table of Contents) — 2026-07 재확인 반영
 
-『Richer, Wiser, Happier』(2021년 초판, Simon & Schuster)는 각 장이 대체로 특정 투자자(들)의 이름을 중심으로 구성되며, 확인된 인물 등장 순서는 다음과 같다. **정확한 장 번호·장 제목·절 구분은 2차 자료로 완전히 검증하지 못했으므로, 아래 표는 인물 등장 순서에 대한 잠정적 정리이며, 개별 챕터 분석 전 반드시 원서 실물로 재확인해야 한다.**
+『Richer, Wiser, Happier』(2021년 초판, Simon & Schuster)는 **Introduction + 8개 장(Chapter) + Epilogue**로 구성된다. Internet Archive의 공식 서지정보(장별 부제 포함)와 Goodreads, 독립 서평(barnabyrobson.org)이 상호 일치하는 이 구조를 기준으로 삼는다. **각 장은 투자자 1인이 아니라 하나의 주제 아래 한 명 또는 여러 투자자를 함께 다룬다** — 애초 이 문서에 기재되어 있던 "투자자 19명 = 19개 장" 가정은 잘못된 것이었다.
 
-| 순서 | 다뤄지는 투자자 | 장 제목(확인된 경우) | 확인 상태 |
-|------|------------------|----------------------|-----------|
-| 1 | 모니시 파브라이 (Mohnish Pabrai) | The Man Who Cloned Warren Buffett | 확인됨 |
-| 2 | 빌 루앤 (Bill Ruane) | 미확인 | 인물 순서만 확인 |
-| 3 | 존 템플턴 (John Templeton) | 미확인 | 인물 순서만 확인 |
-| 4 | 하워드 막스 (Howard Marks) | 미확인 | 인물 순서만 확인 |
-| 5 | 장마리 에베이야르 (Jean-Marie Eveillard) | 미확인 | 인물 순서만 확인 |
-| 6 | 매튜 맥레넌 (Matthew McLennan) | 미확인 | 인물 순서만 확인 |
-| 7 | 어빙 칸 (Irving Kahn) | 미확인 | 인물 순서만 확인 |
-| 8 | 조엘 그린블랫 (Joel Greenblatt) | 미확인 | 인물 순서만 확인 |
-| 9 | 윌 다노프 (Will Danoff) | 미확인 | 인물 순서만 확인 |
-| 10 | 빌 밀러 (Bill Miller) | 미확인 | 인물 순서만 확인 |
-| 11 | 닉 슬립 & 자카리아 (Nick Sleep & Qais Zakaria) | "Nick & Zak's Excellent Adventure" (추정) | 부분 확인 |
-| 12 | 토머스 루소 (Thomas Russo) | 미확인 | 인물 순서만 확인 |
-| 13 | 제프리 건들락 (Jeffrey Gundlach) | 미확인 | 인물 순서만 확인 |
-| 14 | 톰 게이너 (Tom Gayner) | 미확인 | 인물 순서만 확인 |
-| 15 | 폴 라운치스 (Paul Lountzis) | 미확인 | 인물 순서만 확인 |
-| 16 | 찰리 멍거 (Charlie Munger) | 미확인 | 인물 순서만 확인 |
-| 17 | 조엘 틸링허스트 (Joel Tillinghast) | 미확인 | 인물 순서만 확인 |
-| 18 | 에드 소프 (Ed Thorp) | 미확인 | 인물 순서만 확인 |
-| 19 | 피터 린치 (Peter Lynch) | 미확인 | 인물 순서만 확인 |
+| 구분 | 영문 제목 | 부제/핵심 내용 | 주로 다뤄지는 투자자(확인 범위) |
+|------|-----------|----------------|-------------------------------|
+| Introduction | Inside the Minds of the Greatest Investors | 책 전체의 문제의식 제시 | — |
+| Chapter 1 | The Man Who Cloned Warren Buffett | 부끄러움 없이 남의 최고 아이디어를 빌려와 성공하는 법 | 모니시 파브라이 (Mohnish Pabrai) |
+| Chapter 2 | The Willingness to Be Lonely | 시장을 이기려면 용감하고 독립적이고 "이상해질" 수 있어야 한다 | 존 템플턴 (Sir John Templeton), 빌 루앤(Bill Ruane) 언급 |
+| Chapter 3 | Everything Changes | 모든 것이 변하고 미래를 알 수 없을 때 현명한 결정을 내리는 법 | 하워드 막스 (Howard Marks) |
+| Chapter 4 | The Resilient Investor | 지속 가능한 부를 쌓고 시장의 야생성에서 살아남는 법 | 장마리 에베이야르(Jean-Marie Eveillard), 매튜 맥레넌(Matthew McLennan), 어빙 칸(Irving Kahn) |
+| Chapter 5 | Simplicity Is the Ultimate Sophistication | 최고 수익률로 가는 가장 단순한 길을 찾아온 여정 | 조엘 그린블랫(Joel Greenblatt), 윌 다노프(Will Danoff), 빌 밀러(Bill Miller) 등 |
+| Chapter 6 | Nick & Zak's Excellent Adventure | 즉각적 보상의 유혹을 이겨낸 극단적으로 비관행적인 투자 파트너십 | 닉 슬립 & 자카리아 (Nick Sleep & Qais Zakaria) |
+| Chapter 7 | High-Performance Habits | 복리로 쌓이는 습관이 만드는 압도적 경쟁 우위 | 토머스 루소(Thomas Russo), 제프리 건들락(Jeffrey Gundlach), 톰 게이너(Tom Gayner), 폴 라운치스(Paul Lountzis) 등 |
+| Chapter 8 | Don't Be a Fool | 표준적인 어리석음을 체계적으로 줄이는 찰리 멍거의 전략 | 찰리 멍거(Charlie Munger), 조엘 틸링허스트(Joel Tillinghast), 에드 소프(Ed Thorp), 피터 린치(Peter Lynch) 등 언급 |
+| Epilogue | Beyond Rich | 돈은 중요하지만 풍요로운 삶의 필수 재료는 아니다 | 아놀드 반 덴 버그 (Arnold Van Den Berg) |
 
-※ 위 표는 Novel Investor 등 2차 요약 자료에서 확인한 인물 등장 순서를 기준으로 작성한 잠정 목차이며, 실제 장 번호·정확한 장 제목·서론과 결론의 존재 여부는 원서 실물(Simon & Schuster, 2021) 또는 국내 정식 번역본(알에이치코리아, 『돈의 공식』)으로 반드시 재확인해야 한다.
+※ 장 제목·부제는 Internet Archive 서지정보(archive.org/details/richerwiserhappi0000gree) 및 Goodreads 도서 정보로 확인했다. 4·5·7·8장에 그룹으로 묶인 개별 투자자 배정은 barnabyrobson.org 서평과 Novel Investor의 인물 등장 순서를 상호 대조한 추정이며, 각 투자자가 정확히 어느 절에 등장하는지는 원서 실물 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 재확인이 필요하다.
 
 ---
 
@@ -105,7 +96,7 @@
 2. **투자 기법이 아니라 삶의 태도에 대한 통찰** — 기술적 전략보다 겸손·학습·인내라는 인격적 특성에 초점을 맞춘다.
 3. **부와 행복을 분리하지 않는 관점** — 이미 경제적 자유를 이룬 독자에게, 돈 이후의 삶에 대한 성찰을 함께 제공한다.
 4. **인출기 투자자에게는 "인내와 겸손"을 되짚는 텍스트** — 소수의 확신에 대한 인내(닉 슬립)와 자신의 판단을 끊임없이 재검토하는 겸손(멍거, 파브라이)이라는, 얼핏 상충해 보이는 두 태도를 어떻게 동시에 지닐 수 있는지 성찰하게 한다.
-5. **주의사항** — 이 책은 목차 세부사항이 완전히 검증되지 않았으므로, 챕터별 분석 시 반드시 원서 실물 또는 한국어판(알에이치코리아)을 확보해 정확한 장 구성과 인용문을 재확인해야 한다.
+5. **주의사항** — 전체 목차 구조(Introduction + 8개 장 + Epilogue)는 2026-07 재확인으로 검증되었으나, 각 장 내부에서 여러 투자자가 정확히 어떤 절·순서로 다뤄지는지, 정확한 인용문·쪽수는 아직 원서 실물 또는 한국어판(알에이치코리아)으로 확인되지 않았으므로, 챕터별 분석 시 반드시 재확인해야 한다.
 
 ---
 
@@ -116,5 +107,8 @@
 - [Richer, Wiser, Happier – William Green 공식 홈페이지](https://williamgreenwrites.com/richer-wiser-happier/)
 - [Richer, Wiser, Happier – Simon & Schuster](https://www.simonandschuster.com/books/Richer-Wiser-Happier/William-Green/9781501164866)
 - [Richer, Wiser, Happier Notes – Novel Investor](https://novelinvestor.com/notes/richer-wiser-happier-by-william-green/)
+- [Richer, Wiser, Happier – Internet Archive (서지정보, 장별 부제 포함)](https://archive.org/details/richerwiserhappi0000gree)
+- [Richer, Wiser, Happier – Goodreads](https://www.goodreads.com/book/show/54303127-richer-wiser-happier)
+- [Richer, Wiser, Happier: Notes From the Book – Barnaby Robson](https://www.barnabyrobson.org/2024/11/05/richer-wiser-happier-how-the-worlds-greatest-investors-win-in-market-and-life-notes-from-the-book/)
 
-※ 이 문서는 목차(장 제목·순서)를 완전히 검증하지 못한 채 작성되었으며, 확인된 것은 인물 등장 순서와 1장 제목뿐이다. 향후 개별 챕터 분석 파일을 작성하기 전, 반드시 원서 실물(Simon & Schuster, 2021) 또는 한국어판(알에이치코리아, 『돈의 공식』)을 확보해 전체 목차·인용문을 재확인해야 한다.
+※ 이 문서는 2026-07 재확인을 통해 전체 장 구조(Introduction + 8개 장 + Epilogue)를 Internet Archive·Goodreads·독립 서평 3개 소스로 상호 대조해 확정했다. 다만 4·5·7·8장 내부의 정확한 투자자 배정 순서, 절 구분, 정확한 인용문·쪽수는 여전히 원서 실물(Simon & Schuster, 2021) 또는 한국어판(알에이치코리아, 『돈의 공식』)으로 재확인이 필요하다.

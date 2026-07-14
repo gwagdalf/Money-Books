@@ -71,7 +71,7 @@ chapter20-The-End-of-Homo-Sapiens.md
 | | 7장 | Memory Overload | Memory-Overload | 기억의 과부하 |
 | | 8장 | There Is No Justice in History | There-Is-No-Justice-in-History | 역사에는 정의가 없다 |
 | **3부. 인류의 통합**<br>The Unification of Humankind | 9장 | The Arrow of History | The-Arrow-of-History | 역사의 화살 |
-| | 10장 | The Smell of Money | The-Smell-of-Money | 돈의 향기 |
+| | 10장 | The Scent of Money | The-Scent-of-Money | 돈의 향기 |
 | | 11장 | Imperial Visions | Imperial-Visions | 제국의 비전 |
 | | 12장 | The Law of Religion | The-Law-of-Religion | 종교라는 법칙 |
 | | 13장 | The Secret of Success | The-Secret-of-Success | 성공의 비결 |

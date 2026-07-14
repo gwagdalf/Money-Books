@@ -1,4 +1,4 @@
-# Chapter 08. Rule No. 8 — Know When to Stop Growing Your Wealth
+# Chapter 08. Know Your Peak (Rule No. 8 — Know When to Stop Growing Your Wealth)
 
 ## 법칙 8 — 부(富)를 그만 불려야 할 때를 알라 (순자산의 정점)
 

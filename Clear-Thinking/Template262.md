@@ -79,7 +79,7 @@ chapter21-Life-Lessons-from-Death.md
 | chapter20 | Memento Mori | 메멘토 모리 | 죽음을 기억함으로써 우선순위를 명확히 하는 훈련 (Part 5) |
 | chapter21 | Life Lessons from Death | 죽음에서 배우는 삶의 교훈 | 유한성을 직시함으로써 얻는 삶의 지혜 (Part 5) |
 
-※ 위 표는 grahammann.net·ericsandroni.com·chestergrant.com 등 복수의 독립적 서평·요약 사이트를 상호 대조해 정리했으나, 연속 챕터 번호는 잠정안이다. 각 장 내부의 정확한 절 구성·인용문·정확한 챕터 번호는 원서(Portfolio, 2023) 또는 한국어판(다산북스, 이한이 역) 실물로 반드시 재확인한다.
+※ 위 표는 grahammann.net·ericsandroni.com·chestergrant.com 등 복수의 독립적 서평·요약 사이트를 상호 대조해 정리했다. 5부 구성과 각 절의 제목·순서는 신뢰도가 높으나, **위 chapter01\~21 번호는 실제 원서의 연속 챕터 번호와 다를 수 있음이 추가 검증으로 확인되었다** — 독립적 출처에 따르면 "Margin of Safety"는 실제로 21장, "Memento Mori"는 25장 등으로, 위 번호보다 5씩 더 크다(원인은 앞선 부에 있는 미확인 챕터로 추정되나 특정하지 못함). 파일명은 이 잠정 번호(chapterNN) 그대로 사용하되, 문서 내부의 "장" 표기·인용문·정확한 챕터 번호는 원서(Portfolio, 2023) 또는 한국어판(다산북스, 이한이 역) 실물로 반드시 재확인한다.
 
 ---
 

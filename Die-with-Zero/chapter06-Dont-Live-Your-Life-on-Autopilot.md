@@ -1,4 +1,4 @@
-# Chapter 06. Rule No. 6 — Don't Live Your Life on Autopilot
+# Chapter 06. Balance Your Life (Rule No. 6 — Don't Live Your Life on Autopilot)
 
 ## 법칙 6 — 자동조종 모드로 인생을 살지 마라
 

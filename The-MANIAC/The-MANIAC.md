@@ -31,6 +31,7 @@
 | 장 | 영문 제목 | 다루는 실존 인물 |
 |----|-----------|-----------------|
 | 1 | Paul or the Discovery of the Irrational | 파울 에렌페스트 (Paul Ehrenfest) |
+| 2 (전체 표제) | John or the Mad Dreams of Reason | 존 폰 노이만 — 아래 3부로 구성 |
 | 2 (Part I) | The Limits of Logic | 존 폰 노이만 — 초기 생애 |
 | 2 (Part II) | The Delicate Balance of Terror | 존 폰 노이만 — 맨해튼 프로젝트, 게임 이론, 컴퓨터 |
 | 2 (Part III) | Ghosts in the Machine | 존 폰 노이만 — 자기복제 오토마타, 말년 |

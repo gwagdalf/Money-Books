@@ -27,7 +27,7 @@
 **3) "Because culture is now seen to be meritocratic, financial achievements are understood to be deserved..."**
 한국어: "문화가 이제 능력주의적인 것으로 여겨지기 때문에, 금전적 성취는 마땅히 받을 자격이 있는 것으로 이해된다."
 * 의미: 능력주의 이데올로기가 부의 축적을 도덕적 정당성의 문제로 치환시킨다.
-* 왜 중요한가: 5장 「능력주의」의 논의를 정치적 차원으로 확장한다 — 능력주의는 자연스러운 진리가 아니라, 부유층의 지위를 정당화하는 데 복무하는 특정 시대의 이데올로기다.
+* 왜 중요한가: 3장 「능력주의」의 논의를 정치적 차원으로 확장한다 — 능력주의는 자연스러운 진리가 아니라, 부유층의 지위를 정당화하는 데 복무하는 특정 시대의 이데올로기다.
 
 **4) "The enthusiasm for materialism, entrepreneurship and meritocracy that saturates the newspapers and television schedules of our own day reflects nothing more complex than the interests of those in charge."**
 한국어: "오늘날 신문과 텔레비전 편성표를 가득 채운 물질주의·기업가정신·능력주의에 대한 열광은, 그저 지금 권력을 쥔 이들의 이해관계를 반영하는 것일 뿐이다."

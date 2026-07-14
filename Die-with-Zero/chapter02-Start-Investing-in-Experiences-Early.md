@@ -1,4 +1,4 @@
-# Chapter 02. Rule No. 2 — Start Investing in Experiences Early
+# Chapter 02. Invest in Experiences (Rule No. 2 — Start Investing in Experiences Early)
 
 ## 법칙 2 — 경험에 일찍부터 투자하라
 

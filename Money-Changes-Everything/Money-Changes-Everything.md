@@ -46,13 +46,14 @@
 
 4부: 글로벌 시장의 출현 (The Emergence of Global Markets)
   23장 마르크스와 시장  24장 중국의 금융가들  25장 러시아의 곰  26장 구원자 케인스
+  27장 새로운 금융 세계  28장 미래를 재설계하다  29장 전후 이론
 ```
 
 ---
 
 ## 목차 (Table of Contents)
 
-『Money Changes Everything』(Princeton University Press, 2016년 초판)는 **네 개 부, 총 26개 장**으로 구성된다.
+『Money Changes Everything』(Princeton University Press, 2016년 초판)는 **네 개 부, 총 29개 장**으로 구성된다.
 
 | 챕터 번호 | 영문 제목 | 한글 제목 |
 |-----------|-----------|-----------|
@@ -86,8 +87,11 @@
 | 24장 | China's Financiers | 중국의 금융가들 |
 | 25장 | The Russian Bear | 러시아의 곰 |
 | 26장 | Keynes to the Rescue | 구원자 케인스 |
+| 27장 | The New Financial World | 새로운 금융 세계 |
+| 28장 | Re-Engineering the Future | 미래를 재설계하다 |
+| 29장 | Post-War Theory | 전후 이론 |
 
-※ 위 표는 복수의 독립적 출처(도서관 서지정보, 저자 인터뷰, 원서 발췌 자료)를 상호 대조해 정리했다. 국내 정식 번역본(『금융의 역사』, 지식의날개, 위대선 역, 2019)의 장 제목·번역 표현은 개별 챕터 분석 파일 작성 시 실물로 재확인한다.
+※ 위 표는 복수의 독립적 출처(idoc.pub 원서 전문 목차, dokumen.pub 서지정보 등)를 상호 대조해 확정했다. 종전에는 26장(Keynes to the Rescue)까지만 확인되어 있었으나, 실제 원서는 4부에 27\~29장(새로운 금융 세계, 미래를 재설계하다, 전후 이론)이 추가로 존재하는 전 29개 장 구성임을 재확인해 보강했다. 국내 정식 번역본(『금융의 역사』, 지식의날개, 위대선 역, 2019)의 장 제목·번역 표현은 개별 챕터 분석 파일 작성 시 실물로 재확인한다.
 
 ---
 

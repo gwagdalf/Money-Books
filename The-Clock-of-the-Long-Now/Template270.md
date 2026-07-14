@@ -34,38 +34,55 @@
 
 ## 출력 파일명
 
-chapterXX-{English Topic Slug}.md
+chapterXX-{English Chapter Title Slug}.md
 
 예시:
 
-chapter01-Now-vs-the-Long-Now.md
+chapter01-Notional-Clock.md
 
-chapter02-Pace-Layering.md
+chapter06-The-Long-Now.md
 
-chapter03-Faster-Cheaper-vs-Slower-Better.md
+chapter11-The-Worlds-Slowest-Computer.md
 
-chapter04-Trees-Planted-for-Their-Grandchildren.md
+chapter25-The-Infinite-Game.md
 
-chapter05-The-10000-Year-Clock.md
-
-※ **중요**: 『The Clock of the Long Now: Time and Responsibility』(1999년, Basic Books 초판, 약 218쪽)는 약 20여 개의 짧은 에세이형 장으로 구성되어 있으나, 이번 조사에서는 신뢰할 수 있는 원문 목차로 정확한 장 제목·순서를 확정하지 못했다 (여러 2차 요약 사이트가 상충하는 장 제목을 제시하며, 그 패턴이 AI 자동요약에 의한 것으로 의심됨). 개요 파일(`The-Clock-of-the-Long-Now.md`)에 정리한 5\~7개의 핵심 주제(페이스 레이어링, 빠르고 저렴하게 대 느리고 좋게, 손자를 위해 심은 나무들, 만년 시계 프로젝트 등)를 잠정적 분석 단위로 삼는다. **챕터 분석에 착수하기 전, 반드시 원서(Basic Books, 1999) 실물 목차로 정확한 장 번호·제목을 먼저 확인하고, 확인된 제목으로 `The-Clock-of-the-Long-Now.md`의 목차 표와 이 표를 함께 갱신한다.**
-※ 이 책 `README.md`가 아직 없다면, 확인된 목차를 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
-※ **저본**: 영문 원서는 Stewart Brand, *The Clock of the Long Now: Time and Responsibility*, Basic Books, 1999년 초판을 기준으로 삼는다. 국내 정식 번역본의 정확한 서지사항을 직접 대조하지 못했으므로, 지어내지 말고 직접 번역임을 밝힌다.
+※ **저본**: 영문 원서는 Stewart Brand, *The Clock of the Long Now: Time and Responsibility*, Basic Books, 1999년 초판(약 173\~218쪽)을 기준으로 삼는다. 국내 정식 번역본의 정확한 서지사항을 직접 대조하지 못했으므로, 지어내지 말고 직접 번역임을 밝힌다.
+※ 이 책 `README.md`가 아직 없다면, 아래 확인된 목차를 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ 각 장의 인용문·통계 수치·일화(스웨덴 의회의 1830년대 조림 계획, 대니 힐리스의 만년 시계 설계, 무어의 법칙과 멧커프의 법칙 등)는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다.
 
-참고 — 『The Clock of the Long Now』의 잠정 주제 구성 (Basic Books, 1999년 초판, 정확한 장 번호는 재확인 필요):
+참고 — 『The Clock of the Long Now』의 장 구성 (Basic Books, 1999년 초판, 총 25개 장 + 부록/후기):
 
-| 챕터 번호 | 주제 | 다루는 핵심 개념/주제 |
-|-----------|-----------|-------------------|
-| chapter01 | Now vs. the Long Now | "지금"의 협소한 정의를 향한 문제 제기 |
-| chapter02 | Pace Layering | 유행·상업·인프라·거버넌스·문화·자연의 여섯 층위와 각기 다른 변화 속도 |
-| chapter03 | Faster/Cheaper vs. Slower/Better | 단기적 효율성 척도에 대한 비판과 대안 |
-| chapter04 | Trees Planted for Their Grandchildren | 스웨덴 의회의 1830년대 조림 계획 등 장기 책임의 역사적 사례 |
-| chapter05 | The 10,000-Year Clock | 대니 힐리스가 구상한 시계의 설계 철학과 상징성 |
-| chapter06 | Kairos, Chronos, and Technological Time | 서로 다른 시간 개념과 기술 변화 속도(무어의 법칙 등)의 비교 |
-| chapter07 | Cultural Memory and Digital Fragility | 디지털 정보의 취약성과 초장기 기록 보존의 과제 |
+| 장 번호 | 영어 제목 | 잠정 한글 의미 |
+|---------|-----------|---------------|
+| 1장 | Notional Clock | 상상 속의 시계 |
+| 2장 | Kairos and Chronos | 카이로스와 크로노스(두 가지 시간 개념) |
+| 3장 | Moore's Wall | 무어의 벽(무어의 법칙의 한계) |
+| 4장 | The Singularity | 특이점 |
+| 5장 | Rush | 조급함·질주 |
+| 6장 | The Long Now | 롱 나우 |
+| 7장 | The Order of Civilization | 문명의 질서(페이스 레이어링) |
+| 8장 | Old-Time Religion | 오래된 종교 |
+| 9장 | Clock/Library | 시계와 도서관 |
+| 10장 | Ben Is Big | 벤(자민 프랭클린)은 크다 |
+| 11장 | The World's Slowest Computer | 세상에서 가장 느린 컴퓨터 |
+| 12장 | Burning Libraries | 불타는 도서관들 |
+| 13장 | Dead Hand | 죽은 자의 손(장기 신탁의 법적 한계) |
+| 14장 | Ending the Digital Dark Age | 디지털 암흑시대 끝내기 |
+| 15장 | 10,000-Year Library | 만년 도서관 |
+| 16장 | Tragic Optimism | 비극적 낙관주의 |
+| 17장 | Futurismo | 미래주의 |
+| 18장 | Uses of the Future | 미래의 쓸모 |
+| 19장 | Uses of the Past | 과거의 쓸모 |
+| 20장 | Reframing the Problems | 문제의 재구성 |
+| 21장 | Slow Science | 느린 과학 |
+| 22장 | The Long View | 장기적 관점 |
+| 23장 | Generations | 세대 |
+| 24장 | Sustained Endeavor | 지속적 노력 |
+| 25장 | The Infinite Game | 무한 게임 |
+| 부록 | Appendix: Engaging Clock/Library | 시계/도서관 프로젝트 참여 안내 |
+| 후기 | Afterword: January 02000 | 후기(2000년 1월) |
 
-※ 위 표는 Long Now Foundation 공식 자료, 위키백과, 복수의 독립적 서평을 상호 대조해 정리한 잠정 주제 구조이며, 정확한 장 번호·제목은 원서(Basic Books, 1999) 실물로 반드시 재확인한다.
+※ 위 표는 Goodreads 도서 상세 페이지(독자가 등록한 장별 목차)와 OpenLibrary(Internet Archive 서지 데이터) 두 개의 독립적 서지 출처가 정확히 일치하는 것을 확인하여 확정한 것이다. 두 소스 모두 25개 장 + 부록(Engaging Clock/Library) + 후기(Afterword: January 02000) + 주석/참고문헌/색인의 구성으로 일치한다. 이 책은 부(Part) 구분 없이 25개의 독립된 짧은 에세이형 장으로 구성되어 있다(각 장은 별도의 탐구이며 전체적으로 수렴적이라기보다 탐색적 구성). 개요 파일(`The-Clock-of-the-Long-Now.md`)이 이전에 정리했던 "페이스 레이어링·빠르고 저렴하게 대 느리고 좋게·손자를 위해 심은 나무들·만년 시계" 등의 주제는 실제로는 개별 장 제목이 아니라 여러 장에 걸쳐 등장하는 핵심 개념이며, 특히 "페이스 레이어링"은 7장(The Order of Civilization)에서, "만년 시계"는 11장(The World's Slowest Computer) 등에서 집중적으로 다뤄질 가능성이 높다. 각 장의 한글 의미는 실제 본문을 확인하기 전까지는 잠정적 가이드이며, 개별 챕터 분석 파일을 작성할 때 실제 원문 내용에 맞게 정교화한다.
 
 ---
 

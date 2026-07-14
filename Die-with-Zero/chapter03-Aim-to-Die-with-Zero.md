@@ -1,4 +1,4 @@
-# Chapter 03. Rule No. 3 — Aim to Die with Zero
+# Chapter 03. Why Die with Zero? (Rule No. 3 — Aim to Die with Zero)
 
 ## 법칙 3 — 목표는 '잔고 제로'로 죽는 것
 

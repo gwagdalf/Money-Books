@@ -22,9 +22,9 @@
 | 장 | English Title | 한글 제목 | 핵심 키워드 | 링크 |
 |---|---|---|---|---|
 | I | Lovelessness | 사랑받지 못함 | 인정 욕구, 존재의 가시성, 사랑의 사회적 형태 | [열기](chapter01-Lovelessness.md) |
-| II | Snobbery | 속물근성 | 단일 잣대, 인간의 환원, 존엄의 무시 | [열기](chapter02-Snobbery.md) |
-| III | Expectation | 기대 | 기대의 심리학, 만족과 격차, 평등 이념의 역설 | [열기](chapter03-Expectation.md) |
-| IV | Meritocracy | 능력주의 | 능력주의 신화, 성공/실패의 도덕화, 자기 책임의 함정 | [열기](chapter04-Meritocracy.md) |
+| II | Expectation | 기대 | 기대의 심리학, 만족과 격차, 평등 이념의 역설 | [열기](chapter02-Expectation.md) |
+| III | Meritocracy | 능력주의 | 능력주의 신화, 성공/실패의 도덕화, 자기 책임의 함정 | [열기](chapter03-Meritocracy.md) |
+| IV | Snobbery | 속물근성 | 단일 잣대, 인간의 환원, 존엄의 무시 | [열기](chapter04-Snobbery.md) |
 | V | Dependence | 의존 | 통제 불가능한 운, 구조적 의존, 비대칭적 책임 | [열기](chapter05-Dependence.md) |
 
 ### 2부. 해법 — 다섯 가지 전통이 불안을 완화하는 방식
@@ -34,7 +34,7 @@
 | I | Philosophy | 철학 | 이성적 논증, 평판 vs 진실, 독립적 판단 | [열기](chapter06-Philosophy.md) |
 | II | Art | 예술 | 대안적 가치 체계, 존엄의 재조명, 성공의 다원화 | [열기](chapter07-Art.md) |
 | III | Politics | 정치 | 지위 서열의 역사성, 이데올로기, 재구성 가능성 | [열기](chapter08-Politics.md) |
-| IV | Christianity | 기독교 | 메멘토 모리, 죽음 앞의 평등, 유한성의 자각 | [열기](chapter09-Christianity.md) |
+| IV | Religion | 종교 | 메멘토 모리, 죽음 앞의 평등, 유한성의 자각 | [열기](chapter09-Religion.md) |
 | V | Bohemia | 보헤미아 | 대안적 성공 기준, 창조성과 자유, 부르주아 거부 | [열기](chapter10-Bohemia.md) |
 
 각 챕터 파일은 다음 8개 섹션으로 구성됩니다 (`Template11.md` 기준):

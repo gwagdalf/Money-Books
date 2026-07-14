@@ -18,7 +18,7 @@
 | **출간 경위** | 2020년 7월 영국에서 WH Allen(Penguin Random House 임프린트)을 통해 『The Good Ancestor: How to Think Long Term in a Short-Term World』로 초판 출간. 같은 해 미국에서는 The Experiment 출판사를 통해 부제를 바꾼 『A Radical Prescription for Long-Term Thinking』으로 출간. 25개 이상 언어로 번역되었으나 한국어판은 아직 출간되지 않음 |
 | **분야** | 대중 철학·미래학 — 장기주의(longtermism)를 심리학·역사·정치·경제 전반에 걸쳐 실천적으로 풀어낸 교양서 |
 | **핵심 프레임워크** | "도토리형 사고(acorn thinking, 장기적 사고)" 대 "마시멜로형 사고(marshmallow thinking, 단기적 즉각 만족)", "여섯 가지 장기 사고법(Six Ways to Think Long)", 대성당 사고(Cathedral Thinking) |
-| **구성** | 3부(Part) 10개 장(Chapter) — Part I. The Tug of War for Time(2개 장), Part II. Six Ways to Think Long(6개 장), Part III. Bring On the Time Rebellion(2개 장) |
+| **구성** | 3부(Part) 12개 장(Chapter) + 부록(Appendix) — Part I. The Tug of War for Time(2개 장), Part II. Six Ways to Think Long(6개 장), Part III. Bring On the Time Rebellion(4개 장) |
 
 ---
 
@@ -28,13 +28,13 @@
 
 책의 핵심은 Part II "여섯 가지 장기 사고법(Six Ways to Think Long)"이다. 크르즈나릭은 인류 역사와 다양한 문화에서 실제로 작동했던 여섯 가지 장기적 사고의 도구 — 심원한 시간에 대한 겸손(Deep-Time Humility), 유산 마인드셋(Legacy Mindset), 세대 간 정의(Intergenerational Justice), 대성당 사고(Cathedral Thinking), 총체적 예측(Holistic Forecasting), 초월적 목표(Transcendent Goal) — 를 각 장에서 하나씩 다룬다. 중세 대성당 건축가들이 자신의 생애 안에 완공을 보지 못할 것을 알면서도 짓기 시작했던 사례(6장), 이로쿼이 연맹의 "일곱 세대 원칙(Seventh Generation Principle)"(5장), 아폴로 계획 같은 "초월적 목표"가 어떻게 장기적 협력을 이끌어내는지(8장) 등을 실증적 사례로 풀어낸다.
 
-Part III "시간 반란을 일으켜라(Bring On the Time Rebellion)"에서는 이 여섯 가지 사고법을 실제 정치·경제 제도에 어떻게 이식할 것인지 논한다 — 정치적 근시안에 대한 해독제로서의 "심층 민주주의(Deep Democracy)"(9장, 웨일스의 미래세대 커미셔너, 미래 세대를 대변하는 의회 의석 등 실제 제도 사례)와, 투기적 자본주의에서 재생적 경제로의 전환을 촉구하는 "생태 문명(Ecological Civilisation)"(10장, ESG·순환경제·도넛 경제학 등)이다.
+Part III "시간 반란을 일으켜라(Bring On the Time Rebellion)"에서는 이 여섯 가지 사고법을 실제 정치·경제·문화 영역에 어떻게 이식할 것인지 4개 장에 걸쳐 논한다 — 정치적 근시안에 대한 해독제로서의 "심층 민주주의(Deep Democracy)"(9장, 웨일스의 미래세대 커미셔너, 미래 세대를 대변하는 의회 의석 등 실제 제도 사례), 투기적 자본주의에서 재생적 경제로의 전환을 촉구하는 "생태 문명(Ecological Civilisation)"(10장, ESG·순환경제·도넛 경제학 등), 스토리텔링·디자인·가상현실 같은 문화적 도구가 장기적 사고의 확산에 어떤 역할을 하는지를 다루는 "문화적 진화(Cultural Evolution)"(11장), 그리고 책 전체를 마무리하며 "좋은 조상"으로 살아가기 위한 실천 제언을 정리하는 "좋은 조상의 길(The Path of the Good Ancestor)"(12장)이다. 책 말미에는 자신의 장기적 사고 성향을 스스로 진단해 볼 수 있는 부록 "세대 간 연대 지수(The Intergenerational Solidarity Index)"가 실려 있다.
 
 ---
 
 ## 목차 (Table of Contents)
 
-『The Good Ancestor: How to Think Long Term in a Short-Term World』(2020년, WH Allen/Penguin 영국판 초판 기준)는 3부(Part) 10개 장(Chapter)으로 구성된다.
+『The Good Ancestor: How to Think Long Term in a Short-Term World』(2020년, WH Allen/Penguin 영국판 초판 기준)는 3부(Part) 12개 장(Chapter)과 부록으로 구성된다.
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) | 다루는 핵심 개념/주제 |
 |-----------|-----------|------------------|-------------------|
@@ -48,11 +48,14 @@ Part III "시간 반란을 일으켜라(Bring On the Time Rebellion)"에서는 �
 | 6장 | Cathedral Thinking: The Art of Planning into the Distant Future | 대성당 사고: 먼 미래를 계획하는 기술 | 자신의 생애를 넘어서는 장기 프로젝트를 시작하는 용기 |
 | 7장 | Holistic Forecasting: Long-Term Pathways for Civilisation | 총체적 예측: 문명을 위한 장기 경로 | 인류 문명 전체의 장기적 궤적을 조망하는 예측법 |
 | 8장 | Transcendent Goal: A Lodestar to Guide Humanity | 초월적 목표: 인류를 이끄는 북극성 | 아폴로 계획형 대담한 공동 목표가 장기 협력을 촉발하는 방식 |
-| Part III | Bring On the Time Rebellion | 시간 반란을 일으켜라 | 6가지 사고법을 제도·정치·경제에 이식하는 실천 방안 |
+| Part III | Bring On the Time Rebellion | 시간 반란을 일으켜라 | 6가지 사고법을 제도·정치·경제·문화에 이식하는 실천 방안 |
 | 9장 | Deep Democracy: Is There an Antidote for Political Myopia? | 심층 민주주의: 정치적 근시안의 해독제는 있는가 | 미래세대 대변 제도(웨일스 미래세대 커미셔너 등) 사례 |
 | 10장 | Ecological Civilisation: From Speculative Capitalism to Regenerative Economy | 생태 문명: 투기적 자본주의에서 재생적 경제로 | ESG·순환경제·도넛 경제학 등 장기 지향 경제 모델 |
+| 11장 | Cultural Evolution: Storytelling, Design, and the Rise of Virtual Futures | 문화적 진화: 스토리텔링, 디자인, 그리고 가상 미래의 부상 | 이야기·디자인·가상현실 등 문화적 도구가 장기적 사고 확산에 미치는 역할 |
+| 12장 | The Path of the Good Ancestor | 좋은 조상의 길 | 책 전체를 마무리하는 실천 제언과 결론 |
+| 부록 | Appendix: The Intergenerational Solidarity Index | 부록: 세대 간 연대 지수 | 독자가 자신의 장기적 사고 성향을 스스로 진단해 보는 체크리스트 |
 
-※ 위 표는 저자 공식 사이트(romankrznaric.com) 및 롱 나우 재단(Long Now Foundation) 공식 매체(Medium)에 실린 저자 본인의 요약("Six Ways to Think Long-term: A Cognitive Toolkit for Good Ancestors")을 상호 대조해 정리했다. 각 장 내부의 정확한 절 구성·인용문은 원서(WH Allen, 2020) 실물로 반드시 재확인한다.
+※ 위 표는 저자 공식 사이트(romankrznaric.com) 및 롱 나우 재단(Long Now Foundation) 공식 매체(Medium)에 실린 저자 본인의 요약("Six Ways to Think Long-term: A Cognitive Toolkit for Good Ancestors")과, 원서 실물 스캔본 목차(ebin.pub 게재본)를 상호 대조해 정리했다. 기존 버전에는 실제로는 12개 장인 이 책의 목차가 10개 장(Part III가 9\~10장으로 종결)으로 잘못 기재되어 있었으나, 원서 목차 대조 후 11장 "Cultural Evolution"과 12장 "The Path of the Good Ancestor", 그리고 부록을 추가해 바로잡았다. 각 장 내부의 정확한 절 구성·인용문은 원서(WH Allen, 2020) 실물로 반드시 재확인한다.
 
 ---
 
@@ -71,7 +74,7 @@ Part III "시간 반란을 일으켜라(Bring On the Time Rebellion)"에서는 �
 자신이 완공을 보지 못할 것을 알면서도 수십\~수백 년짜리 프로젝트를 시작하는 태도 — 단기 성과주의에 대한 근본적 대안.
 
 ### 5. 시간 반란과 제도 개혁 (Time Rebellion)
-웨일스의 미래세대 커미셔너, 도넛 경제학 등 개인의 사고방식 전환을 넘어 정치·경제 제도 자체를 장기 지향으로 재설계하려는 실천 운동.
+웨일스의 미래세대 커미셔너, 도넛 경제학, 장기적 사고를 확산시키는 스토리텔링·디자인 등 개인의 사고방식 전환을 넘어 정치·경제·문화 영역 자체를 장기 지향으로 재설계하려는 실천 운동(9\~12장).
 
 ---
 
@@ -92,5 +95,6 @@ Part III "시간 반란을 일으켜라(Bring On the Time Rebellion)"에서는 �
 - [Six Ways to Think Long-term: A Cognitive Toolkit for Good Ancestors – Long Now Foundation (Medium)](https://medium.com/the-long-now-foundation/six-ways-to-think-long-term-da373b3377a4)
 - [The Good Ancestor – Goodreads](https://www.goodreads.com/book/show/51107158-the-good-ancestor)
 - [The Good Ancestor – Penguin UK](https://www.penguin.co.uk/books/441068/the-good-ancestor-by-roman-krznaric/9780753554517)
+- [The Good Ancestor: A Radical Prescription for Long-Term Thinking – 전자책 실물 목차 (ebin.pub)](https://ebin.pub/the-good-ancestor-a-radical-prescription-for-long-term-thinking.html)
 
-※ 이 문서의 목차·핵심 개념은 저자 공식 사이트 및 롱 나우 재단 공식 매체(저자 본인 작성 요약)를 상호 대조해 작성했다. 향후 개별 챕터 분석 파일을 작성할 때는 원서(WH Allen, 2020) 실물로 정확한 인용문을 재확인한다. 한국어 정식 번역본이 없어 모든 인용·번역은 직접 번역임을 밝힌다.
+※ 이 문서의 목차·핵심 개념은 저자 공식 사이트, 롱 나우 재단 공식 매체(저자 본인 작성 요약), 원서 실물 스캔본 목차(ebin.pub)를 상호 대조해 작성했다(이 책은 3부 12개 장 + 부록으로 구성되며, 이전 버전에 기재되어 있던 "10개 장" 구성은 오류였다). 향후 개별 챕터 분석 파일을 작성할 때는 원서(WH Allen, 2020) 실물로 정확한 인용문을 재확인한다. 한국어 정식 번역본이 없어 모든 인용·번역은 직접 번역임을 밝힌다.

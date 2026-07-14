@@ -1,4 +1,4 @@
-# Chapter 01. Rule No. 1 — Maximize Your Positive Life Experiences
+# Chapter 01. Optimize Your Life (Rule No. 1 — Maximize Your Positive Life Experiences)
 
 ## 법칙 1 — 긍정적 인생 경험을 극대화하라
 

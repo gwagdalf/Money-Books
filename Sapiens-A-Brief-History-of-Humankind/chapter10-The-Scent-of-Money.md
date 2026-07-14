@@ -1,9 +1,9 @@
-# Chapter 10. The-Smell-of-Money
+# Chapter 10. The Scent of Money
 
 ## 돈의 향기
 
 > 이 장은 『사피엔스』 4부 20장 중 10번째, **3부. 인류의 통합**에 속하며, 9장에서 예고된 세 가지 보편적 질서 중 첫 번째 — 화폐(경제적 질서) — 가 어떻게 서로 다른 언어·종교·문화를 가진 완전한 타인들을 하나의 신뢰 체계로 묶어냈는지를 다룬다.
-> ※ 참고: 영어 원서(Harvill Secker/HarperCollins판)에서 이 장의 실제 원제는 **"The Scent of Money"**이며, 이 저장소는 기존에 정해진 목차 표기("The Smell of Money")를 파일명·표제로 그대로 유지한다. 한국어 제목 "돈의 향기"는 원제("향기/냄새")의 의미를 그대로 담고 있어 내용상 차이는 없다.
+> ※ 2026-07 목차 감사에서 확인: 영어 원서(Harvill Secker/HarperCollins판)에서 이 장의 실제 원제는 **"The Scent of Money"**다. 기존에 이 저장소가 잘못 표기해 온 "The Smell of Money"를 원제에 맞게 바로잡았다(파일명도 chapter10-The-Scent-of-Money.md로 변경). 한국어 제목 "돈의 향기"는 원제("향기")의 의미를 그대로 담고 있어 변경하지 않는다.
 
 ---
 

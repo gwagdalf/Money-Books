@@ -12,7 +12,7 @@
 | **저자의 신분** | 슐레이만은 딥마인드(DeepMind) 공동 창업자, 현 마이크로소프트 AI 부문 CEO; 바스카는 작가·출판인(Canelo 공동창업자) |
 | **출간 경위** | 2023년 미국 Crown(Penguin Random House 임프린트)에서 출간 |
 | **분야** | 대중 정책·기술 교양서 — AI 거버넌스, 기술 위험 관리 |
-| **구성** | 프롤로그 + 4부 13개 장 + 후기, 약 350쪽 |
+| **구성** | 프롤로그 + 4부 14개 장 + 에필로그, 약 350쪽 |
 
 ---
 
@@ -20,13 +20,13 @@
 
 『The Coming Wave』는 AI 분야의 최전선(딥마인드 공동창업자)에서 직접 기술을 만들어 온 저자가, 자신이 만드는 기술의 위험성을 정직하게 경고하는 드문 책이다. 슐레이만의 핵심 주장은 제목 그대로 "봉쇄는 불가능하다(Containment Is Not Possible)"는 것 — AI와 합성생물학이라는 두 개의 거대한 기술 물결이 값싸고, 빠르게 확산되며, 범용적이라는 특성 때문에 전통적인 규제·봉쇄 방식으로는 통제할 수 없다는 진단이다.
 
-책은 4부로 구성된다. 1부(호모 테크놀로지쿠스)는 인류가 기술을 통제해 온 역사와, 이번 물결이 왜 근본적으로 다른 "봉쇄 문제"를 제기하는지 다룬다. 2부(다음 물결)는 AI("지능의 기술")와 합성생물학("생명의 기술")이라는 두 핵심 기술과 이들이 공유하는 네 가지 특징 — 비대칭성, 초진화성, 범용성, 자율성 — 을 분석한다. 3부는 이 기술이 국가와 사회의 취약성을 증폭시키는 방식("취약성 증폭기")과 국가의 미래에 미칠 영향을 논한다. 4부는 이 책의 핵심 — "봉쇄를 향한 열 가지 단계(Ten Steps Toward Containment)" — 로, 완벽한 봉쇄가 불가능하다는 전제 위에서도 위험을 줄이기 위한 실천적 정책 제언을 제시하며 마무리된다.
+책은 4부로 구성된다. 1부(호모 테크놀로지쿠스)는 인류가 기술을 통제해 온 역사와, 이번 물결이 왜 근본적으로 다른 "봉쇄 문제"를 제기하는지 다룬다. 2부(다음 물결)는 AI("지능의 기술")와 합성생물학("생명의 기술")이라는 두 핵심 기술과 이들이 공유하는 네 가지 특징 — 비대칭성, 초진화성, 범용성, 자율성 — 을 분석한다. 3부(States of Failure, 실패의 조건들)는 이 기술이 국가와 사회의 취약성을 증폭시키는 방식("취약성 증폭기")과 국가의 미래에 미칠 영향을 논한다. 4부(Through the Wave, 물결을 통과하며)는 13장에서 1장의 "봉쇄는 불가능하다"는 진단을 "그럼에도 봉쇄는 가능해야 한다(Containment Must Be Possible)"는 논증으로 전환한 뒤, 14장 "봉쇄를 향한 열 가지 단계(Ten Steps Toward Containment)"에서 완벽한 봉쇄가 불가능하다는 전제 위에서도 위험을 줄이기 위한 실천적 정책 제언을 제시하며 마무리된다. 이어지는 에필로그 "Life After the Anthropocene(인류세 이후의 삶)"으로 책 전체가 끝난다.
 
 ---
 
 ## 목차 (Table of Contents)
 
-※ 아래 목차는 복수의 서점·요약 정보를 상호 대조해 확인했다.
+※ 아래 목차는 readingraphics.com의 상세 목차 요약과 복수의 독립적 서평(cpatocybersecurity.com 등)을 상호 대조해 확인했다. 이전 버전에는 13장 "Containment Must Be Possible"이 누락되어 있었고, 마지막 장("Ten Steps Toward Containment")의 번호가 13이 아니라 14임과 3부의 이름("States of Failure")이 빠져 있었던 점을 이번에 정정했다.
 
 | 구분 | 챕터 번호 | 영문 제목 |
 |------|-----------|-----------|
@@ -39,12 +39,13 @@
 | II. The Next Wave | 6 | The Wider Wave |
 | II. The Next Wave | 7 | Four Features of the Coming Wave |
 | II. The Next Wave | 8 | Unstoppable Incentives |
-| III | 9 | The Grand Bargain |
-| III | 10 | Fragility Amplifiers |
-| III | 11 | The Future of Nations |
-| III | 12 | The Dilemma |
-| IV | 13 | Ten Steps Toward Containment |
-| — | 후기 | Afterword |
+| III. States of Failure | 9 | The Grand Bargain |
+| III. States of Failure | 10 | Fragility Amplifiers |
+| III. States of Failure | 11 | The Future of Nations |
+| III. States of Failure | 12 | The Dilemma |
+| IV. Through the Wave | 13 | Containment Must Be Possible |
+| IV. Through the Wave | 14 | Ten Steps Toward Containment |
+| — | 에필로그 | Life After the Anthropocene |
 
 ---
 

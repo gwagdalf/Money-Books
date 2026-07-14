@@ -47,7 +47,7 @@ chapter08-Perpetual-Beta.md
 
 chapter11-Are-They-Really-So-Super.md
 
-epilogue-Epilogue.md
+epilogue-An-Invitation.md
 
 appendix-Ten-Commandments-for-Aspiring-Superforecasters.md
 
@@ -72,7 +72,7 @@ appendix-Ten-Commandments-for-Aspiring-Superforecasters.md
 | 10장 | The Leader's Dilemma | The-Leaders-Dilemma | 리더의 딜레마 |
 | 11장 | Are They Really So Super? | Are-They-Really-So-Super | 그들은 정말 그렇게 대단한가? |
 | 12장 | What's Next? | Whats-Next | 다음은 무엇인가 |
-| — | Epilogue | Epilogue | 에필로그 |
+| — | Epilogue: An Invitation | An-Invitation | 에필로그: 초대의 글 |
 | — | Appendix: Ten Commandments for Aspiring Superforecasters | Ten-Commandments-for-Aspiring-Superforecasters | 부록: 슈퍼예측가 지망생을 위한 10계명 |
 
 ※ 위 표의 장 번호(1\~12)는 영어판 원서 목차와 그대로 일치한다(결번 없음). 에필로그와 부록은 정식 장 번호가 매겨져 있지 않으나, 본문의 논증을 마무리·요약하는 별도 단위로서 분석 대상에 포함한다. 파일 본문 도입부에 해당 장이 전체 12개 장(및 에필로그·부록) 중 몇 번째에 해당하는지 표기한다(예: "4장(전체 12장 중 4번째)").

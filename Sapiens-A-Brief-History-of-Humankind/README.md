@@ -50,7 +50,7 @@
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
 | [Ch.09](chapter09-The-Arrow-of-History.md) | The Arrow of History | 역사의 화살 | 역사의 화살, 아프로·유라시아 세계체제, 보편적 질서(화폐·제국·종교) |
-| [Ch.10](chapter10-The-Smell-of-Money.md) | The Smell of Money | 돈의 향기 | 상호 신뢰 시스템으로서의 화폐, 화폐의 무차별적 보편성, 황금 복음 |
+| [Ch.10](chapter10-The-Scent-of-Money.md) | The Scent of Money | 돈의 향기 | 상호 신뢰 시스템으로서의 화폐, 화폐의 무차별적 보편성, 황금 복음 |
 | [Ch.11](chapter11-Imperial-Visions.md) | Imperial Visions | 제국의 비전 | 제국의 정의(문화적 다양성+유연한 국경), 문명화 사명, 제국의 유산 |
 | [Ch.12](chapter12-The-Law-of-Religion.md) | The Law of Religion | 종교라는 법칙 | 종교의 정의(초인간적 질서에 대한 믿음), 자연법칙 종교, 인본주의 종교 |
 | [Ch.13](chapter13-The-Secret-of-Success.md) | The Secret of Success | 성공의 비결 | 후견 오류, 2단계 카오스 체계, 눈먼 클리오 |

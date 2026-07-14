@@ -59,10 +59,10 @@ chapter08-Reprise.md
 ※ 『A Short History of Financial Euphoria』(Penguin Business, 1993년판)는 1993년판 서문에 이어 **8개 장**으로 구성된다. 이 프로젝트에서는 서문을 chapter00으로, 본문 8개 장을 원서 순서 그대로 chapter01\~08로 명명한다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 John Kenneth Galbraith, *A Short History of Financial Euphoria*, Whittle Books/Viking, 1990년 초판, Penguin Business 1993년 페이퍼백판(신규 서문 포함, ISBN 0-14-023856-5)을 기준으로 삼는다. 이 책의 국내 정식 번역본은 확인되지 않았으므로, 인용 시 직접 번역임을 밝히고 영문 원서 표현을 함께 병기한다.
-※ 각 장의 목차 제목(특히 3\~5장의 정확한 제목·경계)은 원서 실물을 직접 대조하지 못한 채 복수의 2차 자료로 잠정 정리한 것이므로, 챕터 분석 파일을 작성하기 전 반드시 원서 실물 또는 신뢰할 수 있는 스캔본으로 재확인한다.
+※ 각 장의 목차 제목(3\~5장 포함)은 도서관 서지정보(CIP 목차 기록)와 복수의 2차 자료를 상호 대조해 확인했다. 4장과 5장은 별개의 독립된 장이며, 4장 제목에 "and the American Tradition"이 포함되지 않는다.
 ※ 각 장의 인용문·사례(튤립 파동, 존 로, 남해회사, 1929년, 1987년 블랙먼데이 등)는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치를 지어내지 않는다.
 
-참고 — 『A Short History of Financial Euphoria』의 장 구성 (Penguin Business 1993년판 기준, 잠정):
+참고 — 『A Short History of Financial Euphoria』의 장 구성 (Penguin Business 1993년판 기준):
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) |
 |-----------|-----------|------------------|
@@ -70,13 +70,13 @@ chapter08-Reprise.md
 | 1장 | The Speculative Episode | 투기적 에피소드 |
 | 2장 | The Common Denominators | 공통분모 |
 | 3장 | The Classic Cases, I: The Tulipomania; John Law and the Banque Royale | 고전적 사례 I: 튤립 파동, 존 로와 뱅크 로얄 |
-| 4장 | The Classic Cases, II: The Bubble, and the American Tradition | 고전적 사례 II: 남해회사 버블과 미국의 전통 |
+| 4장 | The Classic Cases, II: The Bubble | 고전적 사례 II: 남해회사 버블 |
 | 5장 | The American Tradition | 미국의 투기 전통 |
 | 6장 | 1929 | 1929년 |
 | 7장 | October Redux | 10월의 재현 (1987년 블랙먼데이) |
 | 8장 | Reprise | 반복 — 결론 |
 
-※ 위 표는 복수의 2차 자료(독서 노트·서평 사이트)를 상호 대조해 정리한 잠정 목차이며, 원서 실물로 반드시 재확인한다.
+※ 위 표는 도서관 서지정보(Open Library/vdoc.pub의 CIP 목차 기록) 및 복수의 독서 노트·서평 사이트를 상호 대조해 확인했다.
 
 ---
 

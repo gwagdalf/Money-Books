@@ -42,15 +42,15 @@ chapter01-Introduction.md
 
 chapter05-Investment-in-Large-Numbers-of-Securities.md
 
-chapter07-Efficient-Portfolios.md
+chapter07-Geometric-Analysis-of-Efficient-Sets.md
 
-chapter11-The-Expected-Utility-Maxim.md
+chapter10-The-Expected-Utility-Maxim.md
 
-chapter14-Applications-to-Portfolio-Selection.md
+chapter13-Applications-to-Portfolio-Selection.md
 
-chapter15-Appendix-A-The-Computation-of-Efficient-Sets.md (부록 A)
+chapter14-Appendix-A-The-Computation-of-Efficient-Sets.md (부록 A)
 
-※ 『Portfolio Selection: Efficient Diversification of Investments』(1959년, John Wiley & Sons 초판)는 **전 4부(Part), 14개 장(Chapter)**에 부록(Appendix) A\~C로 구성된다. 부록은 편의상 chapter15\~17로 명명한다.
+※ 『Portfolio Selection: Efficient Diversification of Investments』(1959년, John Wiley & Sons 초판)는 **전 4부(Part), 13개 장(Chapter)**에 부록(Appendix) A\~C로 구성된다. 부록은 편의상 chapter14\~16으로 명명한다. ※ Part III의 부(Part) 제목 자체가 "Efficient Portfolios"이며, 이를 별도의 장(7장)으로 잘못 넣으면 이후 장 번호가 한 칸씩 밀리므로 주의한다 — 실제 7장은 "Geometric Analysis of Efficient Sets"다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 Harry M. Markowitz, *Portfolio Selection: Efficient Diversification of Investments*, John Wiley & Sons, 1959년 초판(Cowles Foundation Monograph No. 16, ISBN 978-0-300-01372-6)을 기준으로 삼는다. 확인된 국내 정식 번역본이 없으므로, 모든 한국어 인용·표현은 직접 번역임을 밝힌다.
 ※ 이 책은 수식과 증명이 중심인 학술 논문에 가까운 저작이다. 각 장의 수식·정리(theorem)·증명은 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 서술하고, 확인할 수 없거나 불확실한 수식·수치를 지어내지 않는다. 수식을 직접 재현하기보다는, 그 수식이 담고 있는 경제적·통계적 의미를 설명하는 데 집중한다.
@@ -67,21 +67,20 @@ chapter15-Appendix-A-The-Computation-of-Efficient-Sets.md (부록 A)
 | 4장 | Standard Deviations and Variances | 표준편차와 분산 | 위험의 통계적 정의 |
 | 5장 | Investment in Large Numbers of Securities | 다수 증권에 대한 투자 | 분산투자와 상관관계의 관계 |
 | 6장 | Return in the Long Run | 장기적 수익률 | 장기 수익률의 통계적 성질 |
-| **Part III: Efficient Portfolios** | | | |
-| 7장 | Efficient Portfolios | 효율적 포트폴리오 | 효율적 프론티어의 정의 |
-| 8장 | Geometric Analysis of Efficient Sets | 효율적 집합의 기하학적 분석 | 효율적 프론티어의 기하학적 도출 |
-| 9장 | Derivation of E, V Efficient Sets | 기대값-분산 효율적 집합의 도출 | 효율적 집합의 대수적 도출 |
-| 10장 | The Semi-Variance | 준분산 | 하방 위험만을 반영하는 대안적 위험 측도 |
+| **Part III: Efficient Portfolios** (부 제목 — 별도 장이 아님) | | | |
+| 7장 | Geometric Analysis of Efficient Sets | 효율적 집합의 기하학적 분석 | 효율적 프론티어의 기하학적 도출 |
+| 8장 | Derivation of E, V Efficient Portfolios | 기대값-분산 효율적 포트폴리오의 도출 | 효율적 집합의 대수적 도출("critical line method") |
+| 9장 | The Semi-Variance | 준분산 | 하방 위험만을 반영하는 대안적 위험 측도 |
 | **Part IV: Rational Choice Under Uncertainty** | | | |
-| 11장 | The Expected Utility Maxim | 기대효용 극대화 원리 | 불확실성 하의 합리적 선택 이론 |
-| 12장 | Utility Analysis over Time | 시간에 걸친 효용 분석 | 다기간 효용 이론 |
-| 13장 | Probability Beliefs | 확률적 신념 | 주관적 확률과 투자 판단 |
-| 14장 | Applications to Portfolio Selection | 포트폴리오 선택에의 적용 | 이론 전체의 실무적 종합 |
+| 10장 | The Expected Utility Maxim | 기대효용 극대화 원리 | 불확실성 하의 합리적 선택 이론 |
+| 11장 | Utility Analysis over Time | 시간에 걸친 효용 분석 | 다기간 효용 이론 |
+| 12장 | Probability Beliefs | 확률적 신념 | 주관적 확률과 투자 판단 |
+| 13장 | Applications to Portfolio Selection | 포트폴리오 선택에의 적용 | 이론 전체의 실무적 종합 |
 | 부록 A | The Computation of Efficient Sets | 효율적 집합의 계산 | 실무적 계산법 |
 | 부록 B | A Simplex Method for the Portfolio Selection Problem | 심플렉스법을 이용한 최적화 | 최적화 알고리즘 |
 | 부록 C | Alternative Axiom Systems for Expected Utility | 기대효용의 대안적 공리 체계 | 이론적 기초의 보완 |
 
-※ 위 표는 원서(John Wiley & Sons, 1959) 목차를 기준으로 정리한 것이며, 각 장 내부의 정확한 수식·증명은 원서 실물로 반드시 재확인한다.
+※ 위 표는 원서(John Wiley & Sons, 1959) 목차 및 Cowles Foundation 공식 페이지·복수의 서지 정보(JSTOR, 서평)를 상호 대조해 정리한 것이다. 원서는 전 4부 **13개 장**(부록 3편 별도)으로 구성되며, Part III의 부(Part) 제목 자체가 "Efficient Portfolios"일 뿐 별도의 장이 아니다(이전 버전에서는 이를 7장으로 잘못 기재해 8\~14장이 한 칸씩 밀려 있었음). 각 장 내부의 정확한 수식·증명은 원서 실물로 반드시 재확인한다.
 
 ---
 
@@ -91,7 +90,7 @@ chapter15-Appendix-A-The-Computation-of-Efficient-Sets.md (부록 A)
 
 ## {한글 챕터 제목}
 
-> 이 장은 『포트폴리오 셀렉션』 전체 4부 14개 장(+부록 3편) 중 {P}부 {O}번째이며, {이 장이 다루는 핵심 주제 — 예: 평균과 기댓값의 통계적 정의 / 분산투자와 상관관계의 관계 / 효율적 프론티어의 기하학적 도출 / 준분산이라는 대안적 위험 측도 / 기대효용 극대화 원리 / 포트폴리오 선택에의 실무적 적용 등}을 다룬다.
+> 이 장은 『포트폴리오 셀렉션』 전체 4부 13개 장(+부록 3편) 중 {P}부 {O}번째이며, {이 장이 다루는 핵심 주제 — 예: 평균과 기댓값의 통계적 정의 / 분산투자와 상관관계의 관계 / 효율적 프론티어의 기하학적 도출 / 준분산이라는 대안적 위험 측도 / 기대효용 극대화 원리 / 포트폴리오 선택에의 실무적 적용 등}을 다룬다.
 
 ---
 
@@ -225,13 +224,13 @@ chapter15-Appendix-A-The-Computation-of-Efficient-Sets.md (부록 A)
 * 단순 요약이 아니라 논증의 흐름 재구성 중심으로 작성한다.
 * 이 책 특유의 핵심 개념 — **평균-분산 분석(Mean-Variance Analysis)**, **효율적 프론티어(Efficient Frontier)**, **공분산(Covariance)** — 을 유지한다.
 * 수리금융 이론을 학문적으로 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 이 책이 정식화한 정량적 분산투자의 논리를 통해, 나의 한국·미국 빅테크·반도체 집중이 실제로 검증된 효율적 배분인지 스스로 되묻고, 인출기에 맞게 이를 어떻게 재조정할 것인가라는 실천 철학**에 초점을 맞춘다.
-* 각 장이 전체 4부 14개 장(+부록) 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
+* 각 장이 전체 4부 13개 장(+부록) 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
 * 이미 경제적 자유를 달성하고 '인출기 삶을 설계해야 하는' 50대의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
 * 저자의 통찰을 무비판적으로 인용해 안이하게 단정하거나, 반대로 "이 이론은 비현실적 가정에 근거하니 나의 투자와는 무관하다"며 재검토를 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
 * 수식·정리는 반드시 실제 원문(John Wiley & Sons, 1959년 초판) 또는 신뢰할 수 있는 2차 자료를 확인한 뒤 작성하며, 확인할 수 없거나 정확히 재현할 수 없는 수식은 그 의미를 말로 풀어 설명하는 방식을 택하고 지어내지 않는다. 확인된 국내 정식 번역본이 없으므로 모든 한국어 표현은 직접 번역임을 밝힌다.
 * 한국어로 작성하되, 영어 원어 표기·핵심 원문·핵심 용어(Mean-Variance Analysis, Efficient Frontier 등)는 유지한다.
 * 마크다운 형식을 준수한다. (숫자·나이·비율 범위의 물결표는 `\~`로 이스케이프한다. 예: `2\~3%`, `1976년생`, `1\~2장`)
-* 분량은 약 3,000\~5,000자 수준으로 작성한다. 핵심 이론을 다루는 5장·7장이나 종합 적용을 다루는 14장은 상한에 가깝게, 상대적으로 기술적인 장(수식 도출 위주의 8\~9장 등)은 그 논의 밀도에 따라 유동적으로 작성한다. 없는 내용을 지어내 늘리지 않고 분석의 깊이로 분량을 채운다.
+* 분량은 약 3,000\~5,000자 수준으로 작성한다. 핵심 이론을 다루는 5장·7장이나 종합 적용을 다루는 13장은 상한에 가깝게, 상대적으로 기술적인 장(수식 도출 위주의 8\~9장 등)은 그 논의 밀도에 따라 유동적으로 작성한다. 없는 내용을 지어내 늘리지 않고 분석의 깊이로 분량을 채운다.
 
 이제 아래 장에 대해 작성하라.
 

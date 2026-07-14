@@ -18,7 +18,7 @@
 | **출간 경위** | 1959년 미국에서 John Wiley & Sons를 통해 초판 출간 (Cowles Foundation Monograph No. 16, ISBN 978-0-300-01372-6). 이후 예일대학교 출판부(Yale University Press) 등에서 재출간되었다 |
 | **분야** | 금융경제학·수리금융 학술서 — 분산투자의 수학적 기초를 정식화한 현대 포트폴리오 이론의 원전 |
 | **핵심 개념** | 평균-분산 분석(Mean-Variance Analysis), 효율적 프론티어(Efficient Frontier), 분산과 공분산(Variance and Covariance), 기대효용 극대화(Expected Utility Maxim), 준분산(Semi-Variance) |
-| **분량** | 전 4부(Part), 14개 장(Chapter)에 부록(Appendix) 3편으로 구성 |
+| **분량** | 전 4부(Part), 13개 장(Chapter)에 부록(Appendix) 3편으로 구성 |
 | **영향력** | 이 책에서 정식화된 평균-분산 최적화는 이후 자본자산가격결정모형(CAPM), 효율적 시장 가설과 함께 현대 금융경제학의 이론적 토대가 되었으며, 오늘날 대부분의 자산배분·인덱스 펀드 이론의 수학적 뿌리다 |
 | **성격** | 대중 투자서가 아니라, 확률론과 통계학을 이용해 "분산투자가 왜 합리적인가"를 수학적으로 증명하는 학술 논문에 가까운 단행본이다 |
 
@@ -28,7 +28,7 @@
 
 『포트폴리오 셀렉션』은 "계란을 한 바구니에 담지 마라"는 오래된 격언을, **평균(기대수익률)과 분산(위험)이라는 두 통계량만으로 포트폴리오를 수학적으로 최적화할 수 있다는 이론(평균-분산 분석)**으로 정식화한 책이다. 마코위츠 이전까지 "분산투자가 좋다"는 것은 경험적 직관이었지만, 그는 개별 자산들의 수익률 간 상관관계(공분산)를 고려하면, 서로 상관관계가 낮은 자산을 조합함으로써 동일한 기대수익률에서 위험을 줄이거나, 동일한 위험 수준에서 기대수익률을 높일 수 있다는 것을 수학적으로 증명했다. 이렇게 "주어진 위험 수준에서 최대 기대수익률을 내는" 포트폴리오들의 집합을 **효율적 프론티어(Efficient Frontier)**라 부른다.
 
-책의 1부(1\~2장)는 문제의식과 예시적 포트폴리오 분석을 소개하고, 2부(3\~6장)는 평균·분산·공분산 등 이 이론을 뒷받침하는 통계적 기초를 다진다. 3부(7\~10장)는 이 책의 핵심으로, 효율적 프론티어를 기하학적·대수적으로 도출하는 방법과 그 변형(준분산 등)을 다룬다. 4부(11\~14장)는 불확실성 하에서의 합리적 선택 이론(기대효용 극대화, 확률적 신념 등)이라는 더 깊은 이론적 토대를 다지고, 이를 포트폴리오 선택 문제에 실제로 적용하는 것으로 마무리된다. 부록은 효율적 집합의 계산법, 심플렉스법을 이용한 포트폴리오 최적화 알고리즘 등 실무적·수학적 세부 사항을 다룬다.
+책의 1부(1\~2장)는 문제의식과 예시적 포트폴리오 분석을 소개하고, 2부(3\~6장)는 평균·분산·공분산 등 이 이론을 뒷받침하는 통계적 기초를 다진다. 3부(7\~9장, 부(Part) 제목 자체가 "Efficient Portfolios")는 이 책의 핵심으로, 효율적 프론티어를 기하학적·대수적으로 도출하는 방법과 그 변형(준분산 등)을 다룬다. 4부(10\~13장)는 불확실성 하에서의 합리적 선택 이론(기대효용 극대화, 확률적 신념 등)이라는 더 깊은 이론적 토대를 다지고, 이를 포트폴리오 선택 문제에 실제로 적용하는 것으로 마무리된다. 부록은 효율적 집합의 계산법, 심플렉스법을 이용한 포트폴리오 최적화 알고리즘 등 실무적·수학적 세부 사항을 다룬다.
 
 이 책의 역사적 의의는 단순한 실용적 조언을 넘어, **투자를 "감(感)"이 아니라 확률론에 기반한 정량적 최적화 문제로 재정의**했다는 데 있다. 다만 마코위츠 자신도 후속 연구자들도 지적했듯, 이 이론은 자산 수익률의 정규분포 가정, 안정적인 상관관계 추정치 등 현실에서는 완벽히 성립하지 않는 여러 전제 위에 서 있으며, 이후 행동재무학·꼬리위험(tail risk) 연구 등에서 이 전제들에 대한 비판이 이어졌다.
 
@@ -42,11 +42,11 @@ Part II: 증권과 포트폴리오 사이의 관계 (3\~6장)
   → 평균과 기댓값, 표준편차와 분산, 다수 증권에 대한 투자,
     장기적 수익률의 통계적 성질
 
-Part III: 효율적 포트폴리오 (7\~10장)
+Part III: 효율적 포트폴리오 (부 제목, 7\~9장)
   → 효율적 프론티어의 기하학적 분석과 대수적 도출 →
     준분산(Semi-Variance)이라는 위험 측정의 대안
 
-Part IV: 불확실성 하의 합리적 선택 (11\~14장)
+Part IV: 불확실성 하의 합리적 선택 (10\~13장)
   → 기대효용 극대화 원리 → 시간에 걸친 효용 분석 →
     확률적 신념 → 포트폴리오 선택 문제에의 적용
 
@@ -59,7 +59,7 @@ Part IV: 불확실성 하의 합리적 선택 (11\~14장)
 
 ## 목차 (Table of Contents)
 
-『Portfolio Selection: Efficient Diversification of Investments』(1959년, John Wiley & Sons 초판, Cowles Foundation Monograph No. 16)는 **전 4부(Part), 14개 장(Chapter)**에 부록(Appendix) 3편, 그리고 이전 판에 대한 후기 성격의 5부(Part V)로 구성된다.
+『Portfolio Selection: Efficient Diversification of Investments』(1959년, John Wiley & Sons 초판, Cowles Foundation Monograph No. 16)는 **전 4부(Part), 13개 장(Chapter)**에 부록(Appendix) 3편으로 구성된다.
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) |
 |-----------|-----------|------------------|
@@ -71,21 +71,20 @@ Part IV: 불확실성 하의 합리적 선택 (11\~14장)
 | 4장 | Standard Deviations and Variances | 표준편차와 분산 |
 | 5장 | Investment in Large Numbers of Securities | 다수 증권에 대한 투자 |
 | 6장 | Return in the Long Run | 장기적 수익률 |
-| **Part III: Efficient Portfolios** | | |
-| 7장 | Efficient Portfolios | 효율적 포트폴리오 |
-| 8장 | Geometric Analysis of Efficient Sets | 효율적 집합의 기하학적 분석 |
-| 9장 | Derivation of E, V Efficient Sets | 기대값-분산 효율적 집합의 도출 |
-| 10장 | The Semi-Variance | 준분산 |
+| **Part III: Efficient Portfolios** (부 제목 — 별도 장이 아님) | | |
+| 7장 | Geometric Analysis of Efficient Sets | 효율적 집합의 기하학적 분석 |
+| 8장 | Derivation of E, V Efficient Portfolios | 기대값-분산 효율적 포트폴리오의 도출 |
+| 9장 | The Semi-Variance | 준분산 |
 | **Part IV: Rational Choice Under Uncertainty** | | |
-| 11장 | The Expected Utility Maxim | 기대효용 극대화 원리 |
-| 12장 | Utility Analysis over Time | 시간에 걸친 효용 분석 |
-| 13장 | Probability Beliefs | 확률적 신념 |
-| 14장 | Applications to Portfolio Selection | 포트폴리오 선택에의 적용 |
+| 10장 | The Expected Utility Maxim | 기대효용 극대화 원리 |
+| 11장 | Utility Analysis over Time | 시간에 걸친 효용 분석 |
+| 12장 | Probability Beliefs | 확률적 신념 |
+| 13장 | Applications to Portfolio Selection | 포트폴리오 선택에의 적용 |
 | 부록 A | The Computation of Efficient Sets | 효율적 집합의 계산 |
 | 부록 B | A Simplex Method for the Portfolio Selection Problem | 포트폴리오 선택 문제를 위한 심플렉스법 |
 | 부록 C | Alternative Axiom Systems for Expected Utility | 기대효용에 대한 대안적 공리 체계 |
 
-※ 위 표는 원서(John Wiley & Sons, 1959, Cowles Foundation Monograph No. 16) 목차를 기준으로 정리했다. 이 책은 확인된 국내 정식 번역본이 없는 고도로 수리적인 학술서이므로, 각 장 내부의 정확한 절 구성·수식 전개는 원서 실물로 반드시 재확인한다.
+※ 위 표는 원서(John Wiley & Sons, 1959, Cowles Foundation Monograph No. 16) 목차 및 Cowles Foundation 공식 페이지·복수의 서지 정보(JSTOR, 서평)를 상호 대조해 정리했다. 이전 버전에서는 Part III의 부(Part) 제목 "Efficient Portfolios"를 별도의 7장으로 잘못 기재해 이후 장 번호가 한 칸씩 밀려 있었으나(원서는 4부 13개 장이며, 3부는 부 제목만 "Efficient Portfolios"이고 실제 7장은 "Geometric Analysis of Efficient Sets"), 이번에 원서 목차 기준으로 바로잡았다. 이 책은 확인된 국내 정식 번역본이 없는 고도로 수리적인 학술서이므로, 각 장 내부의 정확한 절 구성·수식 전개는 원서 실물로 반드시 재확인한다.
 
 ---
 

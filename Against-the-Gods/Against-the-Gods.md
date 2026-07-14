@@ -19,7 +19,7 @@
 | **출간 경위** | 1996년 미국에서 John Wiley & Sons를 통해 초판 출간 (ISBN 978-0-471-12104-6, 약 383\~410쪽, 판본에 따라 쪽수 차이). 한국어판은 안진환 번역, 한국경제신문에서 2008년 12월 15일 출간 (ISBN 978-89-475-2688-3) |
 | **분야** | 경제사·확률론 대중서 — 고대부터 현대까지 인류가 "리스크(위험)"라는 불확실성을 정복해 온 지적 여정을 추적하는 논픽션 |
 | **핵심 개념** | 리스크 관리의 역사(The History of Risk Management), 확률론의 발전(파스칼·페르마·베르누이 가문·베이즈), 정규분포와 벨 커브, 기대효용 이론, 지식-불확실성(Knightian Uncertainty), 행동경제학(카너먼·트버스키의 전망 이론) |
-| **분량** | 서론에 이어 **전 5부(Part), 약 19개 장(Chapter)**으로 구성 (정확한 장 구성은 아래 목차의 재확인 필요 항목 참고) |
+| **분량** | 서론에 이어 **전 5부(Part), 19개 장(Chapter)**으로 구성 (미국 의회도서관 CIP 서지정보로 확인) |
 | **영향력** | 1996년 출간 이후 리스크·확률론의 역사를 대중에게 소개한 대표적 고전으로 자리 잡았으며, 워런 버핏 등 저명 투자자들이 추천 도서로 꼽아온 텍스트다 |
 
 ---
@@ -59,7 +59,7 @@ Part V: 믿음의 정도 — 불확실성 탐구
 
 ## 목차 (Table of Contents)
 
-『Against the Gods: The Remarkable Story of Risk』(1996년, John Wiley & Sons 초판)는 서론에 이어 **전 5부(Part), 약 19개 장(Chapter)**으로 구성된다.
+『Against the Gods: The Remarkable Story of Risk』(1996년, John Wiley & Sons 초판)는 서론에 이어 **전 5부(Part), 19개 장(Chapter)**으로 구성된다.
 
 | 구성 | 제목(영문) | 한글 제목(의역) |
 |------|-----------|------------------|
@@ -68,18 +68,28 @@ Part V: 믿음의 정도 — 불확실성 탐구
 | 1장 | The Winds of the Greeks and the Role of the Dice | 그리스인들의 바람과 주사위의 역할 |
 | 2장 | As Easy as I, II, III | I, II, III처럼 쉽게 |
 | **Part II: 1200\~1700 — A Thousand Outstanding Facts** | | |
-| (해당 부 소속 장들) | 르네상스 도박사, 파스칼·페르마의 점수 배분 문제, 베르누이 가문의 대수의 법칙 등을 다루는 것으로 파악됨 | (정확한 장 번호·제목은 원서 실물 재확인 필요) |
+| 3장 | The Renaissance Gambler | 르네상스 도박사 |
+| 4장 | The French Connection | 프랑스 커넥션 (파스칼과 페르마의 점수 배분 문제) |
+| 5장 | The Remarkable Notions of the Remarkable Notions Man | 비범한 발상가의 비범한 발상들 (야코프 베르누이와 대수의 법칙) |
 | **Part III: 1700\~1900 — Measurement Unlimited** | | |
-| (해당 부 소속 장들) | 베이즈 정리, 드무아브르의 정규분포, 골턴의 회귀, 벤담의 효용 이론 등을 다루는 것으로 파악됨 | (정확한 장 번호·제목은 원서 실물 재확인 필요) |
+| 6장 | Considering the Nature of Man | 인간의 본성을 고찰하다 (다니엘 베르누이와 효용 개념) |
+| 7장 | The Search for Moral Certainty | 도덕적 확실성을 찾아서 (베이즈 정리) |
+| 8장 | The Supreme Law of Unreason | 비이성의 지고한 법칙 (드무아브르와 정규분포) |
+| 9장 | The Man with the Sprained Brain | 삔 뇌를 가진 사나이 (프랜시스 골턴) |
+| 10장 | Peapods and Perils | 완두콩 꼬투리와 위험 (골턴의 회귀 개념) |
+| 11장 | The Fabric of Felicity | 행복의 직조물 (벤담의 효용 이론) |
 | **Part IV: 1900\~1960 — Clouds of Vagueness and the Demand for Precision** | | |
-| (해당 부 소속 장들) | 나이트·케인스의 불확실성, 게임이론 등을 다루는 것으로 파악됨 | (정확한 장 번호·제목은 원서 실물 재확인 필요) |
+| 12장 | The Measure of Our Ignorance | 우리 무지의 척도 (프랭크 나이트의 불확실성) |
+| 13장 | The Radically Distinct Notion | 근본적으로 다른 개념 (케인스의 불확실성) |
+| 14장 | The Man Who Counted Everything Except Calories | 칼로리 빼고 모든 것을 센 사나이 (폰 노이만과 게임이론) |
+| 15장 | The Strange Case of the Anonymous Stockbroker | 익명의 증권 브로커가 남긴 기이한 사례 (해리 마코위츠와 포트폴리오 이론) |
 | **Part V: Degrees of Belief — Exploring Uncertainty** | | |
-| 16장(추정) | The Failure of Invariance | 불변성의 실패 |
-| 17장(추정) | The Theory Police | 이론 경찰 |
-| 18장(추정) | The Fantastic System of Side Bets | 사이드 베팅의 환상적 체계 |
-| 19장(추정) | Awaiting the Wildness | 야성을 기다리며 |
+| 16장 | The Failure of Invariance | 불변성의 실패 |
+| 17장 | The Theory Police | 이론 경찰 |
+| 18장 | The Fantastic System of Side Bets | 사이드 베팅의 환상적 체계 |
+| 19장 | Awaiting the Wildness | 야성을 기다리며 |
 
-※ **중요**: 이 책은 여러 온라인 서지 자료를 대조했으나, 2\~4부에 속한 개별 장들의 정확한 번호·제목·순서가 자료마다 불일치했다(예: 일부 자료는 부별로 장 번호가 재설정된 것처럼 보이는 OCR 오류를 포함). 확인이 어려웠던 장들은 "정확한 장 번호·제목은 원서 실물 재확인 필요"로 표기했다. 5부의 장 제목(16\~19장으로 추정)은 두 개 이상의 자료에서 일치했으나 정확한 장 번호는 확정하지 못했다. 개별 챕터 분석 파일을 작성하기 전, 반드시 원서(John Wiley & Sons, 1996) 또는 한국어판(한국경제신문) 실물의 목차 페이지로 전체 장 구성을 재확인해야 한다.
+※ 위 표는 미국 의회도서관(Library of Congress) CIP(Cataloging-in-Publication) 서지정보에 수록된 공식 목차(catdir.loc.gov, LCCN 96033861)로 전체 19개 장의 정확한 번호·제목·소속 부(Part)를 확인해 정리했다. 3\~15장의 괄호 안 한글 부제는 각 장이 다루는 인물·개념에 대한 의역이며, 정식 한국어판(한국경제신문) 장 제목과 정확히 일치하지 않을 수 있으므로 인용 시 실물로 재확인한다.
 
 ---
 
@@ -119,4 +129,4 @@ Part V: 믿음의 정도 — 불확실성 탐구
 - [Against the Gods – Wiley 공식 페이지](https://www.wiley.com/en-us/Against+the+Gods:+The+Remarkable+Story+of+Risk-p-9780471121046)
 - [리스크 – 한경BP 공식 페이지](https://bp.hankyung.com/books/view/532)
 
-※ 이 문서의 목차는 여러 2차 자료를 상호 대조했으나 2\~4부의 개별 장 번호·제목에서 자료 간 불일치가 있어 완전히 확정하지 못했다. 향후 개별 챕터 분석 파일을 작성하기 전, 원서 또는 한국어판(한국경제신문) 실물의 목차로 전체 19개 장의 정확한 번호·제목·순서를 반드시 재확인한다.
+※ 이 문서의 목차는 미국 의회도서관(Library of Congress) CIP 서지정보(catdir.loc.gov, LCCN 96033861)로 전체 19개 장의 정확한 번호·제목·순서를 확인해 작성했다. 각 장 내부의 정확한 인용문·쪽수는 향후 개별 챕터 분석 파일을 작성할 때 원서 또는 한국어판(한국경제신문) 실물로 재확인한다.

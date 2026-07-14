@@ -50,7 +50,7 @@ chapter09-Deep-Democracy.md
 
 chapter10-Ecological-Civilisation.md
 
-※ 『The Good Ancestor: How to Think Long Term in a Short-Term World』(2020년, WH Allen/Penguin 영국판 초판)는 3부(Part) 10개 장(Chapter)으로 구성되며, 부(Part) 표제 자체는 별도 챕터 파일로 만들지 않고 각 장의 인용구(> 표시) 상단에 소속 Part를 명시한다.
+※ 『The Good Ancestor: How to Think Long Term in a Short-Term World』(2020년, WH Allen/Penguin 영국판 초판)는 3부(Part) 12개 장(Chapter) + 부록(Appendix)으로 구성되며, 부(Part) 표제 자체는 별도 챕터 파일로 만들지 않고 각 장의 인용구(> 표시) 상단에 소속 Part를 명시한다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 Roman Krznaric, *The Good Ancestor: How to Think Long Term in a Short-Term World*, WH Allen, 2020년 영국판 초판을 기준으로 삼는다(미국판은 부제가 *A Radical Prescription for Long-Term Thinking*으로 다름). 한국어 정식 번역본이 2026년 현재 확인되지 않으므로, 모든 인용·번역은 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·통계 수치·일화(대성당 건축 사례, 이로쿼이 연맹의 일곱 세대 원칙, 웨일스 미래세대 커미셔너 제도, 아폴로 계획 등)는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다.
@@ -69,8 +69,10 @@ chapter10-Ecological-Civilisation.md
 | chapter08 | Transcendent Goal: A Lodestar to Guide Humanity | 초월적 목표 | 대담한 공동 목표가 장기 협력을 촉발하는 방식 (Part II) |
 | chapter09 | Deep Democracy: Is There an Antidote for Political Myopia? | 심층 민주주의 | 미래세대 대변 제도 사례 (Part III) |
 | chapter10 | Ecological Civilisation: From Speculative Capitalism to Regenerative Economy | 생태 문명 | 투기적 자본주의에서 재생적 경제로의 전환 (Part III) |
+| chapter11 | Cultural Evolution: Storytelling, Design, and the Rise of Virtual Futures | 문화적 진화 | 스토리텔링·디자인·가상현실 등 문화적 도구를 통한 장기적 사고의 확산 (Part III) |
+| chapter12 | The Path of the Good Ancestor | 좋은 조상의 길 | 책 전체를 마무리하는 실천 제언과 결론 (Part III) |
 
-※ 위 표는 저자 공식 사이트(romankrznaric.com) 및 롱 나우 재단(Long Now Foundation) 공식 매체에 실린 저자 본인의 요약을 상호 대조해 정리한 것이며, 각 장 내부의 정확한 절 구성·인용문은 원서(WH Allen, 2020) 실물로 반드시 재확인한다.
+※ 위 표는 저자 공식 사이트(romankrznaric.com) 및 롱 나우 재단(Long Now Foundation) 공식 매체에 실린 저자 본인의 요약과, 원서 실물 스캔본 목차(ebin.pub)를 상호 대조해 정리한 것이다. 이 책은 실제로는 3부 12개 장 + 부록으로 구성되며(Part III만 9\~12장의 4개 장), 각 장 내부의 정확한 절 구성·인용문은 원서(WH Allen, 2020) 실물로 반드시 재확인한다.
 
 ---
 

@@ -34,17 +34,26 @@
 
 ## 목차 (Table of Contents)
 
-※ 검색 가능한 자료(출판사 페이지, Goodreads, 서평 사이트, 저자 공식 홈페이지)로는 이 책의 전체 장(chapter) 제목을 빠짐없이 확인하지 못했다. 아래는 확인 가능한 범위에서 재구성한 대략적 구성이며, 정확한 장별 제목·순서는 원서 실물로 재확인이 필요하다는 한계를 명시한다.
+Bookey의 원서 발췌 PDF와 별도의 독립 검색(강연·서평·저자 인터뷰)으로 전체 12개 장 제목과 부록 구성을 교차 확인했다.
 
-| 구성 | 확인된 내용 |
-|------|-------------|
-| 서장 | 몰로키오(Molochio, 이탈리아 칼라브리아)의 백세인 마을 일화로 시작 |
-| 초반부 | 장수 연구의 다섯 기둥(Five Pillars of Longevity) 방법론 소개 |
-| 중반부 | 일상 식단 가이드라인(식물·생선 위주 저단백 식이), 공복 모방 식단(FMD)의 과학적 근거와 시행법 |
-| 8장(확인됨) | 영양, FMD, 당뇨병 예방과 치료 (Nutrition, FMD, and Diabetes Prevention and Treatment) |
-| 중후반부(질병별 장, 순서 미확인) | 심혈관질환·암·인지기능 저하(알츠하이머 등)·자가면역질환과 식이의 관계 |
-| 12장(확인됨) | 젊음을 유지하는 법 요약 (연령대별 실천 가이드라인) |
-| 부록 | 약 30개의 실천용 레시피 |
+| 장 | 영문 제목 | 한글 제목(의역) |
+|----|-----------|------------------|
+| 1장 | Caruso's Fountain | 카루소의 샘 |
+| 2장 | Aging, Programmed Longevity, and Juventology | 노화, 프로그램된 장수, 그리고 유베놀로지(Juventology) |
+| 3장 | The Five Pillars | 다섯 기둥 |
+| 4장 | The Longevity Diet | 장수 식단 |
+| 5장 | Exercise and Healthy Longevity | 운동과 건강한 장수 |
+| 6장 | Fasting-Mimicking Diets, Weight Management, and Healthy Longevity | 공복 모방 식단, 체중 관리, 건강한 장수 |
+| 7장 | Nutrition and Fasting-Mimicking Diets in Cancer Prevention and Treatment | 영양과 공복 모방 식단을 통한 암 예방과 치료 |
+| 8장 | Nutrition, FMD, and Diabetes Prevention and Treatment | 영양, FMD, 당뇨병 예방과 치료 |
+| 9장 | FMD, Nutrition, and Cardiovascular Disease Prevention and Treatment | FMD, 영양, 심혈관질환 예방과 치료 |
+| 10장 | FMD and Nutrition in the Prevention and Treatment of Alzheimer's and Other Neurodegenerative Diseases | FMD와 영양을 통한 알츠하이머 및 기타 신경퇴행성질환의 예방과 치료 |
+| 11장 | FMD and Nutrition in the Prevention and Treatment of Inflammatory and Autoimmune Diseases | FMD와 영양을 통한 염증성·자가면역질환의 예방과 치료 |
+| 12장 | How to Stay Young | 젊음을 유지하는 법 |
+| 부록 A | Longevity Diet Two-Week Meal Plan | 장수 식단 2주 식단표 |
+| 부록 B | Food Sources of Vitamins and Minerals | 비타민·미네랄 식품 공급원 |
+
+※ 부록 B 뒤에 감사의 말(Acknowledgments)과 주석(Notes)이 이어지며, 별도의 레시피 부록(약 30개)은 본문 내 식단 가이드와 결합되어 제시된다.
 
 ---
 
@@ -82,4 +91,4 @@
 - [The Longevity Diet – Wikipedia](https://en.wikipedia.org/wiki/The_Longevity_Diet)
 - [The Longevity Diet Chapter Summary – Bookey](https://www.bookey.app/book/the-longevity-diet)
 
-※ 이 문서의 목차는 검색으로 확인 가능한 범위 내에서만 재구성했으며, 완전한 장별 제목·순서는 확인하지 못했다는 한계를 정직하게 밝힌다. 향후 개별 챕터 분석 파일을 작성할 때는 반드시 원서 실물(Avery, 2018년 초판)로 목차와 인용문을 재확인해야 한다.
+※ 위 목차의 12개 장·2개 부록 구성은 원서 발췌 PDF와 독립된 2차 자료로 교차 확인되었다. 다만 각 장 내부의 인용문·수치·일화는 여전히 원서 실물 또는 신뢰할 수 있는 발췌본으로 개별 재확인이 필요하다.

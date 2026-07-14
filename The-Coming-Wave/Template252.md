@@ -42,17 +42,20 @@ chapter01-Containment-Is-Not-Possible.md
 
 chapter07-Four-Features-of-the-Coming-Wave.md
 
-chapter13-Ten-Steps-Toward-Containment.md
+chapter13-Containment-Must-Be-Possible.md
 
-※ 이 책은 프롤로그 + 4부 13개 장 + 후기로 구성된다. 프롤로그는 chapter00, 후기는 chapter14로 명명하고 그 규칙을 명시한다.
-※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
+chapter14-Ten-Steps-Toward-Containment.md
+
+※ 이 책은 프롤로그 + 4부 14개 장 + 에필로그로 구성된다. 프롤로그는 chapter00, 에필로그는 chapter15로 명명하고 그 규칙을 명시한다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: Mustafa Suleyman, Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma*, Crown, 2023년 초판. 국내 정식 번역본 "더 커밍 웨이브"(한국경제신문)가 존재하므로, 인용 시 가능하면 국내 번역본 표현을 원문과 병기하되, 직접 대조하지 못한 경우 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·기술 사례·통계는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다. 이 책은 2023년 출간되었으므로, 이후 AI 기술·정책 변화와 혼동하지 않고 출간 시점 기준임을 명시한다.
 
-참고 — 『The Coming Wave』의 챕터(장) 구성:
+참고 — 『The Coming Wave』의 챕터(장) 구성 (총 14개 장, 4부 구성; 이전 버전에서는 13장 "Containment Must Be Possible"이 누락되어 있었고 마지막 장 번호가 13이 아니라 14임을 다수의 독립 출처로 확인해 정정함):
 
 | Part | 챕터 번호 | 영문 제목 | 한글 제목(의역) | 다루는 핵심 개념/주제 |
 |------|-----------|-----------|------------------|-------------------|
+| — | 프롤로그 | Prologue | 프롤로그 | 도입 |
 | — | 1 | Containment Is Not Possible | 봉쇄는 불가능하다 | 이 책의 핵심 진단 제시 |
 | I. Homo Technologicus | 2 | Endless Proliferation | 끝없는 확산 | 기술 확산의 역사적 패턴 |
 | I. Homo Technologicus | 3 | The Containment Problem | 봉쇄의 문제 | 전통적 규제 방식의 한계 |
@@ -61,13 +64,15 @@ chapter13-Ten-Steps-Toward-Containment.md
 | II. The Next Wave | 6 | The Wider Wave | 더 넓은 물결 | 양자컴퓨팅·로봇공학 등 연관 기술 |
 | II. The Next Wave | 7 | Four Features of the Coming Wave | 다가오는 물결의 네 가지 특징 | 비대칭성·초진화성·범용성·자율성 |
 | II. The Next Wave | 8 | Unstoppable Incentives | 멈출 수 없는 인센티브 | 기술 개발을 가속화하는 경쟁 구조 |
-| III | 9 | The Grand Bargain | 거대한 거래 | 기술 발전과 국가 권력의 암묵적 계약 |
-| III | 10 | Fragility Amplifiers | 취약성 증폭기 | 기술이 기존 시스템의 약점을 증폭시키는 방식 |
-| III | 11 | The Future of Nations | 국가의 미래 | 국민국가 체제에 대한 기술의 도전 |
-| III | 12 | The Dilemma | 딜레마 | 봉쇄와 혁신 사이의 근본적 딜레마 |
-| IV | 13 | Ten Steps Toward Containment | 봉쇄를 향한 열 가지 단계 | 실천적 정책 제언 |
+| III. States of Failure | 9 | The Grand Bargain | 거대한 거래 | 기술 발전과 국가 권력의 암묵적 계약 |
+| III. States of Failure | 10 | Fragility Amplifiers | 취약성 증폭기 | 기술이 기존 시스템의 약점을 증폭시키는 방식 |
+| III. States of Failure | 11 | The Future of Nations | 국가의 미래 | 국민국가 체제에 대한 기술의 도전 |
+| III. States of Failure | 12 | The Dilemma | 딜레마 | 봉쇄와 혁신 사이의 근본적 딜레마 |
+| IV. Through the Wave | 13 | Containment Must Be Possible | 봉쇄는 가능해야 한다 | "봉쇄는 불가능하다"에서 "그럼에도 봉쇄는 가능해야 한다"로의 논증 전환 |
+| IV. Through the Wave | 14 | Ten Steps Toward Containment | 봉쇄를 향한 열 가지 단계 | 실천적 정책 제언 |
+| — | 에필로그 | Life After the Anthropocene | 인류세 이후의 삶 | 결론 및 전망 |
 
-※ 위 표는 복수의 서점·요약 정보를 상호 대조해 정리한 것이며, "한글 제목(의역)"과 "다루는 핵심 개념/주제" 열은 저장소 작성자의 해석이므로, 각 챕터 내부의 정확한 절 구성·인용문은 원서 실물로 반드시 재확인한다.
+※ 위 표는 readingraphics.com의 상세 목차 요약과, "Containment Is Not Possible" → "Containment Must Be Possible" → "Ten Steps Toward Containment"라는 저자의 3단 논증 구조를 명시적으로 확인해 주는 복수의 독립적 서평(cpatocybersecurity.com 등)을 상호 대조해 정리한 것이다. "한글 제목(의역)"과 "다루는 핵심 개념/주제" 열은 저장소 작성자의 해석이므로, 각 챕터 내부의 정확한 절 구성·인용문은 원서 실물로 반드시 재확인한다.
 
 ---
 
@@ -77,7 +82,7 @@ chapter13-Ten-Steps-Toward-Containment.md
 
 ## {한글 챕터 제목}
 
-> 이 장은 『The Coming Wave』 전체 13개 장 중 {O}번째이며, {이 장이 전체 논증에서 담당하는 역할·다루는 핵심 개념을 한 문장으로}을 다룬다.
+> 이 장은 『The Coming Wave』 전체 14개 장 중 {O}번째이며, {이 장이 전체 논증에서 담당하는 역할·다루는 핵심 개념을 한 문장으로}을 다룬다.
 
 ---
 
@@ -211,7 +216,7 @@ chapter13-Ten-Steps-Toward-Containment.md
 * 단순 요약이 아니라 논증의 흐름 재구성 중심으로 작성한다.
 * 이 책 특유의 핵심 개념(봉쇄 불가능성, 물결의 네 가지 특징, 취약성 증폭기 등)을 정확히 파악하여 분석 전반에 걸쳐 일관되게 유지한다.
 * AI 정책학을 학문적으로 배우기 위한 것이 아니라, **이미 경제적 자유를 이룬 사람이 이 책의 통찰을 통해, 스스로의 투자 판단에 스며든 기술 위험의 통제 가능성에 대한 과신을 어떻게 데이터 기반의 침착한 판단으로 재조정할 것인가라는 실천 철학**에 초점을 맞춘다.
-* 각 장이 전체 13개 장 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
+* 각 장이 전체 14개 장 중 어디에 해당하는지 명시하고, 이 장의 논증을 나의 실제 포트폴리오(2버킷 구조, 국가·산업 집중도, 인출률, 현금 버퍼)에 적용하는 방법을 분석에 포함한다.
 * 이미 경제적 자유를 달성하고 '인출기 삶을 설계해야 하는' 50대의 관점에서, 실질적이고 실행 가능한 조언을 제공한다.
 * 저자들의 통찰을 무비판적으로 인용해 안이하게 단정하거나, 반대로 "이 책의 원리는 나의 투자와는 무관하다"며 재검토를 회피하는 명분으로 삼지 않도록 균형 있게 작성한다.
 * 인용문·일화·통계 수치는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인한 뒤 작성하며, 확인할 수 없는 내용은 지어내지 않는다. 국내 정식 번역본이 확인되면 원문과 함께 병기하되, 직접 대조하지 못한 경우 직접 번역임을 밝힌다.

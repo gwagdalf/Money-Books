@@ -73,13 +73,13 @@
 | 1장 | The Speculative Episode | 투기적 에피소드 |
 | 2장 | The Common Denominators | 공통분모 |
 | 3장 | The Classic Cases, I: The Tulipomania; John Law and the Banque Royale | 고전적 사례 I: 튤립 파동, 존 로와 뱅크 로얄 |
-| 4장 | The Classic Cases, II: The Bubble, and the American Tradition | 고전적 사례 II: 남해회사 버블과 미국의 전통 |
+| 4장 | The Classic Cases, II: The Bubble | 고전적 사례 II: 남해회사 버블 |
 | 5장 | The American Tradition | 미국의 투기 전통 |
 | 6장 | 1929 | 1929년 |
 | 7장 | October Redux | 10월의 재현 (1987년 블랙먼데이) |
 | 8장 | Reprise | 반복 — 결론 |
 
-※ 위 표는 원서 실물 목차를 직접 확인하지 못한 상태에서, 복수의 독서 노트·서평 사이트(Novel Investor, Doing Melpomene's Work 등)와 책 소개 자료를 상호 대조해 정리한 잠정 목차다. 4장과 5장의 정확한 제목·경계(남해회사 버블과 "미국의 전통"이 하나의 장인지 별개의 장인지)는 자료마다 소폭 차이가 있어, 향후 원서 실물 또는 신뢰할 수 있는 스캔본으로 반드시 재확인해야 한다.
+※ 위 표는 도서관 서지정보(Open Library/vdoc.pub에 수록된 CIP 목차 기록) 및 복수의 독서 노트·서평 사이트(Novel Investor, Doing Melpomene's Work 등)를 상호 대조해 확인했다. 4장(남해회사 버블)과 5장("미국의 전통")은 별개의 독립된 장이며, 4장 제목에 "and the American Tradition"이 포함되지 않는다.
 
 ---
 
@@ -109,9 +109,9 @@
 
 > 핵심: 자산의 종류(구근이든 회사 주식이든)는 바뀌어도, 투기의 심리적 문법은 바뀌지 않는다.
 
-### 4장 — 고전적 사례 II: 남해회사 버블과 미국의 전통
+### 4장 — 고전적 사례 II: 남해회사 버블 (The Classic Cases, II: The Bubble)
 
-1720년 영국 남해회사(South Sea Company) 버블을 다루며, 정부와 금융 엘리트가 결탁한 투기 조장의 구조를 보여준다. 이어 미국이 식민지 시대부터 반복해 온 지폐 남발과 토지 투기의 전통으로 논의를 확장한다.
+1720년 영국 남해회사(South Sea Company) 버블을 다루며, 정부와 금융 엘리트가 결탁한 투기 조장의 구조를 보여준다.
 
 > 핵심: 투기는 후진적 시장의 일탈이 아니라, 가장 발전된 금융 중심지에서도 반복되는 구조적 현상이다.
 

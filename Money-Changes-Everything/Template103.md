@@ -44,14 +44,14 @@ chapter12-Venice.md
 
 chapter20-A-Bubble-in-France.md
 
-chapter26-Keynes-to-the-Rescue.md
+chapter29-Post-War-Theory.md
 
-※ 『Money Changes Everything』(Princeton University Press, 2016년 초판)는 **네 개 부(Part I\~IV), 총 26개 장**으로 구성된다. 이 프로젝트에서는 원서의 장 번호(1\~26)를 그대로 사용해 파일명을 붙인다.
+※ 『Money Changes Everything』(Princeton University Press, 2016년 초판)는 **네 개 부(Part I\~IV), 총 29개 장**으로 구성된다. 이 프로젝트에서는 원서의 장 번호(1\~29)를 그대로 사용해 파일명을 붙인다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 William N. Goetzmann, *Money Changes Everything: How Finance Made Civilization Possible*, Princeton University Press, 2016년 초판(ISBN 978-0-691-14378-1)을 기준으로 삼는다. 국내 정식 번역본(『금융의 역사』, 지식의날개, 2019, 위대선 역)이 있는 경우 인용 시 원문과 함께 병기하되, 정확한 쪽수를 대조하지 못했다면 지어내지 말고 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·역사적 사실(설형문자와 우루크, 피보나치의 복리 계산, 존 로의 프랑스 버블 등)은 반드시 실제 원문 및 신뢰할 수 있는 역사적 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·사실을 지어내지 않는다.
 
-참고 — 『Money Changes Everything』의 장 구성 (전 26장, 4개 부, Princeton University Press 2016년 초판 기준):
+참고 — 『Money Changes Everything』의 장 구성 (전 29장, 4개 부, Princeton University Press 2016년 초판 기준):
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) |
 |-----------|-----------|------------------|
@@ -85,8 +85,11 @@ chapter26-Keynes-to-the-Rescue.md
 | 24장 | China's Financiers | 중국의 금융가들 |
 | 25장 | The Russian Bear | 러시아의 곰 |
 | 26장 | Keynes to the Rescue | 구원자 케인스 |
+| 27장 | The New Financial World | 새로운 금융 세계 |
+| 28장 | Re-Engineering the Future | 미래를 재설계하다 |
+| 29장 | Post-War Theory | 전후 이론 |
 
-※ 위 표는 복수의 독립적 출처(도서관 서지정보, 저자 인터뷰, 원서 발췌 자료)를 상호 대조해 정리했다. 각 장 내부의 정확한 절 구성·인용문은 원서 실물 또는 국내 번역본(지식의날개)으로 반드시 재확인한다.
+※ 위 표는 복수의 독립적 출처(idoc.pub 원서 전문 목차, dokumen.pub 서지정보 등)를 상호 대조해 확정했다. 종전에는 26장까지만 확인되어 있었으나, 4부에 27\~29장이 추가로 존재함을 재확인해 보강했다. 각 장 내부의 정확한 절 구성·인용문은 원서 실물 또는 국내 번역본(지식의날개)으로 반드시 재확인한다.
 
 ---
 

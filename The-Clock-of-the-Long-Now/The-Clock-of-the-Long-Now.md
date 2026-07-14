@@ -18,7 +18,7 @@
 | **출간 경위** | 1999년 미국에서 Basic Books를 통해 초판 출간 (약 218쪽 분량) |
 | **분야** | 장기주의·미래학 — 만년 시계(10,000-Year Clock) 프로젝트를 매개로 한 장기적 사고의 철학과 실천을 다룬 에세이 |
 | **핵심 프레임워크** | 페이스 레이어링(Pace Layering, 문명을 이루는 6개 층위의 서로 다른 변화 속도), "빠르고 저렴하게" 대 "느리고 좋게"(Faster/Cheaper vs. Slower/Better), 롱 나우(the Long Now) |
-| **구성** | 약 20여 개의 짧은 에세이형 장(chapter)으로 구성된 약 218쪽 분량의 에세이집. 정확한 장별 제목·순서는 이번 조사에서 신뢰할 수 있는 원문 목차로 확정하지 못했다 (아래 유의사항 참고) |
+| **구성** | 총 25개의 짧은 에세이형 장(chapter) + 부록(Engaging Clock/Library) + 후기(Afterword: January 02000)로 구성된 약 173\~218쪽 분량의 에세이집. 부(Part) 구분 없이 각 장이 독립된 탐구로 구성된다 |
 
 ---
 
@@ -32,21 +32,39 @@
 
 ## 목차 (Table of Contents)
 
-『The Clock of the Long Now: Time and Responsibility』(1999년, Basic Books 초판, 약 218쪽)의 정확한 장별 제목·순서는 이번 조사에서 신뢰할 수 있는 원문 목차 자료로 확정하지 못했다. 여러 2차 요약 사이트(특히 AI 자동요약형 서비스)가 제시하는 "Chapter 1: The Concept of the Long Now" 식의 장 제목은 서로 다른 사이트마다 표현이 상이하고 일반화된 패턴을 보여, 실제 원서의 장 제목이 아니라 요약 서비스가 생성한 것으로 의심되어 채택하지 않았다.
+『The Clock of the Long Now: Time and Responsibility』(1999년, Basic Books 초판)는 부(Part) 구분 없이 25개의 짧은 에세이형 장으로 구성되어 있다. 아래 표는 Goodreads 도서 상세 페이지(독자 등록 목차)와 OpenLibrary(Internet Archive 서지 데이터)라는 두 개의 독립적 서지 출처가 정확히 일치함을 확인하여 확정한 것이다.
 
-대신, Long Now Foundation 공식 자료·위키백과·다수의 독립적 서평이 공통으로 확인하는 이 책의 핵심 개념·주제를 아래에 정리한다. **개별 챕터 분석 파일을 작성하기 전, 반드시 원서(Basic Books, 1999) 실물 목차로 정확한 장 제목·순서를 확인한 뒤 이 표를 갱신해야 한다.**
+| 장 번호 | 영어 제목 | 잠정 한글 의미 |
+|---------|-----------|---------------|
+| 1장 | Notional Clock | 상상 속의 시계 |
+| 2장 | Kairos and Chronos | 카이로스와 크로노스(두 가지 시간 개념) |
+| 3장 | Moore's Wall | 무어의 벽(무어의 법칙의 한계) |
+| 4장 | The Singularity | 특이점 |
+| 5장 | Rush | 조급함·질주 |
+| 6장 | The Long Now | 롱 나우 |
+| 7장 | The Order of Civilization | 문명의 질서(페이스 레이어링) |
+| 8장 | Old-Time Religion | 오래된 종교 |
+| 9장 | Clock/Library | 시계와 도서관 |
+| 10장 | Ben Is Big | 벤(자민 프랭클린)은 크다 |
+| 11장 | The World's Slowest Computer | 세상에서 가장 느린 컴퓨터 |
+| 12장 | Burning Libraries | 불타는 도서관들 |
+| 13장 | Dead Hand | 죽은 자의 손(장기 신탁의 법적 한계) |
+| 14장 | Ending the Digital Dark Age | 디지털 암흑시대 끝내기 |
+| 15장 | 10,000-Year Library | 만년 도서관 |
+| 16장 | Tragic Optimism | 비극적 낙관주의 |
+| 17장 | Futurismo | 미래주의 |
+| 18장 | Uses of the Future | 미래의 쓸모 |
+| 19장 | Uses of the Past | 과거의 쓸모 |
+| 20장 | Reframing the Problems | 문제의 재구성 |
+| 21장 | Slow Science | 느린 과학 |
+| 22장 | The Long View | 장기적 관점 |
+| 23장 | Generations | 세대 |
+| 24장 | Sustained Endeavor | 지속적 노력 |
+| 25장 | The Infinite Game | 무한 게임 |
+| 부록 | Appendix: Engaging Clock/Library | 시계/도서관 프로젝트 참여 안내 |
+| 후기 | Afterword: January 02000 | 후기(2000년 1월) |
 
-| 구분 | 주제 | 다루는 핵심 개념 |
-|-----------|-----------|-------------------|
-| 도입부 | 롱 나우란 무엇인가 (Now vs. the Long Now) | "지금"의 협소한 정의를 향한 문제 제기 |
-| 핵심 개념 1 | 페이스 레이어링 (Pace Layering) | 유행·상업·인프라·거버넌스·문화·자연의 여섯 층위와 각기 다른 변화 속도 |
-| 핵심 개념 2 | 빠르고 저렴하게 대 느리고 좋게 (Faster/Cheaper vs. Slower/Better) | 단기적 효율성 척도에 대한 비판과 대안 |
-| 핵심 개념 3 | 손자를 위해 심은 나무들 (Trees Planted for Their Grandchildren) | 스웨덴 의회의 1830년대 조림 계획 등 장기 책임의 역사적 사례 |
-| 핵심 개념 4 | 만년 시계 프로젝트 (The 10,000-Year Clock) | 대니 힐리스가 구상한 시계의 설계 철학과 상징성 |
-| 핵심 개념 5 | 시간 관념의 확장 (Kairos, Chronos, Moore's Law, Metcalfe's Law) | 서로 다른 시간 개념과 기술 변화 속도의 비교 |
-| 마무리 | 문화적 기억과 디지털 영속성 | 디지털 정보의 취약성과 초장기 기록 보존의 과제 |
-
-※ 위 표는 Long Now Foundation 공식 자료(longnow.org), 위키백과, 복수의 독립적 서평(betaglyph.com, castig.org)을 상호 대조해 정리한 주제 구조이며, 원서의 실제 장 번호·제목과 일치하지 않을 수 있다.
+※ "페이스 레이어링"·"빠르고 저렴하게 대 느리고 좋게"·"손자를 위해 심은 나무들"·"만년 시계" 등 아래 핵심 주제 요약에서 다루는 개념들은 개별 장 제목이 아니라 여러 장(특히 7장 The Order of Civilization, 11장 The World's Slowest Computer, 10장 Ben Is Big 등)에 걸쳐 등장하는 핵심 개념이다. 개별 챕터 분석 파일을 작성할 때는 실제 원문을 확인해 각 장의 한글 제목·내용을 정교화한다.
 
 ---
 

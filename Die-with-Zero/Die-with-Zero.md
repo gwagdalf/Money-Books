@@ -53,19 +53,21 @@
 
 ## 목차 (Table of Contents)
 
-| 구분 | 영어 제목 (Rule) | 한국어 의미 |
-|------|------------------|-------------|
-| **서문** | Introduction: The Optimization Problem | 최적화 문제 — 왜 '제로'인가 |
-| **법칙 1** | Maximize Your Positive Life Experiences | 긍정적 인생 경험을 극대화하라 |
-| **법칙 2** | Start Investing in Experiences Early | 경험에 일찍부터 투자하라 |
-| **법칙 3** | Aim to Die with Zero | 목표는 '잔고 제로'로 죽는 것 |
-| **법칙 4** | Use All Available Tools to Help You Die with Zero | 제로를 위한 모든 도구를 활용하라 |
-| **법칙 5** | Give Money to Your Children or to Charity When It Has the Most Impact | 자녀·기부는 '가장 효과가 큰 시점'에 주라 |
-| **법칙 6** | Don't Live Your Life on Autopilot | 자동조종 모드로 인생을 살지 마라 |
-| **법칙 7** | Think of Your Life as Distinct Seasons | 인생을 뚜렷한 '계절'로 나눠 생각하라 |
-| **법칙 8** | Know When to Stop Growing Your Wealth | 부(富)를 그만 불려야 할 때를 알라 |
-| **법칙 9** | Take Your Biggest Risks When You Have Little to Lose | 잃을 것이 적을 때 가장 큰 위험을 감수하라 |
-| **맺음말** | Conclusion / Afterword | 마무리 — 그럼에도 완벽하지 않아도 좋다 |
+| 구분 | 실제 장 제목 (Chapter) | 이 장이 제시하는 법칙 (Rule) | 한국어 의미 |
+|------|------------------------|------------------------------|-------------|
+| **서문** | Introduction: The Optimization Problem | — | 최적화 문제 — 왜 '제로'인가 |
+| **1장** | Optimize Your Life | Rule No. 1: Maximize Your Positive Life Experiences | 긍정적 인생 경험을 극대화하라 |
+| **2장** | Invest in Experiences | Rule No. 2: Start Investing in Experiences Early | 경험에 일찍부터 투자하라 |
+| **3장** | Why Die with Zero? | Rule No. 3: Aim to Die with Zero | 목표는 '잔고 제로'로 죽는 것 |
+| **4장** | How to Spend Your Money (Without Actually Hitting Zero Before You Die) | Rule No. 4: Use All Available Tools to Help You Die with Zero | 제로를 위한 모든 도구를 활용하라 |
+| **5장** | What About the Kids? | Rule No. 5: Give Money to Your Children or to Charity When It Has the Most Impact | 자녀·기부는 '가장 효과가 큰 시점'에 주라 |
+| **6장** | Balance Your Life | Rule No. 6: Don't Live Your Life on Autopilot | 자동조종 모드로 인생을 살지 마라 |
+| **7장** | Start to Time-Bucket Your Life | Rule No. 7: Think of Your Life as Distinct Seasons | 인생을 뚜렷한 '계절'로 나눠 생각하라 |
+| **8장** | Know Your Peak | Rule No. 8: Know When to Stop Growing Your Wealth | 부(富)를 그만 불려야 할 때를 알라 |
+| **9장** | Be Bold—Not Foolish | Rule No. 9: Take Your Biggest Risks When You Have Little to Lose | 잃을 것이 적을 때 가장 큰 위험을 감수하라 |
+| **10장(맺음말)** | Conclusion: An Impossible Task, a Worthy Goal | — | 마무리 — 그럼에도 완벽하지 않아도 좋다 |
+
+※ 위 표는 원서(Portfolio/Penguin, 2020) 실물 목차로 확인했다. 각 장은 고유한 서술적 제목(예: "Optimize Your Life")을 가지며, 그 안에서 "법칙(Rule No. N)"이 핵심 원칙으로 제시되는 구조다 — 장 제목과 법칙 문구는 서로 다른 별개의 텍스트이므로 혼동하지 않는다.
 
 ---
 

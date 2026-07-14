@@ -20,7 +20,7 @@
 | **출간 경위** | 2020년 미국/영국에서 Palgrave Macmillan을 통해 초판 출간 (ISBN 978-3-030-42656-9) |
 | **분야** | 거시경제학 — 인구구조 변화가 인플레이션·금리·불평등에 미치는 장기적 영향 |
 | **핵심 개념** | 인구학적 대역전(The Great Demographic Reversal) — 지난 수십 년간 저인플레이션·저금리를 만들어낸 전 세계적 노동력 공급 증가(중국·동유럽의 세계 노동시장 편입) 추세가 고령화로 인해 역전된다는 것, 부양비율(Dependency Ratio), 치매·돌봄 위기(Dependency, Dementia and the Coming Crisis of Caring) |
-| **분량** | 전 10개 장(Chapter)으로 구성 |
+| **분량** | 전 14개 장(Chapter) + Postscript로 구성 |
 | **한국어판 정보** | 『인구 대역전』, 생각의힘, 백우진 옮김, 2021년 4월 22일 출간 |
 | **성격** | 학술적 엄밀성을 갖춘 거시경제 논증서로, 인구구조라는 변수가 향후 수십 년간 인플레이션·금리·불평등의 방향을 어떻게 근본적으로 바꿀지를 다룬다 |
 
@@ -53,13 +53,24 @@
 일본이라는 예외 사례와 대응 방안 (9~10장)
   → 일본은 왜 이 패턴에서 예외적이었는가에 대한 수정주의적 해석,
     그리고 전 세계적 고령화를 상쇄할 수 있는 요인들
+
+부채 함정과 정책적 대안 (11~12장)
+  → 저금리를 전제로 쌓인 부채가 금리 상승기에 만드는 위험,
+    부채에서 지분 금융으로의 전환이라는 대안
+
+미래의 정책 과제와 주류에 대한 반박 (13~14장)
+  → 고령화 시대의 세제·통화재정정책 충돌,
+    이 책의 결론이 당대 주류 경제학 통념과 배치됨을 인정하고 방어
+
+Postscript
+  → 코로나19 팬데믹 대응이 인플레이션 반전을 앞당길 것이라는 후기
 ```
 
 ---
 
 ## 목차 (Table of Contents)
 
-『The Great Demographic Reversal』(2020년 초판, Palgrave Macmillan)은 전 **10개 장(Chapter)**으로 구성된다.
+『The Great Demographic Reversal』(2020년 초판, Palgrave Macmillan)은 전 **14개 장(Chapter)** + 번호 없는 "Postscript: Future Imperfect After Coronavirus"(후기)로 구성된다.
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) | 다루는 핵심 개념/주제 |
 |-----------|-----------|------------------|-------------------|
@@ -72,9 +83,14 @@
 | 7장 | Inequality and the Rise of Populism | 불평등과 포퓰리즘의 부상 | 불평등 완화와 포퓰리즘의 관계 |
 | 8장 | The Phillips Curve | 필립스 곡선 | 실업률과 인플레이션 관계의 재해석 |
 | 9장 | 'Why Didn't It Happen in Japan?' A Revisionist History of Japan's Evolution | "왜 일본에서는 일어나지 않았는가?" 일본 진화의 수정주의적 역사 | 일본의 예외적 사례 분석 |
-| 10장 | What Could Offset Global Ageing? | 무엇이 전 세계적 고령화를 상쇄할 수 있는가? | 고령화를 상쇄할 수 있는 요인들 |
+| 10장 | What Could Offset Global Ageing? India/Africa, Participation and Automation | 무엇이 전 세계적 고령화를 상쇄할 수 있는가? | 아프리카·인도의 인구 증가, 경제활동참가율, 자동화 |
+| 11장 | The Debt Trap: Can We Avoid It? | 부채 함정: 피할 수 있는가? | 저금리 기반 부채 확대의 위험 |
+| 12장 | A Switch from Debt to Equity Finance? | 부채에서 지분 금융으로의 전환? | 부채 의존 완화 정책 |
+| 13장 | Future Policy Problems: Old Age and Taxes, and the Monetary-Fiscal Clash | 미래의 정책 과제: 노년과 세금, 통화·재정 정책의 충돌 | 고령화 시대의 세제·통화재정정책 갈등 |
+| 14장 | Swimming Against the (Main)Stream | 주류에 맞서 헤엄치기 | 주류 경제학 통념에 대한 반박 정리 |
+| (Postscript) | Postscript: Future Imperfect After Coronavirus | 후기: 코로나19 이후의 불완전한 미래 | 코로나19가 앞당긴 인플레이션 반전 |
 
-※ 위 표는 원서(Palgrave Macmillan, 2020년 초판) 목차를 기준으로 정리한 것이며, 국내 정식 번역본(생각의힘, 2021)의 정확한 장 제목·절 구성은 실물로 재확인한다.
+※ 위 표는 Springer 공식 목차(springerprofessional.de, link.springer.com)와 Google Books 미리보기를 상호 대조해 정리했다. 기존 버전에는 이 책이 10개 장으로 잘못 기재되어 있었으나(실제로는 14개 장 + Postscript), 원서 목차 대조 후 11\~14장 및 Postscript를 추가해 바로잡았다. 국내 정식 번역본(생각의힘, 2021)의 정확한 장 제목·절 구성은 실물로 재확인한다.
 
 ---
 
