@@ -55,14 +55,14 @@
 
 ## 목차 (Table of Contents)
 
-『When Genius Failed: The Rise and Fall of Long-Term Capital Management』(Random House, 2000년판)는 **2부 구성**으로 이루어지며, 확인된 장 제목은 다음과 같다(정확한 전체 장 개수와 프롤로그·에필로그 유무는 2차 자료마다 표기가 다소 달라, 원서 또는 국내 번역본 실물로 재확인이 필요하다).
+『When Genius Failed: The Rise and Fall of Long-Term Capital Management』(Random House, 2000년판)는 **2부 10개 장**으로 구성된다(프롤로그·에필로그 없음).
 
-| 부 | 장(확인된 범위) | 핵심 내용 |
-|----|------------------|-----------|
-| 1부: LTCM의 부상 | Meriwether / Hedge Fund / On the Run / Dear Investors / Tug-of-War / A Nobel Prize | 메리웨더의 경력, LTCM 설립, 노벨상 수상자 영입, 초기 수익 |
-| 2부: LTCM의 몰락 | Bank of Volatility / The Fall / The Human Factor / At the Fed | 러시아 위기, 상관관계 붕괴, 파산 위기, 연준의 구제 조율 |
+| 부 | 장 번호 | 장 제목 | 핵심 내용 |
+|----|---------|---------|-----------|
+| 1부: LTCM의 부상 | 1\~6장 | Meriwether / Hedge Fund / On the Run / Dear Investors / Tug-of-War / A Nobel Prize | 메리웨더의 경력, LTCM 설립, 노벨상 수상자 영입, 초기 수익 |
+| 2부: LTCM의 몰락 | 7\~10장 | Bank of Volatility / The Fall / The Human Factor / At the Fed | 러시아 위기, 상관관계 붕괴, 파산 위기, 연준의 구제 조율 |
 
-※ 위 표는 복수의 2차 자료(요약본, 서평)를 상호 대조해 정리한 잠정적 목차이며, 정확한 장 번호·순서·에필로그 유무는 원서 또는 국내 번역본(한국경제신문판) 실물 목차로 반드시 재확인한다.
+※ 위 표는 복수의 2차 자료(GetAbstract 요약, 서평)를 상호 대조해 2부 10개 장 구성을 확인했다. 각 장 내부의 절 구성·정확한 인용문은 원서 또는 국내 번역본(한국경제신문판) 실물로 재확인한다.
 
 ---
 

@@ -46,12 +46,12 @@ chapter07-The-Walls-of-Babylon.md
 
 chapter10-The-Luckiest-Man-in-Babylon.md
 
-※ 『The Richest Man in Babylon』(1926년 초판, Signet판 등 다수의 재출간본 존재)은 Foreword(서문)에 이어 **10개 장**으로 구성된다. 이 프로젝트에서는 원서의 장 번호(1\~10)를 그대로 사용해 파일명을 붙인다. Foreword는 chapter00으로 명명한다.
+※ 『The Richest Man in Babylon』(1926년 초판, Signet판 등 다수의 재출간본 존재)은 Foreword(서문)에 이어 **10편의 우화(1\~10장)** 와, 부록 성격의 **"바빌론 역사 소묘"(11장, 책 말미)** 로 구성된다. 이 프로젝트에서는 원서의 장 번호(1\~11)를 그대로 사용해 파일명을 붙인다. Foreword는 chapter00으로 명명한다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 George S. Clason, *The Richest Man in Babylon*, 1926년 초판을 기준으로 삼되, 가장 널리 통용되는 Signet판(New American Library) 목차를 따른다. 국내에는 여러 출판사의 번역본(국일미디어·강주헌 역 등)이 존재하므로, 실제 사용하는 판본을 먼저 확인하고 인용 시 원문과 함께 병기하되, 정확한 쪽수를 대조하지 못했다면 지어내지 말고 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·우화 내용(아르카드, 반시르, 낙타 상인 등)은 반드시 실제 원문을 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문을 지어내지 않는다.
 
-참고 — 『The Richest Man in Babylon』의 장 구성 (전 10장, Signet판 기준):
+참고 — 『The Richest Man in Babylon』의 장 구성 (Foreword + 전 11장, Signet판 기준. 10편의 우화가 1\~10장, "바빌론 역사 소묘"가 부록 성격의 11장으로 책 말미에 수록):
 
 | 챕터 번호 | 영문 제목 | 한글 제목(의역) |
 |-----------|-----------|------------------|
@@ -66,8 +66,9 @@ chapter10-The-Luckiest-Man-in-Babylon.md
 | 8장 | The Camel Trader of Babylon | 바빌론의 낙타 상인 |
 | 9장 | The Clay Tablets from Babylon | 바빌론에서 발굴된 점토판 |
 | 10장 | The Luckiest Man in Babylon | 바빌론에서 가장 운이 좋은 사람 |
+| 11장 | An Historical Sketch of Babylon | 바빌론 역사 소묘 |
 
-※ 위 표는 가장 널리 통용되는 Signet판(New American Library) 실물 목차를 직접 확인해 정리했다. 국내 번역본의 장 제목·순서는 판본에 따라 다를 수 있으므로 반드시 재확인한다.
+※ 위 표는 가장 널리 유통되는 Signet판(New American Library, 2002) 목차의 실제 페이지 순서(Foreword p.ix → 10편의 우화 p.ix\~106 → An Historical Sketch of Babylon p.138)를 직접 확인해 정리했다(2026-07-15 재확인). 이전 버전에는 11장(역사 소묘)이 누락되어 있었다. 국내 번역본의 장 제목·순서는 판본에 따라 다를 수 있으므로 반드시 재확인한다.
 
 ---
 

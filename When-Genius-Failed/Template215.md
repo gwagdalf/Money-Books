@@ -46,8 +46,8 @@ part2-chapter08-The-Fall.md
 
 part2-chapter10-At-the-Fed.md
 
-※ 『When Genius Failed: The Rise and Fall of Long-Term Capital Management』(Random House, 2000년 초판)는 **2부 구성, 총 10개 이상의 장 + 에필로그**로 구성된다(정확한 장 개수와 프롤로그·에필로그 유무는 2차 자료마다 표기가 다소 다르므로 원서 실물로 재확인이 필요하다). 이 프로젝트에서는 확인된 부·장 제목을 그대로 파일명 슬러그로 사용한다.
-※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
+※ 『When Genius Failed: The Rise and Fall of Long-Term Capital Management』(Random House, 2000년 초판)는 **2부 구성, 총 10개 장**으로 구성된다(프롤로그·에필로그 없음). 이 프로젝트에서는 확인된 부·장 제목을 그대로 파일명 슬러그로 사용한다.
+※ 이 책 `README.md`가 아직 없다면, 아래 표를 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: 영문 원서는 Roger Lowenstein, *When Genius Failed: The Rise and Fall of Long-Term Capital Management*, Random House, 2000년 초판(ISBN 978-0-375-75825-6)을 기준으로 삼는다. 국내 번역본(『천재들의 실패』, 이승욱 역, 한국경제신문, 2009 — 이전 동방미디어 2001년판도 존재)이 있는 경우 인용 시 원문과 함께 병기하되, 정확한 쪽수를 확인하지 못했다면 지어내지 말고 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·구체적 수치(레버리지 배율, 손실 규모, 구제금융 참여 은행 명단 등)는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 수치를 지어내지 않는다. 책 서두에 케인스의 것으로 인용되는 "시장은 당신이 지급 능력을 유지할 수 있는 기간보다 더 오래 비합리적일 수 있다"는 문장은 그 출처(케인스 실제 저술 여부)가 학술적으로 논쟁적이므로, "로웬스타인이 케인스의 말로 인용한 문장"이라는 점을 명시하고 단정하지 않는다.
 
@@ -55,10 +55,10 @@ part2-chapter10-At-the-Fed.md
 
 | 부 | 챕터(확인된 범위) | 다루는 핵심 내용 |
 |----|-------------------|------------------|
-| 1부: LTCM의 부상 | Meriwether / Hedge Fund / On the Run / Dear Investors / Tug-of-War / A Nobel Prize | 존 메리웨더의 살로먼브라더스 경력, LTCM 설립, 노벨상 수상자 영입, 초기 압도적 수익 |
-| 2부: LTCM의 몰락 | Bank of Volatility / The Fall / The Human Factor / At the Fed | 1998년 러시아 위기, 상관관계의 붕괴, 레버리지로 인한 파국, 뉴욕 연준의 민간 구제 조율 |
+| 1부: LTCM의 부상 (1\~6장) | Meriwether / Hedge Fund / On the Run / Dear Investors / Tug-of-War / A Nobel Prize | 존 메리웨더의 살로먼브라더스 경력, LTCM 설립, 노벨상 수상자 영입, 초기 압도적 수익 |
+| 2부: LTCM의 몰락 (7\~10장) | Bank of Volatility / The Fall / The Human Factor / At the Fed | 1998년 러시아 위기, 상관관계의 붕괴, 레버리지로 인한 파국, 뉴욕 연준의 민간 구제 조율 |
 
-※ 위 표는 복수의 2차 자료(요약본, 서평)를 상호 대조해 정리한 잠정적 목차이며, 정확한 장 번호·순서·에필로그 유무는 원서 또는 국내 번역본(한국경제신문판) 실물 목차로 반드시 재확인한다.
+※ 위 표는 복수의 2차 자료(GetAbstract 요약, 서평)를 상호 대조해 확인한 목차이며, 각 장 내부의 절 구성·정확한 인용문은 원서 또는 국내 번역본(한국경제신문판) 실물로 재확인한다.
 
 ---
 

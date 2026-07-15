@@ -52,38 +52,39 @@ chapter21-Blood-on-the-Church-Steps.md
 
 chapter26-Dancing-on-the-Ruins.md
 
-※ 『그리스인 조르바』는 명상록과 달리 원문 자체에 장별 공식 소제목이 없고, 학계에 통용되는 표준 명칭도 없다 (영어 스터디가이드들도 챕터를 개별 제목 없이 번호 구간으로만 묶어 다룬다). 따라서 아래 "장 구성" 표의 영문 제목은 **학계 통용 명칭이 아니라, 이 템플릿 작성 시점에 전체 줄거리 흐름을 바탕으로 부여한 잠정적 주제명**이다. 실제로 해당 챕터 파일을 집필할 때는 반드시 원문(또는 신뢰할 만한 번역본)을 대조하여 제목과 장 구분을 검증·조정할 것.
+※ 『그리스인 조르바』는 명상록과 달리 원문 자체에 장별 공식 소제목이 없고, 학계에 통용되는 표준 명칭도 없다 (영어 스터디가이드들도 챕터를 개별 제목 없이 번호 구간으로만 묶어 다룬다). 따라서 아래 "장 구성" 표의 영문 제목은 **학계 통용 명칭이 아니라, 편집상 부여한 잠정적 주제명**이다. 실제로 해당 챕터 파일을 집필할 때는 반드시 원문(또는 신뢰할 만한 번역본)을 대조하여 제목과 장 구분을 검증·조정할 것.
 ※ 이 책 `README.md`가 아직 없다면, 새 챕터 파일을 만들 때 이 템플릿의 "장 구성" 표를 잠정적 목차 기준으로 삼고, 추후 README.md를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ 이 책은 **총 26개 장(Chapter)**으로 구성되며, 서사가 있는 소설이다 — 명상록처럼 짧은 단상의 모음이 아니라, 화자(보스)와 조르바의 크레타 섬 광산 사업을 축으로 전개되는 하나의 이야기다. 따라서 각 장 분석은 줄거리 요약이 아니라, **그 장에서 조르바와 화자가 부딪히는 장면이 드러내는 삶의 태도의 차이**에 초점을 맞춘다.
+※ **2026-07-15 갱신**: 1\~19장은 이미 집필되어 있으며, 아래 목록은 실제 `chapter01`\~`chapter19` 파일 및 `README.md`에 반영된 제목으로 동기화했다(이전 잠정안과 제목·장면 배치가 달라진 부분 — 예: 익사 사건이 원래 계획한 17\~18장이 아니라 실제로는 14장에서 다뤄짐 — 이 있었음). 20\~26장은 아직 집필되지 않았으며, 실제 집필 시점의 서사 흐름(19장까지 이미 달라진 페이싱)에 맞춰 원문과 재대조 후 조정이 필요하다 — 아래 20\~26번 제목은 여전히 잠정안일 뿐이다.
 
-참고 — 『그리스인 조르바』의 잠정적 장 구성 (제목은 위 안내대로 잠정안이며 집필 시 검증 필요):
+참고 — 『그리스인 조르바』의 장 구성 (1\~19장은 실제 집필된 제목, 20\~26장은 잠정안이며 집필 시 검증 필요):
 
-1. A Stranger at the Port (피레우스 항구에서 — 화자가 친구 스타브리다키스를 떠나보내고, 조르바를 처음 만나다)
-2. The Voyage to Crete (크레타로 가는 배 — 조르바가 자신의 인생 이야기를 풀어놓기 시작하다)
-3. Arrival on the Island (섬에 도착하다 — 해변 오두막에 정착하고 광산을 처음 마주하다)
-4. The Foreman Takes Charge (작업반장 조르바 — 광산 일이 시작되다)
-5. Madame Hortense (오르탕스 부인 — 늙은 카바레 가수와의 첫 만남)
-6. The Unfinished Manuscript (미완의 원고 — 화자의 붓다 집필과 스타브리다키스에 대한 죄책감)
-7. What Zorba Believes (조르바의 신념 — 일과 여자, 삶에 대한 그의 철학이 드러나다)
-8. The Village and Its Elders (마을과 원로들 — 마브란도니와 마을 공동체의 초상)
-9. The Widow Appears (과부의 등장 — 마을 남자들의 욕망과 경멸의 대상)
-10. Desire From a Distance (멀리서 바라보는 욕망 — 화자가 과부에게 이끌리다)
-11. Zorba Goes to Town (마을 밖으로 — 조르바의 방탕과 낭비)
-12. Sunday in the Village (마을의 일요일 — 교회와 민속, 크레타 삶의 결)
-13. Zorba's Courtship (조르바의 구애 — 오르탕스 부인과의 관계가 깊어지다)
-14. The Ascetic and the Sensualist (금욕주의자와 관능주의자 — 붓다와 조르바 사이의 화자의 내적 갈등)
-15. Talk of Death by the Fire (모닥불 앞의 죽음 이야기 — 광산의 사고와 존재론적 대화)
-16. The Plan for the Cable Line (삭도 계획 — 조르바의 원대한 공학적 구상)
-17. Pavli's Despair (파블리의 절망 — 마브란도니의 아들이 과부에게 집착하다)
-18. A Drowning in the Village (마을의 익사 — 파블리의 죽음과 마을의 분노가 쌓이다)
-19. Carnival Nights (카니발의 밤 — 축제와 오르탕스 부인과의 낭만)
-20. The Night of the Widow (과부와의 밤 — 화자가 마침내 행동에 나서다)
-21. Blood on the Church Steps (교회 계단의 피 — 마을이 과부를 살해하다)
-22. The Weight of Silence (침묵의 무게 — 화자가 개입하지 못한 죄책감)
-23. Vultures at the Deathbed (임종 앞의 독수리들 — 오르탕스 부인의 병상과 마을 여인들의 약탈)
-24. The Death of Madame Hortense (오르탕스 부인의 죽음 — 애도와 약탈, 조르바의 슬픔)
-25. The Collapse of the Cable Line (삭도의 붕괴 — 사업의 완전한 실패)
-26. Dancing on the Ruins (폐허 위의 춤 — 조르바의 춤, 이별, 그리고 훗날 전해지는 그의 죽음)
+1. A Stranger at the Port (항구에서 만난 낯선 사내 — 지적인 삶과의 결별, 조르바와의 첫 만남)
+2. The Voyage to Crete (크레타로 가는 배 — 열정이 낙원의 열쇠, 손가락 절단 일화)
+3. Bouboulina and the Four Admirals (부불리나와 네 명의 제독 — 금욕의 첫 균열, 오르탕스 부인의 몰락한 과거)
+4. The Hut and the Hand of God (오두막과 신의 손 — 손으로 짓기, 회한의 고백)
+5. Leave Their Eyes Closed (눈을 감은 채로 두어라 — 계몽에 대한 회의, 크레타 공동체의 결)
+6. The Dance Beyond Words (말을 넘어서는 춤 — 온몸으로 슬퍼하기, 산투리와 춤)
+7. Locks of Hair (머리카락 한 다발 — 결혼과 연애사 회고, 여성관의 시대적 한계)
+8. The Widow in the Village Gossip (마을의 소문 속 과부 — 과부의 등장, 마을의 시선과 욕망)
+9. A God Taller and Crazier (더 크고 더 미친 신 — 조르바만의 신, 위기의 직관적 판단)
+10. The Butterfly and Nature's Rhythm (나비와 자연의 리듬 — 억눌린 갈망, 자연의 리듬을 거스르는 위험)
+11. The Painting of Four Battleships (네 척의 전함을 그린 그림 — 겹쳐지는 좌절, 늙어감에 대한 위로의 실패)
+12. Two Letters (두 통의 편지 — 세속적 성공 대 대의적 헌신)
+13. Lola and the Question of Freedom (롤라와 자유에 대한 질문 — 새로운 연인, 여성의 자유에 대한 모순된 태도)
+14. Pavli's Drowning (파블리의 익사 — 짝사랑의 비극, 마을의 책임 전가)
+15. Ruins and Eternity (폐허와 영원 — 미노아 유적, 역사에 대한 집착과 영원의 시간 감각)
+16. Music Dissolves the Fear (음악이 두려움을 녹이다 — 산투리 연주, 음악의 공동체적 힘)
+17. The Quarrel Over Attention (관심을 둘러싼 다툼 — 몰입 대 원고, 조르바와 화자의 첫 다툼)
+18. The Monastery of Suppressed Devils (억눌린 악마들의 수도원 — 분열된 자아, 광기, 총성과 탈출)
+19. An Engagement Out of Pity (연민으로 맺은 약혼 — 거짓 약속의 대가, 조르바의 책임감)
+20. The Night of the Widow (과부와의 밤 — 화자가 마침내 행동에 나서다) *[잠정안 — 재검증 필요]*
+21. Blood on the Church Steps (교회 계단의 피 — 마을이 과부를 살해하다) *[잠정안 — 재검증 필요]*
+22. The Weight of Silence (침묵의 무게 — 화자가 개입하지 못한 죄책감) *[잠정안 — 재검증 필요]*
+23. Vultures at the Deathbed (임종 앞의 독수리들 — 오르탕스 부인의 병상과 마을 여인들의 약탈) *[잠정안 — 재검증 필요]*
+24. The Death of Madame Hortense (오르탕스 부인의 죽음 — 애도와 약탈, 조르바의 슬픔) *[잠정안 — 재검증 필요]*
+25. The Collapse of the Cable Line (삭도의 붕괴 — 사업의 완전한 실패) *[잠정안 — 재검증 필요]*
+26. Dancing on the Ruins (폐허 위의 춤 — 조르바의 춤, 이별, 그리고 훗날 전해지는 그의 죽음) *[잠정안 — 재검증 필요]*
 
 ---
 

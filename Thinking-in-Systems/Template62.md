@@ -60,11 +60,11 @@ chapter07-Living-in-a-World-of-Systems.md
 |----------|-----------|---------------|-----------|
 | Part 1. 시스템의 구조와 행동 | 1장 | The-Basics | 스톡(Stock)과 플로우(Flow), 균형 피드백(Balancing Feedback), 강화 피드백(Reinforcing Feedback) |
 | Part 1 | 2장 | A-Brief-Visit-to-the-Systems-Zoo | 개체군 동역학, 온도조절기, S자 성장곡선, 진동(oscillation) 등 다양한 시스템 사례 |
-| Part 1 | 3장 | Why-Systems-Work-So-Well | 회복탄력성(Resilience), 자기조직화(Self-Organization), 위계구조(Hierarchy) |
-| Part 1 | 4장 | Why-Systems-Surprise-Us | 비선형성(Nonlinearity), 경계(Boundary)의 자의성, 지연(Delay), 제한된 합리성(Bounded Rationality) |
-| Part 2. 시스템과 우리 | 5장 | System-Traps-and-Opportunities | 정책 저항, 공유지의 비극, 성공한 자에게 더 많은 성공을, 중독(개입자에게 부담 떠넘기기), 규칙 피하기, escalation, 표류 |
-| Part 2 | 6장 | Leverage-Points | 12단계 레버리지 포인트 — 파라미터에서 패러다임까지 |
-| Part 3. 시스템 속에서, 철학 속에서 변화 만들기 | 7장 | Living-in-a-World-of-Systems | 시스템의 리듬 파악하기, 정신모형(Mental Model) 드러내기, 겸손함, 복잡성을 기뻐하기, 충분함을 목표로 삼기 |
+| Part 2. 시스템과 우리 | 3장 | Why-Systems-Work-So-Well | 회복탄력성(Resilience), 자기조직화(Self-Organization), 위계구조(Hierarchy) |
+| Part 2 | 4장 | Why-Systems-Surprise-Us | 비선형성(Nonlinearity), 경계(Boundary)의 자의성, 지연(Delay), 제한된 합리성(Bounded Rationality) |
+| Part 2 | 5장 | System-Traps-and-Opportunities | 정책 저항, 공유지의 비극, 성공한 자에게 더 많은 성공을, 중독(개입자에게 부담 떠넘기기), 규칙 피하기, escalation, 표류 |
+| Part 3. 시스템 속에서, 철학 속에서 변화 만들기 | 6장 | Leverage-Points | 12단계 레버리지 포인트 — 파라미터에서 패러다임까지 |
+| Part 3 | 7장 | Living-in-a-World-of-Systems | 시스템의 리듬 파악하기, 정신모형(Mental Model) 드러내기, 겸손함, 복잡성을 기뻐하기, 충분함을 목표로 삼기 |
 
 ※ 부록(용어 해설, 시스템 함정·레버리지 포인트 요약표)은 별도 챕터 파일로 만들지 않고, 관련된 5장·6장 분석 안에서 필요할 때 함께 다룬다.
 ※ 위 표는 책의 공개된 목차 구조를 바탕으로 정리한 것이나, 각 장 내부의 정확한 사례·인용문·순서는 원서 실물(Chelsea Green판 2008 / 신뢰할 수 있는 국내 번역본)로 반드시 재확인한다.
