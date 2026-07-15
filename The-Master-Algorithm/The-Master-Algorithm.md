@@ -26,7 +26,7 @@
 
 ## 목차 (Table of Contents)
 
-※ 아래 목차는 복수의 서점·요약 정보를 상호 대조해 확인했다. 10장의 정확한 원제는 출처마다 표현이 다소 달라(예: "This Is the World on Machine Learning"), 원서 실물로 최종 확인이 필요하다.
+※ 아래 목차는 Bookey 챕터 요약(cdn.bookey.app PDF)과 복수의 서점·요약 정보를 상호 대조해 확인했다. 10장 제목 "This Is the World on Machine Learning"은 원서 기준 263쪽에서 시작하며 그 뒤로 291쪽부터 Epilogue(에필로그)가 이어짐을 확인했다.
 
 | 챕터 번호 | 영문 제목 |
 |-----------|-----------|
@@ -39,7 +39,8 @@
 | 7 | You Are What You Resemble |
 | 8 | Learning Without a Teacher |
 | 9 | The Pieces of the Puzzle Fall into Place |
-| 10 | This Is the World on Machine Learning (원제 표현 재확인 필요) |
+| 10 | This Is the World on Machine Learning |
+| Epilogue | (본문 10장 이후 별도 에필로그, 263\~291쪽 10장에 이어 291쪽부터 수록) |
 
 ---
 
@@ -73,5 +74,6 @@
 - Domingos, Pedro, *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World*, Basic Books, 2015
 - [The Master Algorithm – Wikipedia](https://en.wikipedia.org/wiki/The_Master_Algorithm)
 - [The Master Algorithm – Hachette Book Group](https://www.hachettebookgroup.com/titles/pedro-domingos/the-master-algorithm/9780465061921/?lens=basic-books)
+- [The Master Algorithm – Bookey Chapter Summary PDF](https://cdn.bookey.app/files/pdf/book/en/the-master-algorithm.pdf)
 
-※ 목차는 복수 출처로 확인했으나 10장의 정확한 제목 표현에 다소 불일치가 있어, 실제 분석 전 원서 실물로 재확인이 필요하다.
+※ 목차 10개 장 전체와 10장의 정확한 제목("This Is the World on Machine Learning")을 Bookey 챕터 요약 PDF로 재확인했다. 10장 이후 별도의 Epilogue(에필로그)가 있음도 확인했다.

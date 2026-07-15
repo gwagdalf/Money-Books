@@ -44,7 +44,7 @@ chapter06-In-the-Church-of-the-Reverend-Bayes.md
 
 chapter10-This-Is-the-World-on-Machine-Learning.md
 
-※ 이 책은 10개 장으로 구성된다. 챕터 번호는 1\~10으로 매긴다. 10장의 정확한 영문 제목은 출처마다 표현이 다소 달라, 실제 작성 전 원서 실물로 재확인한다.
+※ 이 책은 10개 장 + Epilogue(에필로그)로 구성된다. 챕터 번호는 1\~10으로 매긴다. 10장의 정확한 영문 제목("This Is the World on Machine Learning", 원서 263쪽 시작)은 Bookey 챕터 요약 PDF로 재확인했다.
 ※ 이 책 `README.md`가 아직 없다면, 아래 표를 잠정적 목차 기준으로 삼고, 추후 `README.md`를 만들 때 그 표와 파일명을 정확히 일치시킨다.
 ※ **저본**: Pedro Domingos, *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World*, Basic Books, 2015년 초판. 국내 정식 번역본 "마스터 알고리즘"(비즈니스북스)이 존재하므로, 인용 시 가능하면 국내 번역본 표현을 원문과 병기하되, 직접 대조하지 못한 경우 직접 번역임을 밝힌다.
 ※ 각 장의 인용문·알고리즘 설명·사례는 반드시 실제 원문 및 신뢰할 수 있는 출처를 확인하여 작성한다. 확인할 수 없거나 불확실한 인용문·수치·일화를 지어내지 않는다.
