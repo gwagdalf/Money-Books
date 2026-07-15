@@ -62,7 +62,7 @@
 | 챕터 | 영문 제목 | 한글 제목 | 핵심 키워드 |
 |---|---|---|---|
 | [Ch.03](chapter03-Expectations-and-Reality.md) | Expectations and Reality | 기대와 현실 | 행복 방정식, 헤도닉 트레드밀, 충분함 |
-| [Ch.07](chapter07-Does-Not-Compute.md) | Does Not Compute | 계산되지 않는 것들 | 심리적 수익률, 지속 가능성 우선 원칙 |
+| [Ch.07](chapter07-Does-Not-Compute.md) | Does Not Compute | 계산되지 않는 것들 | 맥나마라 오류, 데이터-일화 간극, 계산 불가능한 확신의 힘 |
 | [Ch.14](chapter14-Casualties-of-Perfection.md) | Casualties of Perfection | 완벽주의의 희생자들 | 최적화와 회복탄력성의 상충, 완충 장치 |
 | [Ch.20](chapter20-Now-You-Get-It.md) | Now You Get It | 이제야 이해하게 된다 | 경험과 지식의 간극, 세대 간 리스크 인식 |
 | [Ch.23](chapter23-Wounds-Heal-Scars-Last.md) | Wounds Heal, Scars Last | 상처는 아물지만 흉터는 남는다 | 경험적 흉터, 행동적 흔적, 세대 간 전달 |

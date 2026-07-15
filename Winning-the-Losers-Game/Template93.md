@@ -85,7 +85,7 @@ chapter29-Appendix-A-Investment-Committees.md
 | 26장 | Thoughts for the Wealthy | 부유한 투자자를 위한 조언 |
 | 27장 | You Are Now Good to Go! | 이제 준비가 되었다! |
 | 28장 | Parting Thoughts | 마무리하는 생각 |
-| 29 (부록 A) | Investment Committees and Good Governance | 투자위원회와 지배구조 |
+| 29 (부록 A) | Serving on Investment Committees | 투자위원회에서 봉사하기 |
 | 30 (부록 B) | Murder on the Orient Express | 오리엔트 특급 살인 사건 |
 | 31 (부록 C) | Recommended Reading | 추천 도서 |
 
