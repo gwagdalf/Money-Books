@@ -35,37 +35,37 @@
 
 | 장 | English Title | 한글 제목 | 링크 |
 |---|---|---|---|
-| 05 | Focus on the Lowest-Cost Funds | 최저비용 펀드에 집중하라 | 예정 |
-| 06 | Dividends Are the Investor's (Best?) Friend | 배당은 투자자의 (가장 좋은?) 친구 | 예정 |
-| 07 | The Grand Illusion | 거대한 착각 | 예정 |
-| 08 | Taxes Are Costs, Too | 세금도 비용이다 | 예정 |
-| 09 | When the Good Times No Longer Roll | 좋았던 시절이 더 이상 계속되지 않을 때 | 예정 |
+| 05 | Focus on the Lowest-Cost Funds | 최저비용 펀드에 집중하라 | [열기](chapter05-Focus-on-the-Lowest-Cost-Funds.md) |
+| 06 | Dividends Are the Investor's (Best?) Friend | 배당은 투자자의 (가장 좋은?) 친구 | [열기](chapter06-Dividends-Are-the-Investors-Best-Friend.md) |
+| 07 | The Grand Illusion | 거대한 착각 | [열기](chapter07-The-Grand-Illusion.md) |
+| 08 | Taxes Are Costs, Too | 세금도 비용이다 | [열기](chapter08-Taxes-Are-Costs-Too.md) |
+| 09 | When the Good Times No Longer Roll | 좋았던 시절이 더 이상 계속되지 않을 때 | [열기](chapter09-When-the-Good-Times-No-Longer-Roll.md) |
 
 ### 액티브 운용의 한계에 대한 실증 (10\~13장)
 
 | 장 | English Title | 한글 제목 | 링크 |
 |---|---|---|---|
-| 10 | Selecting Long-Term Winners | 장기적인 승자를 골라낼 수 있는가 | 예정 |
-| 11 | "Reversion to the Mean" | 평균으로의 회귀 | 예정 |
-| 12 | Seeking Advice to Select Funds? | 펀드 선택에 조언을 구해야 하는가 | 예정 |
-| 13 | Profit from the Majesty of Simplicity and Parsimony | 단순함과 절약의 위엄에서 이익을 얻어라 | 예정 |
+| 10 | Selecting Long-Term Winners | 장기적인 승자를 골라낼 수 있는가 | [열기](chapter10-Selecting-Long-Term-Winners.md) |
+| 11 | "Reversion to the Mean" | 평균으로의 회귀 | [열기](chapter11-Reversion-to-the-Mean.md) |
+| 12 | Seeking Advice to Select Funds? | 펀드 선택에 조언을 구해야 하는가 | [열기](chapter12-Seeking-Advice-to-Select-Funds.md) |
+| 13 | Profit from the Majesty of Simplicity and Parsimony | 단순함과 절약의 위엄에서 이익을 얻어라 | [열기](chapter13-Profit-from-the-Majesty-of-Simplicity-and-Parsimony.md) |
 
 ### 실전 상품 각론 (14\~17장)
 
 | 장 | English Title | 한글 제목 | 링크 |
 |---|---|---|---|
-| 14 | Bond Funds | 채권형 펀드 | 예정 |
-| 15 | The Exchange-Traded Fund (ETF) | 상장지수펀드(ETF) | 예정 |
-| 16 | Index Funds That Promise to Beat the Market | 시장을 이기겠다고 약속하는 인덱스 펀드 | 예정 |
-| 17 | What Would Benjamin Graham Have Thought about Indexing? | 벤저민 그레이엄이라면 인덱싱을 어떻게 생각했을까 | 예정 |
+| 14 | Bond Funds | 채권형 펀드 | [열기](chapter14-Bond-Funds.md) |
+| 15 | The Exchange-Traded Fund (ETF) | 상장지수펀드(ETF) | [열기](chapter15-The-Exchange-Traded-Fund-ETF.md) |
+| 16 | Index Funds That Promise to Beat the Market | 시장을 이기겠다고 약속하는 인덱스 펀드 | [열기](chapter16-Index-Funds-That-Promise-to-Beat-the-Market.md) |
+| 17 | What Would Benjamin Graham Have Thought about Indexing? | 벤저민 그레이엄이라면 인덱싱을 어떻게 생각했을까 | [열기](chapter17-What-Would-Benjamin-Graham-Have-Thought-about-Indexing.md) |
 
 ### 자산배분과 결론 (18\~20장)
 
 | 장 | English Title | 한글 제목 | 링크 |
 |---|---|---|---|
-| 18 | Asset Allocation I: Stocks and Bonds | 자산배분 I: 주식과 채권 | 예정 |
-| 19 | Asset Allocation II | 자산배분 II | 예정 |
-| 20 | Investment Advice That Meets the Test of Time | 시간의 시험을 견디는 투자 조언 | 예정 |
+| 18 | Asset Allocation I: Stocks and Bonds | 자산배분 I: 주식과 채권 | [열기](chapter18-Asset-Allocation-I-Stocks-and-Bonds.md) |
+| 19 | Asset Allocation II | 자산배분 II | [열기](chapter19-Asset-Allocation-II.md) |
+| 20 | Investment Advice That Meets the Test of Time | 시간의 시험을 견디는 투자 조언 | [열기](chapter20-Investment-Advice-That-Meets-the-Test-of-Time.md) |
 
 ※ 18\~20장은 10주년 개정증보판에서 새로 추가된 장으로, 2007년 초판 국내 번역본에는 없을 가능성이 높다.
 
